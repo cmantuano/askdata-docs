@@ -17,9 +17,4 @@ This section provides support to configure Askdata with custom messaging digital
 * [Confgure custom channel: Facebook Messenger](/docs/configure-custom-channel-facebook-messenger)
 
 ‍
-
-
-
     {% include links.html %}
-
-    
