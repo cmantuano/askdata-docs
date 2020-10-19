@@ -1,14 +1,14 @@
 
-    ---
-    title: Getting Started
-    keywords: documentation
-    last_updated: October 15th, 2020
-    tags: [getting_started]
-    sidebar: mydoc_sidebar
-    permalink: mydoc_about.html
-    ---
+---
+title: Getting Started
+keywords: documentation
+last_updated: October 15th, 2020
+tags: [getting_started]
+sidebar: mydoc_sidebar
+permalink: mydoc_about.html
+---
 
-    ### Getting Started
+### Getting Started
 
 With Askdata users ask questions in natural language and find answers across all their data.
 
@@ -26,13 +26,14 @@ The Askdata platform captures the knowledge, experience and best practices of th
 ###### **Natural Interaction**
 
 AskData uses modern AI and knowledge graph techniques to help users to surface useful answers proactively organized in modern feeds.  
-‍**Index data from all your datasources**
 
-**‍**Askdata provides state-of-the-art tools for indexing data dimensions and metrics from many disparate operational datasets.
+**Index data from all your datasources**
+
+Askdata provides state-of-the-art tools for indexing data dimensions and metrics from many disparate operational datasets.
 
 **Automated Configuration**
 
-**‍**Users can begin asking questions about their connected data instantly using AskData’s patent-pending natural language querying technology — no training needed.
+Users can begin asking questions about their connected data instantly using AskData’s patent-pending natural language querying technology — no training needed.
 
 **Secure**  
 Askdata administrators can define precise security rules for accessing data sets, fields, and even records, so that users only have access to authorized information at all times.
