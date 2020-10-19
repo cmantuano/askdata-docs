@@ -23,10 +23,14 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get started
-      url: /docs/get_started/index.html
+    - title: Home
+      url: /
       output: web, pdf
       type: homepage
+
+    - title: Get started
+      url: /docs/user-guide/index
+      output: web, pdf
 
     - title: Introduction
       url: /mydoc_introduction.html
