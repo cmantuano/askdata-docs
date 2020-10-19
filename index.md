@@ -20,18 +20,72 @@ Opoen a ticket: [Support Portal][https://askdata.atlassian.net/servicedesk/custo
 
 ## Official Guides
 
-### [User Guide][https://www.askdata.com/docs/user-guide]
-
+<div class="row">
+         <div class="col-lg-12">
+             <h2 class="page-header">Docs</h2>
+         </div>
+         <div class="col-md-3 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>Getting started</h4>
 For users: Learn how to search and explore data with Askdata
+                     <p></p>
+                     <a href="/docs/getting-started/" class="btn btn-primary">Learn More</a>
+                 </div>
+             </div>
+         </div>
+         <div class="col-md-3 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-car fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>Admin/Configuration</h4>
+                     <p>For Admins: Learn how to setup Askdata for your organization or community</p>
+                     <a href="/docs/admin-guide/" class="btn btn-primary">Learn More</a>
+                 </div>
+             </div>
+         </div>
+         <div class="col-md-3 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-support fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>SDK and API</h4>
+                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                     <a href="/docs/api-and-sdk/" class="btn btn-primary">Learn More</a>
+                 </div>
+             </div>
+         </div>
+         <div class="col-md-3 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>Video and Demos</h4>
+                     <p>Collecton of videos and demo of the Askdata platform</p>
+                     <a href="/docs/videos-and-demos.html" class="btn btn-primary">Learn More</a>
+                 </div>
+             </div>
+         </div>
+</div>
 
-### [Admin Guide][https://www.askdata.com/docs/admin]
 
-For Admins: Learn how to setup Askdata for your organization or community
 
-### [Video & Demo][https://www.askdata.com/docs/video-and-demo]
-
-For prospects: If you've never installed or run a Jekyll site locally on your computer, follow these instructions to install Jekyll:
-
-### [API & SDK][https://www.askdata.com/docs/api-and-sdk]
-
-For experts: Collection of documentation and libraries of functions designed to allow users to customize and extend Askdata
