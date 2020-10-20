@@ -4,38 +4,40 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
-permalink: mydoc_about.html
+permalink: dataset-list.html
 ---
 
 Latest Update - July 2020
 
-‍
+## Structured
+
 Big Query
-
-Intent Dataset
-
-Looker
-
-MEM SQL
-
-MicroStrategy
-
-Mongo DB
 
 MySQL
 
-POSTGRE SQL
-
-Q&A Dataset
+PostgreSQL
 
 Redshift
 
 Snowflake
 
+MEM SQL
+
+## Platforms
+
+Looker
+
+MicroStrategy
+
+## NoSQL
+
+Mongo DB
+
+## Conversational
+
+Q&A Dataset
+
 Survey
 
-
-
-    {% include links.html %}
-
+{% include links.html %}
     
