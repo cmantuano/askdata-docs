@@ -4,7 +4,6 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
-permalink: getting_started
 ---
 
 Welcome in the User Guide. This section of the documentation is specifically designed for end-users of Askdata.
@@ -31,9 +30,6 @@ Learn how to create new feeds, share and manage card and automations in it.
 
 Discover how powerful and easy is to share data cards and collaborate on agents and feeds.
 
-‍
-
-‍
 
 
 
