@@ -4,7 +4,6 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
-permalink: dataset-list.html
 ---
 
 Latest Update - July 2020
