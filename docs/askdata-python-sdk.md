@@ -4,7 +4,7 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
-permalink: mydoc_about.html
+
 ---
 
 Askdata Python client is a friendly Python library that helps developers, data scientists and engineers build and manage agent using Askdata platform.

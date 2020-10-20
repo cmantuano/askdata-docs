@@ -4,7 +4,7 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
-permalink: mydoc_about.html
+
 ---
 
     In order to dynamically transform the output of a value returned by a query without changing the data-source you can use the field **Value Formatting** available in your dimension property. 

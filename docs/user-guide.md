@@ -4,7 +4,6 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
-permalink: mydoc_about.html
 ---
 
     Welcome in the User Guide. This section of the documentation is specifically designed for end-users of Askdata.

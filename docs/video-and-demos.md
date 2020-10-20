@@ -4,7 +4,6 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
-permalink: mydoc_about.html
 ---
 
     Welcome in the Video and Demo. 
@@ -21,6 +20,6 @@ Watch how easy is making queries and collaborate from mobile
 
 
 
-    {% include links.html %}
+{% include links.html %}
 
     

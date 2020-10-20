@@ -4,7 +4,7 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
-permalink: mydoc_about.html
+
 ---
 
 ### I get the error, "I'm sorry, but you are not authorized to install Askdata."

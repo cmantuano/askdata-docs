@@ -1,13 +1,13 @@
-    ---
-    title: Getting started
-    keywords: documentation
-    last_updated: October 15th, 2020
-    tags: [getting_started]
-    sidebar: mydoc_sidebar
-    permalink: getting_started
-    ---
+---
+title: Getting started
+keywords: documentation
+last_updated: October 15th, 2020
+tags: [getting_started]
+sidebar: mydoc_sidebar
+permalink: getting_started
+---
 
-    Welcome in the User Guide. This section of the documentation is specifically designed for end-users of Askdata.
+Welcome in the User Guide. This section of the documentation is specifically designed for end-users of Askdata.
 
 Use those links to go from a novice level to and advanced users.
 

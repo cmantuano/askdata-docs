@@ -4,7 +4,6 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
-permalink: mydoc_about.html
 ---
 
 Welcome in the API Documentation. This section of the documentation is specifically designed for developers that wants to integrate they system or platform with Askdata Services via REST API.
