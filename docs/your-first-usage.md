@@ -6,7 +6,9 @@ tags: [getting_started]
 sidebar: mydoc_sidebar
 --- 
 
-### How to access Askdata
+## First Acess
+
+### How to access askdata
 
 You can start using Askdata using the link <https://app.askdata.com/> you can sign-in with your with your credentials or alternatively you can register your free Askdata account: <https://askdata.com/signup>
 
@@ -25,7 +27,6 @@ Home Feed will show the most recent data card along with the main information ab
 
 
 ![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f589e73f754a30dd3927ecc_V8qs9Pw8ehn1YkFm5boeE96sO0B9U0IxpHRxuMX-cIfKEsz39PBx49GjPCS1rtbx-pdOMFTFVfVYGJAc9AW58x-SuILYO2pvU66j01ARPYNiVFguRt7X7KoViaAb-8PLPGUdEr4n.png)‍
-
 
 
 {% include links.html %}

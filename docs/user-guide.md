@@ -6,11 +6,13 @@ tags: [getting_started]
 sidebar: mydoc_sidebar
 ---
 
-    Welcome in the User Guide. This section of the documentation is specifically designed for end-users of Askdata.
+## Getting Started
+
+Welcome in the User Guide. This section of the documentation is specifically designed for end-users of Askdata.
 
 Use those links to go from a novice level to and advanced users.
 
-##### [Getting Started](/docs/getting-started)
+##### [Main Concepts](/docs/main-concepts)
 
 Learn the basic concepts of Askdata such as Datasets, Feeds & Data Card
 
@@ -30,9 +32,6 @@ Learn how to create new feeds, share and manage card and automations in it.
 
 Discover how powerful and easy is to share data cards and collaborate on agents and feeds.
 
-‍
-
-‍
 
 
 

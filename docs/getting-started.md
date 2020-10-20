@@ -1,38 +1,46 @@
 ---
-title: Getting started
+title: User Guide
 keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
 ---
 
-Welcome in the User Guide. This section of the documentation is specifically designed for end-users of Askdata.
+## Getting Started
 
-Use those links to go from a novice level to and advanced users.
+With Askdata users ask questions in natural language and find answers across all their data.
 
-##### [Getting Started](/docs/getting-started)
+The Askdata platform captures the knowledge, experience and best practices of the world’s leading data analysts and data scientists to deliver unmatched levels of automation and ease-of-use for data initiatives.
 
-Learn the basic concepts of Askdata such as Datasets, Feeds & Data Card
+### Quick intro:
 
-##### [Your First Usage](/docs/your-first-usage)
+What is Askdata
+Who is Askdata for
 
-Move the first steps in an agent, discover the interface and make the first queries, feeds and data cards.
+Main Concepts
 
-##### [Searching Data](/docs/searching-data)
+### Main features:
 
-Learn how to search the data you need and what you can do with it!
+#### Natural Interaction:
 
-##### [Be productive with feeds](/docs/be-productive-with-feeds)
+AskData uses modern AI and knowledge graph techniques to help users to surface useful answers proactively organized in modern feeds.
+‍
+#### Index data from all your datasources:
 
-Learn how to create new feeds, share and manage card and automations in it.
+‍Askdata provides state-of-the-art tools for indexing data dimensions and metrics from many disparate operational datasets.
 
-##### [Working with others](/docs/working-with-others)
+#### Automated Configuration:
 
-Discover how powerful and easy is to share data cards and collaborate on agents and feeds.
+‍Users can begin asking questions about their connected data instantly using AskData’s patent-pending natural language querying technology — no training needed.
 
+#### Secure:
+Askdata administrators can define precise security rules for accessing data sets, fields, and even records, so that users only have access to authorized information at all times.
 
+#### Instant Connect:
+Modern organizations have data, stored in disconnected systems and in confusing structures and formats. We let people who rely on this data to make decisions don’t think in terms of queries, joins and data types.
 
+### Main platform use-cases:
 
-    {% include links.html %}
-
-    
+* Searching Data with Askdata‍
+* Automate Data Insights‍
+* Create hyper-personalized experiences
