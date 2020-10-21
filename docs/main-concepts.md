@@ -4,6 +4,7 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
+layout: doc
 ---
 
 ## Main Concepts
@@ -25,7 +26,7 @@ Channel
 
 An Askdata agent is the point-of-contact between the users and the data. The simplifier of the data user experience (UX).
 
-More: [What is an Askdata Agent?](docs/askdata.com)
+More: [What is an Askdata Agent?](docs/)
 
 2. Dataset
 
