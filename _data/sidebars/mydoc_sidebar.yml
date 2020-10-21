@@ -1,0 +1,105 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Askdata
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Home
+      url: /
+      output: web, pdf
+      type: homepage
+
+  - title: User Guide
+    output: web, pdf
+    folderitems:
+
+    - title: Getting Started
+      url: docs/getting-started
+      output: web, pdf
+
+    - title: Your First Usage
+      url: docs/your-first-usage
+      output: web, pdf
+
+    - title: Searching Data
+      url: docs/searching-data
+      output: web, pdf
+
+    - title: Be productive with feeds
+      url: docs/be-productive-with-feeds
+      output: web, pdf
+
+    - title: Working with others
+      url: docs/working-with-others
+      output: web, pdf
+
+  - title: Admin Guide
+    output: web, pdf
+
+    folderitems:
+    - title: Create an agent
+      url: docs/how-to-create-an-askdata-agent
+      output: web, pdf
+
+    - title: Connect your data
+      url: docs/how-to-connect-a-dataset
+      output: web, pdf
+
+    - title: Train a synonym
+      url: docs/how-to-train-a-synonym
+      output: web, pdf
+
+    - title: Advanced Configuration
+      url: docs/advanced-configurations
+      output: web, pdf
+
+  - title: Video & Demo
+    output: web, pdf
+
+    folderitems:
+    - title: Desktop
+      url: docs/askdata-webapp-video
+      output: web, pdf
+
+    - title: Mobile
+      url: docs/askdata-mobile-app-video-demo
+      output: web, pdf
+
+  - title: API & SDK
+    output: web, pdf
+
+    folderitems:
+    - title: API Documentation
+      url: docs/askdata-sdk
+      output: web, pdf
+
+    - title: SDK
+      url: docs/askdata-api
+      output: web, pdf
+
+  - title: Support
+    output: web, pdf
+
+    folderitems:
+    - title: Commenting on files
+      url: /mydoc_commenting_on_files.html
+      output: web, pdf
