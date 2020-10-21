@@ -15,7 +15,7 @@
           {% assign revised_url = page.url | remove: ".html" }
           {% assign url_to_compare = folderitem.url | prepend: "/" }
           {% elsif revised_url == url_to_compare %}
-          <li class="active"><a title="{{folderitem.title}}" href="https://docs.askdata.com/{{folderitem.url}}">{{folderitem.title}}</a></li>
+          <li class="active"><a title="{{folderitem.title}}" href="https://docs.askdata.com/{{folderitem.url}}">{{revised_url}}</a></li>
           {% elsif folderitem.type == "empty" %}
           <li><a title="{{folderitem.title}}" href="https://docs.askdata.com/{{folderitem.url}}">{{folderitem.title}}</a></li>
 
