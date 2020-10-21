@@ -36,9 +36,9 @@ social_image_path:  /docs/4.5/assets/brand/bootstrap-social.png
 social_logo_path:   /docs/4.5/assets/brand/bootstrap-social-logo.png
 
 # Custom variables
-current_version:      1.0
+current_version:      4.5.3
 current_ruby_version: 4.5.3
-docs_version:         1.0
+docs_version:         4.5
 github_org:           "https://github.com/askdataHq"
 repo:                 "https://github.com/askdataHq/docs"
 slack:                "https://slack.askdata.com"
