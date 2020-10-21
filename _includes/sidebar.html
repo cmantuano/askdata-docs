@@ -12,10 +12,12 @@
           {% if folderitem.output contains "web" %}
           {% if folderitem.external_url %}
           <li><a title="{{folderitem.title}}" href="{{folderitem.external_url}}" target="_blank" rel="noopener">{{folderitem.title}}</a></li>
+          
           {% assign revised_url = page.url | remove: ".html" }
           {% assign url_to_compare = folderitem.url | prepend: "/" }
+          
           {% elsif revised_url == url_to_compare %}
-          <li class="active"><a title="{{folderitem.title}}" href="https://docs.askdata.com/{{folderitem.url}}">{{revised_url}}</a></li>
+          <li class="active"><a title="{{folderitem.title}}" href="https://docs.askdata.com/{{folderitem.url}}">{{folderitem.title}}</a></li>
           {% elsif folderitem.type == "empty" %}
           <li><a title="{{folderitem.title}}" href="https://docs.askdata.com/{{folderitem.url}}">{{folderitem.title}}</a></li>
 
@@ -32,8 +34,9 @@
                   {% if subfolderitem.output contains "web" %}
                   {% if subfolderitem.external_url %}
                   <li><a title="{{subfolderitem.title}}" href="{{subfolderitem.external_url}}" target="_blank" rel="noopener">{{subfolderitem.title}}</a></li>
-                  {% elsif page.url == subfolderitem.url %}
-                  <li class="active"><a title="{{subfolderitem.title}}" href="https://docs.askdata.com/{{subfolderitem.url | remove: "/"}}">{{subfolderitem.title}}</a></li>
+                  {% assign sub_url = subfolderitem.url | prepend: "/" }
+                  {% elsif revised_url == sub_url %}
+                  <li class="active"><a title="{{subfolderitem.title}}" href="https://docs.askdata.com/{{subfolderitem.url}}">{{subfolderitem.title}}</a></li>
                   {% else %}
                   <li><a title="{{subfolderitem.title}}" href="https://docs.askdata.com/{{subfolderitem.url}}">{{subfolderitem.title}}</a></li>
                   {% endif %}
