@@ -12,8 +12,9 @@
           {% if folderitem.output contains "web" %}
           {% if folderitem.external_url %}
           <li><a title="{{folderitem.title}}" href="{{folderitem.external_url}}" target="_blank" rel="noopener">{{folderitem.title}}</a></li>
-          {% assign revised_url = page.url | remove: ".html"}
-          {% elsif revised_url == folderitem.url %}
+          {% assign revised_url = page.url | remove: ".html" }
+          {% assign url_to_compare = folderitem.url | prepend: "/" }
+          {% elsif revised_url == url_to_compare %}
           <li class="active"><a title="{{folderitem.title}}" href="https://docs.askdata.com/{{folderitem.url}}">{{folderitem.title}}</a></li>
           {% elsif folderitem.type == "empty" %}
           <li><a title="{{folderitem.title}}" href="https://docs.askdata.com/{{folderitem.url}}">{{folderitem.title}}</a></li>
