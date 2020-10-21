@@ -20,6 +20,7 @@
           {% else %}
           <li><a title="{{folderitem.title}}" href="https://docs.askdata.com/{{folderitem.url}}">{{folderitem.title}}</a></li>
           {% endif %}
+          
           {% for subfolders in folderitem.subfolders %}
           {% if subfolders.output contains "web" %}
           <li class="subfolders">
