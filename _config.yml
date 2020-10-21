@@ -1,117 +1,74 @@
-repository: AskdataHQ/docs
+# Dependencies
+markdown:       kramdown
+highlighter:    rouge
 
-output: web
-# this property is useful for conditional filtering of content that is separate from the PDF.
-
-topnav_title: Askdata documentation
-# this appears on the top navigation bar next to the home button
-
-site_title: Platform documentation
-# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
-
-company_name: Askdata Inc.
-# this appears in the footer
-
-github_editme_path: AskdataHQ/docs/tree/gh-pages/
-# if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
-
-# gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
-# if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
-
-google_analytics: 
-# if you have google-analytics ID, put it in. if not, edit this value to blank.
-
-host: 127.0.0.1
-# the preview server used. Leave as is.
-
-port: 4000
-# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
-
-exclude:
-  - .idea/
-  - .gitignore
-  - vendor
-# these are the files and directories that jekyll will exclude from the build
-
-feedback_subject_line: Jekyll documentation theme
-
-feedback_email: support@askdata.com
-# used as a contact email for the Feedback link in the top navigation bar
-
-# feedback_disable: true
-# if you uncomment the previous line, the Feedback link gets removed
-
-# feedback_text: "Need help?"
-# if you uncomment the previous line, it changes the Feedback text
-
-# feedback_link: "http://helpy.io/"
-# if you uncomment the previous line, it changes where the feedback link points to
-
-highlighter: rouge
-# library used for syntax highlighting
-
-markdown: kramdown
 kramdown:
- input: GFM
- auto_ids: true
- hard_wrap: false
- syntax_highlighter: rouge
+  auto_ids:     true
 
-# filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
+# Permalinks
+permalink:      pretty
 
-collections:
-  tooltips:
-    output: false
-# collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
+# Server
+source:         "site"
+destination:    ./_gh_pages
+host:           "localhost"
+port:           9001
+baseurl:        ""
+url:            "https://docs.askdata.com"
+encoding:       UTF-8
+exclude:
+  - docs/4.5/assets/scss/
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "docs"
-    values:
-      layout: "doc"
-      comments: false
-      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
-      search: true
-      sidebar: home_sidebar
-      topnav: topnav
-  -
-    scope:
-      path: ""
-      type: "tooltips"
-    values:
-      layout: "page"
-      search: true
-      tooltip: true
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-toc
 
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true
-      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
-      search: true
-      sidebar: home_sidebar
-      topnav: topnav
+redirect_from:
+  json: false
 
-# these are defaults used for the frontmatter for these file types
+# Social
+title:              Askdata
+description:        "Automated Answers from Data. With Askdata you search and explore insights through all your data"
+twitter:            askdataINC
+authors:            "Simone Di Somma and the Askdata team"
+social_image_path:  /docs/4.5/assets/brand/bootstrap-social.png
+social_logo_path:   /docs/4.5/assets/brand/bootstrap-social-logo.png
 
-sidebars:
-- home_sidebar
-- mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
-- other
+# Custom variables
+current_version:      4.5.3
+current_ruby_version: 4.5.3
+docs_version:         4.5
+github_org:           "https://github.com/askdataHq"
+repo:                 "https://github.com/askdataHq/docs"
+slack:                "https://slack.askdata.com"
+opencollective:       "https://opencollective.com/"
+blog:                 "https://wwww.askdata.com/blog"
+expo:                 "https://expo.getbootstrap.com"
+themes:               "https://themes.getbootstrap.com"
+icons:                "https://icons.getbootstrap.com"
 
-description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
-# the description is used in the feed.xml file
+download:
+  source:           "https://github.com/twbs/bootstrap/archive/v4.5.3.zip"
+  dist:             "https://github.com/twbs/bootstrap/releases/download/v4.5.3/bootstrap-4.5.3-dist.zip"
+  dist_examples:    "https://github.com/twbs/bootstrap/releases/download/v4.5.3/bootstrap-4.5.3-examples.zip"
 
-# needed for sitemap.xml file only
-url: http://docs.askdata.com
-# baseurl: /documentation-theme-jekyll
+cdn:
+  # See https://www.srihash.org for info on how to generate the hashes
+  css:              "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+  css_hash:         "sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2"
+  js:               "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js"
+  js_hash:          "sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s"
+  js_bundle:        "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+  js_bundle_hash:   "sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
+  jquery:           "https://code.jquery.com/jquery-3.5.1.slim.min.js"
+  jquery_hash:      "sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+  popper:           "https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+  popper_hash:      "sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
 
-
-github: [metadata]
+toc:
+  min_level:        2
+  max_level:        4
+  no_toc_section_class:
+    - "bd-callout"
+    - "bd-example"
