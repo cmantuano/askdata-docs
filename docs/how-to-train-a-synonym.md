@@ -4,10 +4,9 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
-
 ---
 
-    **Training the Askdata agent**
+**Training the Askdata agent**
 
 Open the Askdata Console and select one agent where you have admin rights.
 
@@ -23,10 +22,6 @@ Click on the entity (dimension) or measure that you want to train with an additi
 
 *In that case, you have to set the "Import Values" setting to true in the dimension and save. And, check the list of values in the "View values" section in the related dimension.*
 
-‍
-
-
-
-    {% include links.html %}
+{% include links.html %}
 
     
