@@ -35,7 +35,7 @@ Opoen a ticket: [Support Portal][https://askdata.atlassian.net/servicedesk/custo
                      <h4>Getting started</h4>
 For users: Learn how to search and explore data with Askdata
                      <p></p>
-                     <a href="/docs/getting-started/" class="btn btn-primary">Learn More</a>
+                     <a href="/docs/getting-started" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -50,7 +50,7 @@ For users: Learn how to search and explore data with Askdata
                  <div class="panel-body">
                      <h4>Admin/Configuration</h4>
                      <p>For Admins: Learn how to setup Askdata for your organization or community</p>
-                     <a href="/docs/admin-guide/" class="btn btn-primary">Learn More</a>
+                     <a href="/docs/admin-guide" class="btn btn-primary">User Guide</a>
                  </div>
              </div>
          </div>
@@ -64,8 +64,8 @@ For users: Learn how to search and explore data with Askdata
                  </div>
                  <div class="panel-body">
                      <h4>SDK and API</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                     <a href="/docs/api-and-sdk/" class="btn btn-primary">Learn More</a>
+                     <p>Collection of libraries and classes to speed-up integration</p>
+                     <a href="/docs/api-and-sdk" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -80,7 +80,7 @@ For users: Learn how to search and explore data with Askdata
                  <div class="panel-body">
                      <h4>Video and Demos</h4>
                      <p>Collecton of videos and demo of the Askdata platform</p>
-                     <a href="/docs/videos-and-demos.html" class="btn btn-primary">Learn More</a>
+                     <a href="/docs/videos-and-demos" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
