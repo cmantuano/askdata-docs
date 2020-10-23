@@ -1,5 +1,5 @@
 ---
-title: "Official docs for Askdata: Your data, instantly valuable"
+title: "Official Docs: Your data, instantly valuable"
 keywords: homepage documentation docs
 tags: [getting_started]
 sidebar: mydoc_sidebar
@@ -7,87 +7,74 @@ permalink: index.html
 summary: This is the go-to guide on asking questions and sharing data cards using Askdata. You’ll learn in depth about how questions are expressed, how to chart data cards, as well as how to share data cards and create feeds.
 ---
 
-Askdata is a poweful but simple interace that let your team to interact with data as they would search on Google.
+Askdata is a powerful but simple interace that let your team to interact with data as they would search on Google.
 
-## Getting Help
+This is the go-to guide on asking questions and sharing data cards using Askdata. You’ll learn in depth about how questions are expressed, how to chart data cards, as well as how to share data cards and create feeds.
 
-https://docs.askdata.com/images/illustrations/guides
-
-## Official Guides
 
 <div class="row">
          <div class="col-lg-12">
-             <h2 class="page-header">Docs</h2>
+             <h2 class="page-header">Official Docs</h2>
          </div>
-         <div class="col-md-3 col-sm-6">
+	<div class="col-md-3 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <span class="fa-stack fa-5x">
-                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
-                     </span>
+                     <a href="/docs/getting-started"> <img src="/images/illustrations/guides/Getting Started.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
-                     <h4>Getting started</h4>
-For users: Learn how to search and explore data with Askdata
-                     <p></p>
-                     <a href="/docs/getting-started" class="btn btn-primary">Learn More</a>
+                     <h4 id="getting-started">Getting started<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/getting-started" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<b>For users:</b> Learn how to search and explore data with Askdata<p></p>
+                     <a href="/docs/getting-started" class="btn btn-primary">Getting Started</a>
                  </div>
              </div>
          </div>
-         <div class="col-md-3 col-sm-6">
+	<div class="col-md-3 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <span class="fa-stack fa-5x">
-                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-car fa-stack-1x fa-inverse"></i>
-                     </span>
+                     <a href="/docs/admin-guide"> <img src="/images/illustrations/guides/Admin.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
-                     <h4>Admin/Configuration</h4>
-                     <p>For Admins: Learn how to setup Askdata for your organization or community</p>
-                     <a href="/docs/admin-guide" class="btn btn-primary">User Guide</a>
+                     <h4 id="getting-started">Admin Guide<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/admin-guide" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<b>For users:</b> Learn how to search and explore data with Askdata<p></p>
+                     <a href="/docs/admin-guide" class="btn btn-primary">Admin Guide</a>
                  </div>
              </div>
          </div>
-         <div class="col-md-3 col-sm-6">
+	<div class="col-md-3 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <span class="fa-stack fa-5x">
-                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-support fa-stack-1x fa-inverse"></i>
-                     </span>
+                     <a href="/docs/sdk-and-api"> <img src="/images/illustrations/guides/SDK.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
-                     <h4>SDK and API</h4>
-                     <p>Collection of libraries and classes to speed-up integration</p>
-                     <a href="/docs/api-and-sdk" class="btn btn-primary">Learn More</a>
+                     <h4 id="getting-started">SDK and APIs<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/sdk-and-api" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<b>For users:</b> Learn how to search and explore data with Askdata<p></p>
+                     <a href="/docs/sdk-and-api" class="btn btn-primary">SDK and APIs</a>
                  </div>
              </div>
          </div>
-         <div class="col-md-3 col-sm-6">
+	<div class="col-md-3 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <span class="fa-stack fa-5x">
-                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-database fa-stack-1x fa-inverse"></i>
-                     </span>
+                     <a href="/docs/video-and-demos"> <img src="/images/illustrations/guides/Video.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
-                     <h4>Video and Demos</h4>
-                     <p>Collecton of videos and demo of the Askdata platform</p>
-                     <a href="/docs/videos-and-demos" class="btn btn-primary">Learn More</a>
+                     <h4 id="getting-started">Videos and Demos<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/videos-and-demo" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<b>For users:</b> Learn how to search and explore data with Askdata<p></p>
+                     <a href="/docs/videos-and-demo" class="btn btn-primary">Videos and Demo</a>
                  </div>
              </div>
          </div>
 </div>
 
-
 ### FAQ
-Frequently asked questions about Askdata.
+Frequently asked questions about Askdata: [FAQ](/faq)
 
 ### Support
+
 Join our Community Slack channel: [Askdata Community](https://slack.askdata.com/)
+
 Drop us an e-mail: support *AT* askdata *DOT* com
+
 Technical assistance? Open a ticket: [Support Portal](https://askdata.atlassian.net/servicedesk/customer/portal/4)
-Need more support? [Request Support][/support]
+
+Need more support? [Request Support](/support)
