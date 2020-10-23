@@ -7,15 +7,11 @@ permalink: index.html
 summary: This is the go-to guide on asking questions and sharing data cards using Askdata. You’ll learn in depth about how questions are expressed, how to chart data cards, as well as how to share data cards and create feeds.
 ---
 
+Askdata is a poweful but simple interace that let your team to interact with data as they would search on Google.
+
 ## Getting Help
 
-### FAQ
-Frequently asked questions about Askdata.
-
-### Support
-Join our Community Slack channel: [Askdata Community][https://slack.askdata.com/]
-Drop us an e-mail: supoort AT askdata DOT com
-Opoen a ticket: [Support Portal][https://askdata.atlassian.net/servicedesk/customer/portal/4] 
+https://docs.askdata.com/images/illustrations/guides
 
 ## Official Guides
 
@@ -87,4 +83,11 @@ For users: Learn how to search and explore data with Askdata
 </div>
 
 
+### FAQ
+Frequently asked questions about Askdata.
 
+### Support
+Join our Community Slack channel: [Askdata Community](https://slack.askdata.com/)
+Drop us an e-mail: support *AT* askdata *DOT* com
+Technical assistance? Open a ticket: [Support Portal](https://askdata.atlassian.net/servicedesk/customer/portal/4)
+Need more support? [Request Support][/support]
