@@ -88,12 +88,12 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: API Documentation
+    - title: SDK Documentation
       url: docs/askdata-sdk
       output: web, pdf
 
-    - title: SDK
-      url: docs/askdata-api
+    - title: API Documentation
+      url: docs/api-documentation
       output: web, pdf
 
   - title: Support
