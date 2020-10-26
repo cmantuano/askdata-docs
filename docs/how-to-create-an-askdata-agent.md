@@ -7,28 +7,18 @@ sidebar: mydoc_sidebar
 
 ---
 
-    #### Console Access:
+### Console Access:
 
 To kick-start the creation of an agent we suggest to use the web admin **console**, connect to the site<https://console.askdata.com>. 
 
 Through the console, enabled users (Editor) can create new Agents and configure them.  
 
-
 End users (Viewer) connect to the web **App** at <https://app.askdata.com>. Using the web client or the native Apps for Android and iOS, users query the Agent and access the published content but cannot modify the agent configuration.  
-
 
 
 * **Console**: <https://console.askdata.com>
 * **App**: <https://app.askdata.com>
 
-‍
-
-‍
-
-‍
-
-
-
-    {% include links.html %}
+{% include links.html %}
 
     
