@@ -4,7 +4,7 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [admin_guide]
 sidebar: mydoc_sidebar
-layout: docs
+layout: doc
 ---
 
 Welcome in the Admin Guide. This section of the documentation is specifically designed for Agent creators (and Admins)
