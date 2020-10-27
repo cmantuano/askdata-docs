@@ -7,7 +7,7 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-Welcome in the Admin Guide. This section of the documentation is specifically designed for Agent creators (and Admins)
+Welcome in the *Admin Guide*. This section of the documentation is specifically designed for *Agent creators (and Admins)*
 
 Use those links to go from a novice level to and advanced users.
 
@@ -27,16 +27,6 @@ Learn how to train a new synonym and improve the understanding of your agent
 
 Learn how to create complex data connections and rules
 
-‍
-
-‍
-
-‍
-
-### ‍
-
-
-
-    {% include links.html %}
+{% include links.html %}
 
     
