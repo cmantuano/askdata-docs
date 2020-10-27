@@ -4,6 +4,7 @@ keywords: documentation
 last_updated: October 26th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
+layout: doc
 ---
 
 ### What is Askdata in 140 chars

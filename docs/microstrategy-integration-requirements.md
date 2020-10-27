@@ -4,6 +4,7 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
+layout: doc
 ---
 
 **Askdata and MicroStrategy integration requirements:**
@@ -20,6 +21,4 @@ Data cubes and reports can be integrated according with two integration patterns
 
 
 
-    {% include links.html %}
-
-    
+{% include links.html %}

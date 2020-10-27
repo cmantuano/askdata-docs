@@ -4,7 +4,7 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
-
+layout: doc
 ---
 
     Click on the new dataset you have to configure and select "Connection"
