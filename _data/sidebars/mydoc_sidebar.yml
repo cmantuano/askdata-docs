@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: Home
-      url: /
+      url: index
       output: web, pdf
       type: homepage
 
@@ -96,10 +96,14 @@ entries:
       url: docs/api-documentation
       output: web, pdf
 
-  - title: Support
+  - title: Support and FAQ
     output: web, pdf
 
     folderitems:
-    - title: Commenting on files
-      url: /mydoc_commenting_on_files.html
+    - title: Request Support
+      url: support
+      output: web, pdf
+      
+    - title: FAQs
+      url: faq
       output: web, pdf
