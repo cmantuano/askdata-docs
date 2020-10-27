@@ -66,15 +66,4 @@ This is the go-to guide on asking questions and sharing data cards using Askdata
          </div>
 </div>
 
-### FAQ
-Frequently asked questions about Askdata: [FAQ](/faq)
-
-### Support
-
-Join our Community Slack channel: [Askdata Community](https://slack.askdata.com/)
-
-Drop us an e-mail: support *AT* askdata *DOT* com
-
-Technical assistance? Open a ticket: [Support Portal](https://askdata.atlassian.net/servicedesk/customer/portal/4)
-
-Need more support? [Request Support](/support)
+[FAQ](/faq) and [Support Aavailable](/support).
