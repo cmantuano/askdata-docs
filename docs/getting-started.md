@@ -15,6 +15,6 @@ The Askdata platform captures the knowledge, experience and best practices of th
 
 ### Quick intro:
 
-[What is Askdata](what-is-an-askdata-agent)
-[Main Concepts of the platform](main-concepts)
-[Main Features](main-features-of-the-askdata-platform)
+* [What is Askdata](what-is-an-askdata-agent)
+* [Main Concepts of the platform](main-concepts)
+* [Main Features](main-features-of-the-askdata-platform)
