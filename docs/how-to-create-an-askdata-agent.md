@@ -4,15 +4,14 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
-layout: docs
-
+layout: doc
 ---
 
 ### Console Access:
 
-To kick-start the creation of an agent we suggest to use the web admin **console**, connect to the site<https://console.askdata.com>. 
+To create an Askdata agent we suggest to use the web admin **console**, connect to the site<https://console.askdata.com>.
 
-Through the console, enabled users (Editor) can create new Agents and configure them.  
+Through the console, editors can create new Agents and configure them.  
 
 End users (Viewer) connect to the web **App** at <https://app.askdata.com>. Using the web client or the native Apps for Android and iOS, users query the Agent and access the published content but cannot modify the agent configuration.  
 
@@ -20,6 +19,9 @@ End users (Viewer) connect to the web **App** at <https://app.askdata.com>. Usin
 * **Console**: <https://console.askdata.com>
 * **App**: <https://app.askdata.com>
 
-{% include links.html %}
+### Additional resources:
 
-    
+[What is an Askdat agent](/docs/what-is-an-askdata-agent)
+[Askdata Main Concepts](/docs/main-concepts)
+
+{% include links.html %}
