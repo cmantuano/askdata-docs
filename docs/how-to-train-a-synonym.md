@@ -4,7 +4,7 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
-layout: docs
+layout: doc
 ---
 
 **Training the Askdata agent**
@@ -24,5 +24,3 @@ Click on the entity (dimension) or measure that you want to train with an additi
 *In that case, you have to set the "Import Values" setting to true in the dimension and save. And, check the list of values in the "View values" section in the related dimension.*
 
 {% include links.html %}
-
-    
