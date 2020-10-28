@@ -5,13 +5,10 @@ last_updated: October 15th, 2020
 tags: [getting_started]
 sidebar: mydoc_sidebar
 layout: doc
-
 ---
 
-    A little Data Preparation need to be performed in order to have your data up-and-running
+A little Data Preparation need to be performed in order to have your data up-and-running
 
-
-
-    {% include links.html %}
+{% include links.html %}
 
     
