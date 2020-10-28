@@ -7,20 +7,14 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-    Welcome in the Video and Demo. 
+Welcome in the Video and Demo. 
 
-##### [Desktop App](/docs/askdata-webapp-video)
+### [Desktop App](/docs/askdata-webapp-video)
 
 Watch and learn the main features of the Desktop App
 
-##### [Mobile App](/docs/askdata-mobile-app-video-demo)
+### [Mobile App](/docs/askdata-mobile-app-video-demo)
 
 Watch how easy is making queries and collaborate from mobile
 
-‍
-
-
-
 {% include links.html %}
-
-    

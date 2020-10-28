@@ -9,7 +9,7 @@ layout: doc
 
 Askdata Python client is a friendly Python library that helps developers, data scientists and engineers build and manage agent using Askdata platform.
 
-### Getting Started with the Askdata Python SDK
+# Getting Started with the Askdata Python SDK
 
 Getting up and running with Askdata python client is easy. Install client from [pypi](https://pypi.org/project/askdata/):
 
