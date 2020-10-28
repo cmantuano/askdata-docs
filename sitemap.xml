@@ -13,6 +13,10 @@ search: exclude
   {% endunless %}
   {% endfor %}
 
+  <url>
+    <loc>https://docs.askdata.com</loc>
+  </url>
+  
   {% for page in site.docs %}
   {% unless page.search == "exclude" %}
   <url>
