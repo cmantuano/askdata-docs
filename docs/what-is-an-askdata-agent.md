@@ -2,7 +2,7 @@
 title: What is an Askdata
 keywords: documentation
 last_updated: October 26th, 2020
-tags: [getting_started]
+tags: [getting-started]
 sidebar: mydoc_sidebar
 layout: doc
 ---

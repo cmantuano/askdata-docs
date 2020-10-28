@@ -2,7 +2,7 @@
 title: Does Askdata Access my data
 keywords: documentation
 last_updated: October 22nd, 2020
-tags: [getting_started]
+tags: [getting-started]
 sidebar: mydoc_sidebar
 layout: docs
 ---

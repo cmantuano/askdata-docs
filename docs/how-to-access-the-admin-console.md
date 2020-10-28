@@ -2,7 +2,7 @@
 title: How to access the admin console
 keywords: documentation
 last_updated: October 15th, 2020
-tags: [getting_started]
+tags: [admin-guide]
 sidebar: mydoc_sidebar
 layout: doc
 

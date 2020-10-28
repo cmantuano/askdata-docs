@@ -2,7 +2,7 @@
 title: Your first usage
 keywords: documentation
 last_updated: October 15th, 2020
-tags: [getting_started]
+tags: [getting-started]
 sidebar: mydoc_sidebar
 layout: doc
 --- 
