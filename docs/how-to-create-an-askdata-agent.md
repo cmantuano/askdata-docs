@@ -21,7 +21,7 @@ End users (Viewer) connect to the web **App** at <https://app.askdata.com>. Usin
 
 ### Additional resources:
 
-[What is an Askdat agent](/docs/what-is-an-askdata-agent)
-[Askdata Main Concepts](/docs/main-concepts)
+* [What is an Askdat agent](/docs/what-is-an-askdata-agent)
+* [Askdata Main Concepts](/docs/main-concepts)
 
 {% include links.html %}
