@@ -16,9 +16,7 @@ Users can **query the data** at any time through the search bar. The Agent searc
 In order to enable users to quickly find and select the information they need, when the user is typing the query system provides useful suggestions like most **frequent queries** similar to the ones the user is writing (drop-down menu) and the **autocomplete** of the query with the entities the system is aware.
 
   
-
-
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f589e7323cb2f864d8255ba_h2a-XpzK_C3KvhIJtYPPBQq0yRnpQvdl2pslII-9s3qrw5i6Fl_X_2rC75IYzwWk4-1GHDjswOZ1vFAUV_lerFfe4YXv8GuU7cR7Qw8ZQkz-7S648R1HjEfNckamTvxRIo6jLvFE.png)‍
+![](media/search-data_searchbar.gif)
 
 ### Comment
 
