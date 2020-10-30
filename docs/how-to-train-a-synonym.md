@@ -17,6 +17,8 @@ After the opening of the contextual modal click on **Schema**.
 
 Click on the entity (dimension) or measure that you want to train with an additional synomym and add them in the “Synonyms” fields. Synonyms are not case sensitive.
 
+!["updating name and adding synonyms"](media/updating_name_and_adding_sysnonyms.gif)
+
 *Suggestion: to avoid confusion always add the measure\metric name in the list of avaialbe synomyms*
 
 *You can also add a synonym for specific values eg. to add the synonym "Great Apple" to the value "New York" inside the dimension "Cities".* 
