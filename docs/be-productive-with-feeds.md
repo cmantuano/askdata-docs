@@ -19,7 +19,9 @@ Users can create **public** or **private** feeds. Public feeds created by a user
 
 #### How to create a Feed
 
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f589e7433cdb6653845a936_UoDFZZej3GajgQs7Kj1i08uRrq0aU_nUHy6sMJZnJUj9LQFzjnAD_WiY8E7O23a6_2H8IUalT83Q_nNyWh-EVIBy9I62_hdbMdVXsv2tJjPQ52NXd5vQc54SRQwTMAbnDtGlya2p.png)To **create** a new feed, from the Home:
+!["create feed"](media/create_feed.gif)
+
+To **create** a new feed, from the Home:
 
 
 * click the “Feeds" button 
@@ -35,14 +37,14 @@ If the autofollow property is set to "yes" the new Feed is automatically followe
 
 A feed can be shared with a **specified set of users**. To share the feed, from the home select the “Feeds” button (“All feeds” list is shown), then select the feed you want to share, from the feed details view select “Collaborators”. The list of system users appear from which selecting users to share the feed with 
 
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f589e74454eca4eb52eb94e_dKf9KmqPSuomyINjEFK7zYvhWUJZeagkNeXyJwvzPT7JW0ds5wEgyVWndkpJzaTafewJSwMVpQylDzpBWipPo8WvLZtBSOTgnK9WTAikM10TG22zVsxNFi6UCpGOoTgztc3H-f5U.png)  
+!["share feed"](media/share_feed.gif)
 
 
 ### Delete
 
 As well as to share a Feed, to delete a Feed, from the home, select the “Feeds” button (“All feeds” list is shown), then select the feed you want to delete, from the feed details view select the three-dots menu and press the button “Delete Feed”. 
 
-‍
+!["delete feed"](media/delete_feed.gif)
 
 
 
