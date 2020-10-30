@@ -26,8 +26,7 @@ The Application is composed by different features:
 
 Home Feed will show the most recent data card along with the main information about the agent like the number of datasets and feeds. It’s also a good starting point to explore AI-driven curated feeds and queries.
 
-
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f589e73f754a30dd3927ecc_V8qs9Pw8ehn1YkFm5boeE96sO0B9U0IxpHRxuMX-cIfKEsz39PBx49GjPCS1rtbx-pdOMFTFVfVYGJAc9AW58x-SuILYO2pvU66j01ARPYNiVFguRt7X7KoViaAb-8PLPGUdEr4n.png)‍
+![](media/your-first-usage_main.png)
 
 
 {% include links.html %}
