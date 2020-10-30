@@ -7,25 +7,24 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-### What is Askdata in 140 chars
+## Askdata definition
+### Askdata in 140 chars
 
-Askdata is not so different from a social network or a messaging app. 
-You get all your data in one place: Instantly searchable.
+Askdata is the social network of data, you get all your data in one place instantly searchable.
 
 <img src="https://docs.askdata.com/images/illustrations/docs/What-is-askdata.png" style="max-width:260px" />
 
-### More complex definition
+### The platform's mission
 
-Our mission is to remove the cognitive friction between humans and data.
-Basically Askdata empowers humans to interact with data in the most natural way.
+Our mission is to remove the cognitive friction between humans and data. Basically Askdata empowers humans to interact with data in the most natural way.
 
 ## Main Concepts
 
 Let’s discover the main concepts
 
-#### Agents
-#### Datasets
-#### Data Card
-#### Feed
+### [Agents](/docs/main-concepts#1-askdata-agent)
+### [Datasets](/docs/main-concepts#2-dataset)
+### [Data Card](/docs/main-concepts#3-data-card)
+### [Feed](/docs/main-concepts#4-feeds)
 
-[Read more about the main concept](main-concepts)
+[Read more about the main concept](/docs/main-concepts)

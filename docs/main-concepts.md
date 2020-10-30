@@ -19,15 +19,16 @@ More: [What is an Askdata Agent?](docs/askdata.com)
 
 A dataset is the representation of a datasource. A dataset can be a datasource such as a MySQL table or a Google Big Query dataset. The platform supports many different sources of data.
 
-### More: What is an Askdata Dataset?
+** More:**
 
-A list of available datasets can be found here.
+* [What is an Askdata Dataset](/docs/what-is-a-dataset)
+* [List of datasets generally available](https://www.askdata.com/datasets).
 
 ### 3. Data Card
 
 A card is a cognitive friendly card generated automatically by the Askdata platform to fullfill a query of the user or through an automated data insights creation process.
 
-More info: What is an Askdata Data Card?
+**More info: ** What is an Askdata Data Card?
 
 ### 4. Feeds
 
