@@ -13,13 +13,15 @@ layout: doc
 
 An Askdata agent is the point-of-contact between the users and the data. The simplifier of the data user experience (UX).
 
-More: [What is an Askdata Agent?](docs/askdata.com)
+**Read more:**
+
+* [What is an Askdata Agent?](docs/askdata.com)
 
 ### 2. Dataset
 
 A dataset is the representation of a datasource. A dataset can be a datasource such as a MySQL table or a Google Big Query dataset. The platform supports many different sources of data.
 
-** More:**
+**Read more:**
 
 * [What is an Askdata Dataset](/docs/what-is-a-dataset)
 * [List of datasets generally available](https://www.askdata.com/datasets).
@@ -28,13 +30,17 @@ A dataset is the representation of a datasource. A dataset can be a datasource s
 
 A card is a cognitive friendly card generated automatically by the Askdata platform to fullfill a query of the user or through an automated data insights creation process.
 
-**More info: ** What is an Askdata Data Card?
+**Read more:**
+
+* [What is an Askdata Data Card](/docs/what-is-a-datacard)
 
 ### 4. Feeds
 
 A feed is a stream of data cards. Feeds can be public (discoverable) or private (only accessible if invited).
 
-More info: [What is an Askdata Feed](/what-is-an-askdata-feed)
+**Read More:**
+
+[What is an Askdata Feed](/docs/what-is-an-askdata-feed)
 
 ## Advanced Concepts 
 
