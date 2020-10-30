@@ -26,7 +26,7 @@ Different datasets can be connected to one Askdata agent that will become the un
 
 We natively support many datasets such as **Looker** and **MicroStrategy**, the full list here: [supported datasets](https://www.askdata.com/datasets).
 
-** More resources:**
+**More resources:**
 
 * [How to configure a dataset](/docs/how-to-connect-a-dataset)
 
