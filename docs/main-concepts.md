@@ -15,7 +15,7 @@ An Askdata agent is the point-of-contact between the users and the data. The sim
 
 **Read more:**
 
-* [What is an Askdata Agent?](docs/askdata.com)
+* [What is an Askdata Agent?](docs/what-is-an-askdata-agent)
 
 ### 2. Dataset
 
