@@ -7,15 +7,14 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-## Overview
-
+## Askdata definition
 ### Askdata in 140 chars
 
 Askdata is the social network of data, you get all your data in one place instantly searchable.
 
 <img src="https://docs.askdata.com/images/illustrations/docs/What-is-askdata.png" style="max-width:260px" />
 
-### More complex definition
+### The platform's mission
 
 Our mission is to remove the cognitive friction between humans and data. Basically Askdata empowers humans to interact with data in the most natural way.
 
