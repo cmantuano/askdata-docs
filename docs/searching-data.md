@@ -16,20 +16,21 @@ Users can **query the data** at any time through the search bar. The Agent searc
 In order to enable users to quickly find and select the information they need, when the user is typing the query system provides useful suggestions like most **frequent queries** similar to the ones the user is writing (drop-down menu) and the **autocomplete** of the query with the entities the system is aware.
 
   
-![](media/search-data_searchbar.gif)
+!["autocomplete and search"](media/search-data_searchbar.gif)
 
 ### Comment
 
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f589e731e8979279904574e_3BJNDs0aBSUQP2VsLm30JfUem11AaKleD2QtIW9Cbf6Cb-Y5lbdtO-J4WGZn5TU4kpvkr3_j62JkHCMZNA0Fv2dX4m-66IeoIlI3VgYIO8ZpB3GklTk2W2PjyoGgX2DlaHGxoAoR.png)Users can add one or more comments. The comments are visible to all users who view the card
+!["adding comments to a card"](media/search-data_comments.gif)
+
+Users can add one or more comments. The comments are visible to all users who view the card
 
   
 
 
 ### Share a data card
 
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f589e731944cb0bf88c7f08_X00U_vPWuSPF2iEaawtkkt_erh_HVFtH3TX3qFo2akjxrmzfzHP7YT9q0Cas3uTQ5S4rvluvV9cLhTT9Q8eFT7tin2WNL1e0EB6WgNAnwQDLXwEFgFEp5cgnbAydEIkkmliH-eTr.png)  
-
-
+!["share a card"](media/share_card.gif)
+ 
 The system provides different ways to share a card.
 
 
@@ -39,7 +40,9 @@ The system provides different ways to share a card.
 
 ### Download
 
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f589e74cfe47438d662e204_FPe4l1DExuzD-3L8WdjUiqk67jmXErL6tGQJgjarWUvocievpLQKFmSyIRbqcPfwwrZLfYSLYnDm9M8QRS9mJ28Xy5RNglUsKTCjhHyJtT7pXaadnVzSMyrd0n5UIPHfGaSyQCsi.png)Card data can be downloaded in different format:
+!["download a card"](media/download_card.gif)
+
+Card data can be downloaded in different format:
 
 
 * **Export Data Card**: download an image (.png) of the card
@@ -56,17 +59,15 @@ Queries are samples of questions users can ask the Agent. Queries can be saved b
 
 In the sample below, the user asks a question throughout the search bar, the system provides the card, then the user clicks on the card going in the details view. From the details view, in the Current Query section, the user clicks on the symbol highlighted in the image
 
-  
+!["save query"](media/save_query.gif)  
 
-
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f589e7471a14c5f44a9bc3d_Gfxi2ebTXR2mBfNH5m_ztba1C6106RpFfWyRV-R86a-io54JtoegbP2CX3zI10s_Gvk3u2QK8yjY5cwU_v7FWdGSyVR7BAcKMXNNWo2D4-dC68c-BJujB8CF-JdwR7uV5VkzKcdI.png)#### Execute Saved Queries
+#### Execute Saved Queries
 
 Users execute the saved queries selecting them from the “Suggested Queries”. Saved queries are organized in bookmarks with the same name of the feeds. 
 
-  
+![](media/execute_query.gif)
 
-
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f589e742e38383bc8ce8e5e_ZgelE9Gst8QIm_d9gXMIswc79rbimBe6ZER6B_1nkHq-2gxoku5BVIYfepvWfG2lEeOMPOl8WlAzWBOq5Q6wDnp5mzLKpE2A--E0XGF7Kbczxd8xXSX4pQUvfVZfvon_2zjesRJO.png)Using the Mobile App the bookmarks are accessible selecting the “feed” section from the Home then the specific bookmark and then the “Queries” tab. 
+Using the Mobile App the bookmarks are accessible selecting the “feed” section from the Home then the specific bookmark and then the “Queries” tab. 
 
 ![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f589e7423cb2f35dd8255bc_T1FBo6I3NPx5KAm1SSRl_ZBgSWNId66xqLJ0LpRHAc_wfvUDTRZamCjtgOFLWYwjBeCjHomS7WcgRPTkEWp_5LmZo_WQpGmtAklrM3JLpTlAzIYH_lwFgQ-1kE7AvaecR1L5ngmB.png)‍
 
