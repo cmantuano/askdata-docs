@@ -17,4 +17,8 @@ Watch and learn the main features of the Desktop App
 
 Watch how easy is making queries and collaborate from mobile
 
+## Admin Videos
+
+[Configuration of a dataset](/docs/video-of-the-configuration-of-a-microstrategy-dataset)
+
 {% include links.html %}
