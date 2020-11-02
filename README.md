@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Join the Askdata Slack](https://img.shields.io/badge/slack-@askdata--community-CF0E5B.svg?logo=slack&logoColor=white&labelColor=3F0E40)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Join the Askdata Slack](https://img.shields.io/badge/slack-@askdata--community-CF0E5B.svg?logo=slack&logoColor=white&labelColor=3F0E40)](https://slack.askdata.com/)
 
 <h1 align="center">
 	<img width="300" src="https://docs.askdata.com/images/logo/askdata-logo-black.png" alt="Askdata Logo">
