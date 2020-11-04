@@ -56,9 +56,10 @@ df
 # Load the list of the agents connected to your account as a pandas dataframe
 my_second_agent.save_to_dataset(frame=df, dataset_name='Web Sources')
 ```
-## Askdata Video Demo
-Check the following tutorial, to learn more about Askdata end-to-end. 
-[![Askdata Tutorial](https://img.youtube.com/vi/uEc9ogi2-10/0.jpg)](https://youtu.be/uEc9ogi2-10) 
+## Example Notebooks
 
+You can easily understand how to integrate the Askdata SDK using these Python Notebooks step-by-step walkthrough.
+
+https://github.com/AskdataHQ/docs/tree/gh-pages/notebooks
 
 {% include links.html %}
