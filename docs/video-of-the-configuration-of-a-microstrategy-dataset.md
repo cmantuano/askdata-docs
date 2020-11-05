@@ -12,4 +12,3 @@ layout: doc
 
 
 {% include links.html %}
-
