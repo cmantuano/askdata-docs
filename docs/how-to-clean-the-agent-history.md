@@ -2,9 +2,9 @@
 title: How to clean the agent history
 keywords: documentation
 last_updated: November 11th, 2020
-tags: [getting_started]
+tags: [admin_guide]
 sidebar: mydoc_sidebar
-layout: docs
+layout: doc
 ---
 
 In order to clean the agent history for your user you can run the following **shell commands:**
