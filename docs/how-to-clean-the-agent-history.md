@@ -1,8 +1,8 @@
 ---
 title: How to clean the agent history
 keywords: documentation
-last_updated: October 15th, 2020
-tags: [admin_guide]
+last_updated: November 11th, 2020
+tags: [getting_started]
 sidebar: mydoc_sidebar
 layout: docs
 ---
