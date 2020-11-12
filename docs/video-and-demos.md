@@ -9,16 +9,19 @@ layout: doc
 
 Welcome in the Video and Demo. 
 
+### [Overview](/docs/getting-started-video)
+
+30 seconds video that explains the Askdata concept
+
+
 ### [Desktop App](/docs/askdata-webapp-video)
 
 Watch and learn the main features of the Desktop App
 
-### [Mobile App](/docs/askdata-mobile-app-video-demo)
+### [Mobile App](/docs/askdata-mobile-app-video)
 
 Watch how easy is making queries and collaborate from mobile
 
-## Admin Videos
-
-[Configuration of a dataset](/docs/video-of-the-configuration-of-a-microstrategy-dataset)
+## [Admin Configuration](/docs/video-admin-configuration)
 
 {% include links.html %}
