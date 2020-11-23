@@ -25,4 +25,12 @@ search: exclude
   {% endunless %}
   {% endfor %}
   
+  {% for file in site.static_files %}
+    {% if file.path contains 'docs/' %}
+    <url>
+        <loc>https://docs.askdata.com/docs/{{file.basename}}</loc>
+      </url>
+    {% endif %}
+  {% endfor %}
+  
 </urlset>
