@@ -1,1 +1,0 @@
-## Askdata Methodology
