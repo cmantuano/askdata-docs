@@ -60,6 +60,6 @@ my_second_agent.save_to_dataset(frame=df, dataset_name='Web Sources')
 
 You can easily understand how to integrate the Askdata SDK using these Python Notebooks step-by-step walkthrough.
 
-https://github.com/AskdataHQ/docs/tree/gh-pages/notebooks
+https://github.com/AskdataHQ/askdata-docs/tree/gh-pages/notebooks
 
 {% include links.html %}
