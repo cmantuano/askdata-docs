@@ -1,5 +1,5 @@
 ---
-title: Askdata Mobile App
+title: Askdata Web Demo
 keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting-started]
@@ -7,20 +7,17 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-### Mobile Apps
+## Product Demo: Sales Data Scenario
 
-Askdata is available both for Android or iOS devices. Search “Askdata - Your Data Assistant” in the [Apple App Store](http://ios.askdata.com/) or [Google Play Store](http://android.askdata.com/).  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lXsfQDuZuUc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Product Demo: CRM Scenario (Banking)
 
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f589d326ef315cfa73808db_AZdb82-3jBdtcZsNwWeE2LfhUcJucEoSJ_8d8N-hVZIEmv8iwPHF3vqXnIHYPr91M2Gte4JEjaguhig0JN0aJ7Og7CCZ41ZTxY0v-eWRAbppNRYpcKJhWbeL78S2hzO1TGGiPAdW.jpeg)![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f589d322e38387d9ece8b27_r_vLj8EE6dUb9hfwG8SF-WmbQw6WC3WGUg0B3-dryfnHXu1TmWkWPKBTWisHBrEJGAwzSGWWxGef5bLKDMTcupUKb1z9txgLqW2PYxTiC8SoimsVQMYaTEoUCZD1V84RE5ptDH1k.jpeg)  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/giPWKmz6CN8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Other videos
 
-or by your mobile browse the following links:
-
-  
-* iOS <http://ios.askdata.com/>
-* Android <http://android.askdata.com/>
+* [Getting Started](/getting-started-video)
 
 {% include links.html %}
 
-    
