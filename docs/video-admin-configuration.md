@@ -7,6 +7,9 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-## Dataset Configuration Example (MicroStrategy)
+## Dataset Configuration Examples
 
-Watch and learn how to configure a MicroStrategy dataset with Askdata: [open video](/docs/video-of-the-configuration-of-a-microstrategy-dataset)
+Watch and learn how simple is to configure different datasets with Askdata: 
+
+* [Configure with MicroStrategy](/docs/video-of-the-configuration-of-a-microstrategy-dataset)
+* [Configure with Looker](/docs/video-of-the-configuration-of-a-looker-dataset)

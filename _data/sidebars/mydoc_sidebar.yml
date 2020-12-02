@@ -90,7 +90,7 @@ entries:
       output: web, pdf
 
     - title: Mobile
-      url: docs/askdata-mobile-app-video-demo
+      url: docs/askdata-mobile-app-video
       output: web, pdf
 
     - title: Admin
