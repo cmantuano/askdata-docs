@@ -23,7 +23,6 @@ We've prepared a Google Colab for a fast experimentation
 
 #### Other resources
 
-* [API Documentation](/api-documentation)
-
+* [API Documentation](https://docs.askdata.com/docs/api-documentation)
 
 {% include links.html %}       
