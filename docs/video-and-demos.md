@@ -22,6 +22,8 @@ Watch and learn the main features of the Desktop App
 
 Watch how easy is making queries and collaborate from mobile
 
-## [Admin Configuration](/docs/video-admin-configuration)
+### [Admin Configuration](/docs/video-admin-configuration)
+
+See in action the configuration process. It's a matter of 2 minutes.
 
 {% include links.html %}
