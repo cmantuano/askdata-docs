@@ -7,7 +7,6 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-
 ## Main features:
 
 #### Natural Interaction:
@@ -20,16 +19,18 @@ Askdata provides state-of-the-art tools for indexing data dimensions and metrics
 
 #### Automated Configuration:
 
-Users can begin asking questions about their connected data instantly using AskData’s patent-pending natural language querying technology — no training needed.
+Users can begin asking questions about their connected data, instantly using AskData’s patent-pending natural language querying technology — no training needed.
 
 #### Secure:
+
 Askdata administrators can define precise security rules for accessing data sets, fields, and even records, so that users only have access to authorized information at all times.
 
 #### Instant Connect:
+
 Modern organizations have data, stored in disconnected systems and in confusing structures and formats. We let people who rely on this data to make decisions don’t think in terms of queries, joins and data types.
 
 ### Main platform use-cases:
 
-* Searching Data with Askdat
+* Searching Data with Askdata
 * Automate Data Insight
 * Create hyper-personalized experiences
