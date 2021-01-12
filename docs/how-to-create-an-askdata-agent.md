@@ -7,17 +7,13 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-### Console Access:
+### Agent Creation:
 
-To create an Askdata agent we suggest to use the web admin **console**, connect to the site<https://console.askdata.com>.
+To create an Askdata agent you can use the **web app**: <https://app.askdata.com>. From the home (click on the Askdata icon) you can select the "Create Workspace" button.
 
-Through the console, editors can create new Agents and configure them.  
+Through the **web app**, editors can create new Agents and configure them.  
 
-End users (Viewer) connect to the web **App** at <https://app.askdata.com>. Using the web client or the native Apps for Android and iOS, users query the Agent and access the published content but cannot modify the agent configuration.  
-
-
-* **Console**: <https://console.askdata.com>
-* **App**: <https://app.askdata.com>
+Also the end users (Viewer) can connect to the web **App** at <https://app.askdata.com>. Using the web client or the native Apps for Android and iOS, users query the Agent and access the published content but cannot modify the agent configuration.  
 
 ### Additional resources:
 
