@@ -43,6 +43,7 @@ Data Cards are the information units that the system provides to users. They can
 For each data card, users can Like (to enhance the ML/AI) add comments, share with other users through a message, publish through public feeds, save them in their personal feeds. (The options available depends on the security level of the dataset and the authorization level of the user)
 
 **Read more:**
+* [How to create a Data Card](/docs/how-to-create-a-data-card)
 * [Data Card Expanded View](/docs/data-card-expanded-view)
 
 ### Feeds
