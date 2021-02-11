@@ -10,7 +10,7 @@ layout: doc
 
 ## Dataset Configuration process:
 
-Open **Askdata** https://askdata.com/agent and select the agent that you want to manage.
+Open **Askdata** [https://askdata.com/agent](https://askdata.com/agent) and select the agent that you want to manage.
 
 Open the *Datasets* section.
 
