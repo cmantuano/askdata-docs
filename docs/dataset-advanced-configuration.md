@@ -42,9 +42,7 @@ Welcome in the Advanced Configuration. This section of the documentation is spec
 [
     {
         "when": "(user.username == "myuser@mymail.com2) && (user.details.user_type != null)",
-        "then": "CASE WHEN '{{user.details.user_type}}' <> 'DIR' THEN AGENZIA IN ( SELECT agenzia_cod FROM VIEW_USERS WHERE user_id = '{{user.details.custom_id}}') WHEN '{{user.details.user_type}}' = 'DIR' THEN 1=1 ELSE 1 <> 1 END",
-        "order": null,
-        "type": null
+        "then": "CASE WHEN '{{user.details.user_type}}' <> 'DIR' THEN AGENZIA IN ( SELECT agenzia_cod FROM VIEW_USERS WHERE user_id = '{{user.details.custom_id}}') WHEN '{{user.details.user_type}}' = 'DIR' THEN 1=1 ELSE 1 <> 1 END"
     }
 ]
 
