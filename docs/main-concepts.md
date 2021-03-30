@@ -9,13 +9,13 @@ layout: doc
 
 ## Simple definition for all the concepts.
 
-### 1. Askdata agent
+### 1. Askdata Workspace
 
-An Askdata agent is the point-of-contact between the users and the data. The simplifier of the data user experience (UX).
+An Askdata woskpace is the point-of-contact between the users and the data. The simplifier of the data user experience (Data UX).
 
 **Read more:**
 
-* [What is an Askdata Agent?](/docs/what-is-an-askdata-agent)
+* [What is an Askdata Workspace?](/docs/what-is-an-askdata-agent)
 
 ### 2. Dataset
 
@@ -28,7 +28,7 @@ A dataset is the representation of a datasource. A dataset can be a datasource s
 
 ### 3. Data Card
 
-A card is a cognitive friendly card generated automatically by the Askdata platform to fullfill a query of the user or through an automated data insights creation process.
+A card is a cognitive friendly autoconsistent piece of information generated automatically by the Askdata platform to fullfill a query of the user or an automate process.
 
 **Read more:**
 
