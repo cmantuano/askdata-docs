@@ -25,8 +25,8 @@ Our mission is to remove the cognitive friction between humans and data. Basical
 
 Let’s discover the main concepts
 
-### [Agents](/docs/main-concepts#1-askdata-agent)
-### [Datasets](/docs/main-concepts#2-dataset)
+### [Workspace](/docs/main-concepts#1-askdata-agent)
+### [Dataset](/docs/main-concepts#2-dataset)
 ### [Data Card](/docs/main-concepts#3-data-card)
 ### [Feed](/docs/main-concepts#4-feeds)
 
