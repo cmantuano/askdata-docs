@@ -48,7 +48,11 @@ entries:
       url: docs/searching-data
       output: web, pdf
 
-    - title: Be productive with feeds
+    - title: How to create a Data Card
+      url: docs/how-to-create-a-data-card
+      output: web, pdf
+
+    - title: Be productive with Feeds
       url: docs/be-productive-with-feeds
       output: web, pdf
 
