@@ -3,6 +3,7 @@
 <head>
     {% include head.html %}
     <script>
+ 
         $(document).ready(function() {
             // Initialize navgoco with default options
             $("#mysidebar").navgoco({
@@ -18,14 +19,7 @@
                 slide: {
                     duration: 400,
                     easing: 'swing'
-                },
-                onClickAfter: function(e, submenu) {
-                $('#mysidebar').find('li').removeClass('active');
-                var li =  $(this).parent();
-                var lis = li.parents('li');
-                li.addClass('active');
-                lis.addClass('active');
-        }
+                }
             });
 
             $("#collapseAll").click(function(e) {
@@ -38,6 +32,18 @@
                 $("#mysidebar").navgoco('toggle', true);
             });
 
+        });
+
+        // This function highlights the section that is selected. 
+        $(document).ready(function(){
+            try{
+                page_url = window.location;
+                console.log(page_url);
+                var li_selected = $('a[href=page_url]').parent();
+                console.log(li_selected);
+                li_selected[0].classList.add("active");
+            }
+            catch(error){};
         });
 
 
