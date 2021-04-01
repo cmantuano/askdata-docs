@@ -1,13 +1,5 @@
----
-title: Askdata Python SDK
-keywords: documentation
-last_updated: October 15th, 2020
-tags: [getting-started]
-sidebar: mydoc_sidebar
-layout: doc
----
+Askdata Python client is a friendly Python library that helps developers, data scientists and engineers build and manage agent using Askdata platform. Creating an Agent will allow you to enhance your experience with data and have fun playing with it.
 
-Askdata Python client is a friendly Python library that helps developers, data scientists and engineers build and manage agent using Askdata platform.
 
 # Getting Started with the Askdata Python SDK
 
@@ -39,23 +31,32 @@ import askdata as ad
 from askdata.askdata_client import Askdata, Agent
 askdata = Askdata()
 ```
-Once your insert your account and password you're all set
+You will be prompted to insert your user details. Once you have done that, you good to go.
+
 ## Query your data
+
+This is an example of a query using the SDK. We select the agent called *Sales Demo* and we ask: *give me sales by countries*
 ```python
 # Load the list of the agents connected to your account as a pandas dataframe
 get_agents_df = askdata.agents_dataframe()
-#get one agent
+# Get one agent
 agent = Agent(askdata, 'Sales Demo')
 # Simple query
 df = agent.ask('give me sales by countries')
 df
 ```
-## How to create a new Askdata Agent and to Create a dataset
+
+## How to create or replace a dataset for a given Agent
 
 ```python
-# Load the list of the agents connected to your account as a pandas dataframe
-my_second_agent.save_to_dataset(frame=df, dataset_name='Web Sources')
+
+# the first three parameters are mandatory, they are needed to understand if the dataset already exists (i.e. needs to be replaced)
+# or needs to be created
+my_second_agent.create_or_replace_dataset(frame=df, dataset_name='Web Sources', slug="timesheet" , icon_url=None,
+                                  settings = None):
 ```
+
+
 ## Example Notebooks
 
 You can easily understand how to integrate the Askdata SDK using these Python Notebooks step-by-step walkthrough.
