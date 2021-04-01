@@ -18,7 +18,14 @@
                 slide: {
                     duration: 400,
                     easing: 'swing'
-                }
+                },
+                onClickAfter: function(e, submenu) {
+                $('#mysidebar').find('li').removeClass('active');
+                var li =  $(this).parent();
+                var lis = li.parents('li');
+                li.addClass('active');
+                lis.addClass('active');
+        }
             });
 
             $("#collapseAll").click(function(e) {
@@ -32,6 +39,7 @@
             });
 
         });
+
 
     </script>
     <script>
