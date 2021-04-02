@@ -1,3 +1,12 @@
+---
+title: Askdata Python SDK
+keywords: documentation
+last_updated: March 31th, 2021
+tags: [getting-started]
+sidebar: mydoc_sidebar
+layout: doc
+---
+
 Askdata Python client is a friendly Python library that helps developers, data scientists and engineers build and manage agent using Askdata platform. Creating an Agent will allow you to enhance your experience with data and have fun playing with it.
 
 
@@ -13,7 +22,7 @@ Getting up and running with Askdata python client is easy. Install client from [
 
 # Askdata Examples
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AskdataInc/askdata-examples/blob/master/notebooks/Askdata%20-%20Quickstart.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AskdataHQ/askdata-docs/blob/gh-pages/notebooks/Askdata%20-%20Create%20a%20new%20agent.ipynb)
 This repository contains examples of [Askdata](https://www.askdata.com/) usage in serving different types of data.
 
 ## Installation
@@ -52,10 +61,8 @@ df
 
 # the first three parameters are mandatory, they are needed to understand if the dataset already exists (i.e. needs to be replaced)
 # or needs to be created
-my_second_agent.create_or_replace_dataset(frame=df, dataset_name='Web Sources', slug="timesheet" , icon_url=None,
-                                  settings = None):
+agent.create_or_replace_dataset(frame=df, dataset_name='Web Sources', slug="timesheet")
 ```
-
 
 ## Example Notebooks
 
