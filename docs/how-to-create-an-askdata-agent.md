@@ -17,7 +17,7 @@ Also the end users (Viewer) can connect to the web **App** at <https://app.askda
 
 ### Additional resources:
 
-* [What is an Askdat workspace](/docs/what-is-an-askdata-agent)
+* [What is an Askdata workspace](/docs/what-is-an-askdata-agent)
 * [Askdata Main Concepts](/docs/main-concepts)
 
 {% include links.html %}
