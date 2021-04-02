@@ -16,14 +16,14 @@ In order to create a Card, we can proceed in two ways:
 If you have already created a feed, you can generate a new card by clicking **Create** and then **Data Card**:
 
 <p align="center" >
-  <img src="https://github.com/Edoardoba/test/blob/main/media/create_card_from_agent.PNG" width="650" />
+  <img src="media/create_card_from_agent.PNG" width="650" />
 </p>
 
 Then you will be asked to enter the name and to select the feed to associate the card with (you can also create a new feed from this page). 
 
 
 <p align="center">
-  <img src="https://github.com/Edoardoba/test/blob/main/media/data_card_info.PNG" width="650" />
+  <img src="media/data_card_info.PNG" width="650" />
 </p>
 
 When you are done just click **Add** and you are good to go!
@@ -33,7 +33,7 @@ When you are done just click **Add** and you are good to go!
 If you have already [created a feed](https://docs.askdata.com/docs/be-productive-with-feeds.html), you can simply add a new card by clicking **New Data Card** and customize it with your name.
 
 <p align="center">
-  <img src="https://github.com/Edoardoba/test/blob/main/media/data_card_from_feed.PNG" />
+  <img src="media/data_card_from_feed.PNG" />
 </p>
 
 When you are done just click **Add** and you are good to go!
@@ -41,12 +41,12 @@ When you are done just click **Add** and you are good to go!
 # Customize your data card
 
 Once you have created a Data card by using one of the available methods, we offer the possibility to highly customize it according to your style and to your requirements. With Askdata you can create different types of content within a Data Card, matching your needs with extreme neatness and enhancing your data experience. <br/>
-</br>
+<br/>
 When you enter a card that has just been created, you will be presented two sections by default:
 * Data Card header
 * Natural Language query
 <p align="center">
-  <img src="https://github.com/Edoardoba/test/blob/main/media/card_landing.PNG" />
+  <img src="media/card_landing.PNG" />
 </p>
 
 
@@ -63,7 +63,7 @@ The data card header allows you to change some of the default settings of the ca
 When you are done customizing the settings click save and the system will update. This applies for all the components, **you must click save to show the updated resources**.
 
 <p align="center">
-  <img src="https://github.com/Edoardoba/test/blob/main/media/card_settings.PNG" />
+  <img src="media/card_settings.PNG" />
 </p>
 
 ## Natural Language query 
@@ -71,7 +71,7 @@ When you are done customizing the settings click save and the system will update
 This is the component where the real power of Askdata shows up. If you click on the **Edit** button you will be prompted to enter the query in natural language. After hitting **Run** your results will be quickly shown together with the **recognized entities** and some suggestions on some **other possible interpretations** of your query.
 
 <p align="center">
-  <img src="https://github.com/Edoardoba/test/blob/main/media/nl_query.png" />
+  <img src="media/nl_query.png" />
 </p>
 
 To save your NL query, just hit **Done** in the upper right corner or cancel if you want to discard it. <br/>
@@ -90,7 +90,7 @@ If you select a NL query, you can personalize it applying the properties you wan
 Now we are going to present all the different components that can be added to a data card in order to customize it:
 
 <p align="center">
-  <img src="https://github.com/Edoardoba/test/blob/main/media/components_list.PNG" />
+  <img src="media/components_list.PNG" />
 </p>
 
 
@@ -111,7 +111,7 @@ Add a new Natural Language Query. This component is similar to the [**Natural la
 With this component you can autonomously add a new SQL query to retrieve thew results from your dataset. If enter the **Edit** mode, you can select the dataset and modify the editor with the query you would like to execute. Talking about the setings panel, these are the options:
 
 <p align="center">
-  <img src="https://github.com/Edoardoba/test/blob/main/media/sql_query_settings.PNG" />
+  <img src="media/sql_query_settings.PNG" />
 </p>
 
 - **Query Name**: Name of the query displayed as header
@@ -134,7 +134,7 @@ Unlike Comment this is a text section that will be available in the resulting da
 This component allows you to show your results in a more compact way, printing them as a List. You can adjust the following properties:
 
 <p align="center">
-  <img src="https://github.com/Edoardoba/test/blob/main/media/list_prop.PNG" />
+  <img src="media/list_prop.PNG" />
 </p>
 
 - **Component Name**: Set the name of the component
@@ -152,7 +152,7 @@ Special type of chart that shows your results on map. The result of the NL query
 # Compare
 This component allows you to compare the results of two different queries. Yo can access the results by specifying the varibale name you defined in the NL query. In the settings panel you have the following options:
 <p align="center">
-  <img src="https://github.com/Edoardoba/test/blob/main/media/compare.PNG" />
+  <img src="media/compare.PNG" />
 </p>
 
 - **Name***: Set the name of the comparison component
@@ -170,7 +170,7 @@ The above parameters can be specified for both the queries.
 This component allows you to show your results in a more compact way, printing them as a Table. You can adjust the following properties:
 
 <p align="center">
-  <img src="https://github.com/Edoardoba/test/blob/main/media/table.PNG" />
+  <img src="media/table.PNG" />
 </p>
 
 - **Name**: Set the name of the component
@@ -184,7 +184,7 @@ Hit save and the component will be updated according to your preferences.
 This component allows you to show your results in a chart without writing a single line fo code. We have different types of charts available.
 
 <p align="center">
-  <img src="https://github.com/Edoardoba/test/blob/main/media/chart.PNG" />
+  <img src="media/chart.PNG" />
 </p>
 
 - **Name**: Set the name of the component
@@ -211,7 +211,7 @@ This component allows the definition and execution of javascript code,  **Python
 //   returns an object with 'name' and 'revenue' fields obtained from the first element of the array q1Result.
 ```
 <p align="center">
-  <img src="https://github.com/Edoardoba/test/blob/main/media/javascript.PNG" />
+  <img src="media/javascript.PNG" />
 </p>
 
 In the settings panel, you can set the **component name** and the **Variable name*** that is the Name of the variable to save the results to. You can later access this variable from other components.
@@ -223,7 +223,7 @@ For every component you have to possibility to **delete** it using the bin icon 
 
 When finished customizing the card, you can have a preview of it hitting the **Preview** button.
 <p align="center">
-  <img src="https://github.com/Edoardoba/test/blob/main/media/preview_done.PNG" />
+  <img src="media/preview_done.PNG" />
 </p>
 
 At this point you can either **Duplicate** it (i.e. copy it in another feed) or click **Done** to finish the process.
