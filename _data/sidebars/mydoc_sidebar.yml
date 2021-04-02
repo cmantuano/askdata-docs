@@ -36,9 +36,9 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Getting Started
-      url: docs/getting-started
-      output: web, pdf
+    # - title: Getting Started
+    #   url: docs/getting-started
+    #   output: web, pdf
 
     - title: Your First Usage
       url: docs/your-first-usage
