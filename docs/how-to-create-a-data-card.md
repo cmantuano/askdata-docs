@@ -6,7 +6,6 @@ tags: [getting-started]
 sidebar: mydoc_sidebar
 layout: doc
 ---
-# **Create a new Data card**
 
 A Data Card is the simplest piece of content that can be exchanged on Askdata and it must be necessarily associated with a feed. <br/>
 In order to create a Card, we can proceed in two ways:
@@ -41,7 +40,7 @@ When you are done just click **Add** and you are good to go!
 # Customize your data card
 
 Once you have created a Data card by using one of the available methods, we offer the possibility to highly customize it according to your style and to your requirements. With Askdata you can create different types of content within a Data Card, matching your needs with extreme neatness and enhancing your data experience. <br/>
-<br/>
+</br>
 When you enter a card that has just been created, you will be presented two sections by default:
 * Data Card header
 * Natural Language query
@@ -80,10 +79,9 @@ If you select a NL query, you can personalize it applying the properties you wan
 
 - **Query Name**: Name of the query displayed as header
 - **Variable name**: Name of the variable to save the results to. You can later access this variable from other components.
-- **Connection**: -----
+- **Connection**: Some datasets support a specific connection (not the centralized one) for each user that perform a query
 - **Perform NL2SQL before each execution**: Set this to True if you want **NL2SQL** (Natural Language 2 SQL) to be called at each execution.
-- **Buckets**:  -----
-- **Bucket context**: -----
+- **Buckets**: Buckets are the way you can configure as output more than one Data Card, choosing the dimension over the Data Card will be split
 
 
 ## Other components
@@ -99,9 +97,8 @@ Select an (external) dataset, query it and apply filter on it. When you attach t
 
 - **Query Name**: Name of the query displayed as header
 - **Variable name**: Name of the variable to save the results to. You can lates access this variable from other components.
-- **Connection**: -----
-- **Buckets**:  -----
-- **Bucket context**: -----
+- **Connection**: Some datasets support a specific connection (not the centralized one) for each user that perform a query
+- **Buckets**: Buckets are the way you can configure as output more than one Data Card, choosing the dimension over the Data Card will be split
 
 
 # Search
@@ -116,10 +113,10 @@ With this component you can autonomously add a new SQL query to retrieve thew re
 
 - **Query Name**: Name of the query displayed as header
 - **Variable name**: Name of the variable to save the results to. You can lates access this variable from other components.
-- **Connection**: -----
+- **Connection**: Some datasets support a specific connection (not the centralized one) for each user that perform a query
 - **Native Type Query**: Allows to send a native query to the selected dataset.
-- **Buckets**:  -----
-- **Bucket context**: -----
+- **Buckets**: Buckets are the way you can configure as output more than one Data Card, choosing the dimension over the Data Card will be split
+
 
 After customizing it, press **Save** to proceed.
 # Comment
@@ -201,7 +198,11 @@ Paste an Image in your data card. In the settings panel you can set a title for 
 Link an external resource such as a PDF, DOC, web page.... You just need to configure the name of the component, the label and the URL. 
 
 # HTML
-Implement HTML code
+This component allows the user to implement HTML code to enhance the Data Card. The code could be used for graphical reason (as shown in the picture below) but also for more practical ones. In fact, the results of the query can be accessed within the HTML editor(the variable name must be specified in the settings tab), which is available by clicking the **Edit button**. Here is an example:
+<p align="center">
+  <img src="media/html_code.PNG"  width= "700px"/>
+  <img src="media/result_html.PNG" />
+</p>
 
 # Script 
 This component allows the definition and execution of javascript code,  **Python** to be supported soon. The code has access to all of the query result sets, identified by the variable name assigned to them on the query component settings. Also the results of other script components can be used if they preced this one. The script can be any valid javascript code. The last expression is the script result. It can be any object or a function. For example:
