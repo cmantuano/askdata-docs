@@ -75,9 +75,13 @@ entries:
     - title: Train a synonym
       url: docs/how-to-train-a-synonym
       output: web, pdf
+    
+    - title: Advanced Filter Configuration
+      url: docs/dataset-filters-configuration
+      output: web, pdf
 
-    - title: Advanced Configuration
-      url: docs/advanced-configurations
+    - title: Configure other channels
+      url: docs/advanced-configuration-other-channels
       output: web, pdf
 
   - title: Video & Demo
