@@ -60,8 +60,8 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Create an agent
-      url: docs/how-to-create-an-askdata-agent
+    - title: Create a workspace
+      url: docs/how-to-create-an-askdata-workspace
       output: web, pdf
 
     - title: Connect your data
