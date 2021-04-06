@@ -36,10 +36,6 @@ entries:
     output: web, pdf
     folderitems:
 
-    # - title: Getting Started
-    #   url: docs/getting-started
-    #   output: web, pdf
-
     - title: Your First Usage
       url: docs/your-first-usage
       output: web, pdf
@@ -70,6 +66,10 @@ entries:
 
     - title: Connect your data
       url: docs/how-to-connect-a-dataset
+      output: web, pdf
+
+    - title: Configure your Dataset
+      url: docs/how-to-configure-your-dataset
       output: web, pdf
 
     - title: Train a synonym

@@ -26,12 +26,6 @@ In the left menu there's the “Connection” tab that can be used to establish 
 
 Once you have completed you can simply press *Save*. Askdata will discover the dimensions (entities) and measures and build a knowledge graph that can be extended with synonyms and entity relationships over time.
 
-On the right side there that the following sections:
-
-* Data (where you can query your data)
-* Schema (where you can manage semantic layers and synonyms)
-* Feed
-* Filters 
-* Relationships 
+If you want to go further and configure your dataset, visit [this link](https://docs.askdata.com/docs/how-to-configure-your-dataset).
 
 {% include links.html %}
