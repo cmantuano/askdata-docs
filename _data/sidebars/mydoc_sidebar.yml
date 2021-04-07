@@ -65,7 +65,7 @@ entries:
       output: web, pdf
 
     - title: Connect your data
-      url: docs/how-to-connect-a-dataset
+      url: docs/how-to-add-a-new-dataset
       output: web, pdf
 
     - title: Configure your Dataset
