@@ -8,7 +8,7 @@ layout: doc
 
 ---
 
-#### Add a new dataset to your Workspace
+#### Add a new NLP to your Workspace
 
 Configuring the NLP pipeline allows you to customize your Workspace Natural Language experience.
 
