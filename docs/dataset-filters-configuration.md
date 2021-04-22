@@ -14,7 +14,7 @@ Welcome in the Advanced Configuration. This section of the documentation is spec
 
 In this example, we provide the instructions for sorting the results of the query
 ```javascript
-
+[
 {
    "when" : "!query.isSorted()",
    "order" : "PRICE" 
@@ -27,12 +27,15 @@ In this example, we provide the instructions for sorting the results of the quer
    "when" : "!query.isSortedByDimension()",
    "order" : "PLACE DESC" 
 },
-
 {
    "when" : "!query.isSortedBy('place')",
    "order" : "PRICE DESC, PLACE ASC" 
+},
+{
+   "when" : "query.hasAnyEntity('YEAR')", 
+   "order" : "YEAR DESC" 
 }
-
+]
 ```
 ## Filters
 
