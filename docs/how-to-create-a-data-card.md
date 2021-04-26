@@ -204,6 +204,8 @@ This component allows the user to implement HTML code to enhance the Data Card. 
   <img src="media/result_html.PNG" />
 </p>
 
+**More info:** [HTML Component Configuration](/docs/data_card_html_component)
+
 # Script 
 This component allows the definition and execution of javascript code,  **Python** to be supported soon. The code has access to all of the query result sets, identified by the variable name assigned to them on the query component settings. Also the results of other script components can be used if they preced this one. The script can be any valid javascript code. The last expression is the script result. It can be any object or a function. For example:
 ```
