@@ -12,12 +12,12 @@ The code could be used for graphical reason (as shown in the picture below) but 
 In fact, the results of the query can be accessed within the HTML editor(the variable name must be specified in the settings tab), which is available by clicking the **Edit button**. 
 
 Here is an example:
+
 <p align="center">
-  <img src="media/html_code.PNG"  max-width= "500px"/>
-  <img src="media/result_html.PNG" />
+  <img src="media/result_html.PNG" style="max-width:500px" />
 </p>
 
-## Templating
+## How templating format work
 
 HTML components supports Handlebar, a powerful stateless templating system that give you the power necessary to let you build semantic templates effectively with no frustration.
 
