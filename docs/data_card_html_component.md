@@ -21,9 +21,10 @@ Here is an example:
 
 HTML components supports Handlebar, a powerful stateless templating system that give you the power necessary to let you build semantic templates effectively with no frustration.
 
-```javascript f
+```
 
 This is the first result element of the resultset data1Reseult with the column brand:  {{#data1Result.1.brand}}
+
 ```
 
 ## How to bind an array to the HTML component
