@@ -15,14 +15,14 @@ In order to create a Card, we can proceed in two ways:
 If you have already created a feed, you can generate a new card by clicking **Create** and then **Data Card**:
 
 <p align="center" >
-  <img src="media/create_card_from_agent.PNG" width="650" />
+  <img src="media/create_card_from_agent.PNG" style="max-width:500px"  />
 </p>
 
 Then you will be asked to enter the name and to select the feed to associate the card with (you can also create a new feed from this page). 
 
 
 <p align="center">
-  <img src="media/data_card_info.PNG" width="650" />
+  <img src="media/data_card_info.PNG" style="max-width:500px" />
 </p>
 
 When you are done just click **Add** and you are good to go!
@@ -32,7 +32,7 @@ When you are done just click **Add** and you are good to go!
 If you have already [created a feed](https://docs.askdata.com/docs/be-productive-with-feeds.html), you can simply add a new card by clicking **New Data Card** and customize it with your name.
 
 <p align="center">
-  <img src="media/data_card_from_feed.PNG" />
+  <img src="media/data_card_from_feed.PNG" style="max-width:500px"  />
 </p>
 
 When you are done just click **Add** and you are good to go!
@@ -45,7 +45,7 @@ When you enter a card that has just been created, you will be presented two sect
 * Data Card header
 * Natural Language query
 <p align="center">
-  <img src="media/card_landing.PNG" />
+  <img src="media/card_landing.PNG" style="max-width:500px"  />
 </p>
 
 
@@ -62,7 +62,7 @@ The data card header allows you to change some of the default settings of the ca
 When you are done customizing the settings click save and the system will update. This applies for all the components, **you must click save to show the updated resources**.
 
 <p align="center">
-  <img src="media/card_settings.PNG" />
+  <img src="media/card_settings.PNG" style="max-width:500px" />
 </p>
 
 ## Natural Language query 
@@ -70,7 +70,7 @@ When you are done customizing the settings click save and the system will update
 This is the component where the real power of Askdata shows up. If you click on the **Edit** button you will be prompted to enter the query in natural language. After hitting **Run** your results will be quickly shown together with the **recognized entities** and some suggestions on some **other possible interpretations** of your query.
 
 <p align="center">
-  <img src="media/nl_query.png" />
+  <img src="media/nl_query.png" style="max-width:500px" />
 </p>
 
 To save your NL query, just hit **Done** in the upper right corner or cancel if you want to discard it. <br/>
@@ -88,7 +88,7 @@ If you select a NL query, you can personalize it applying the properties you wan
 Now we are going to present all the different components that can be added to a data card in order to customize it:
 
 <p align="center">
-  <img src="media/components_list.PNG" />
+  <img src="media/components_list.PNG" style="max-width:500px" />
 </p>
 
 
@@ -108,7 +108,7 @@ Add a new Natural Language Query. This component is similar to the [**Natural la
 With this component you can autonomously add a new SQL query to retrieve thew results from your dataset. If enter the **Edit** mode, you can select the dataset and modify the editor with the query you would like to execute. Talking about the setings panel, these are the options:
 
 <p align="center">
-  <img src="media/sql_query_settings.PNG" />
+  <img src="media/sql_query_settings.PNG" style="max-width:500px" />
 </p>
 
 - **Query Name**: Name of the query displayed as header
@@ -131,7 +131,7 @@ Unlike Comment this is a text section that will be available in the resulting da
 This component allows you to show your results in a more compact way, printing them as a List. You can adjust the following properties:
 
 <p align="center">
-  <img src="media/list_prop.PNG" />
+  <img src="media/list_prop.PNG" style="max-width:500px" />
 </p>
 
 - **Component Name**: Set the name of the component
@@ -149,7 +149,7 @@ Special type of chart that shows your results on map. The result of the NL query
 # Compare
 This component allows you to compare the results of two different queries. Yo can access the results by specifying the varibale name you defined in the NL query. In the settings panel you have the following options:
 <p align="center">
-  <img src="media/compare.PNG" />
+  <img src="media/compare.PNG" style="max-width:500px" />
 </p>
 
 - **Name***: Set the name of the comparison component
@@ -167,7 +167,7 @@ The above parameters can be specified for both the queries.
 This component allows you to show your results in a more compact way, printing them as a Table. You can adjust the following properties:
 
 <p align="center">
-  <img src="media/table.PNG" />
+  <img src="media/table.PNG" style="max-width:500px" />
 </p>
 
 - **Name**: Set the name of the component
@@ -181,7 +181,7 @@ Hit save and the component will be updated according to your preferences.
 This component allows you to show your results in a chart without writing a single line fo code. We have different types of charts available.
 
 <p align="center">
-  <img src="media/chart.PNG" />
+  <img src="media/chart.PNG" style="max-width:500px" />
 </p>
 
 - **Name**: Set the name of the component
@@ -199,23 +199,27 @@ Link an external resource such as a PDF, DOC, web page.... You just need to conf
 
 # HTML
 This component allows the user to implement HTML code to enhance the Data Card. The code could be used for graphical reason (as shown in the picture below) but also for more practical ones. In fact, the results of the query can be accessed within the HTML editor(the variable name must be specified in the settings tab), which is available by clicking the **Edit button**. Here is an example:
+
 <p align="center">
-  <img src="media/html_code.PNG"  width= "700px"/>
-  <img src="media/result_html.PNG" />
+  <img src="media/html_code.PNG"  style="max-width:500px" />
+  <img src="media/result_html.PNG" style="max-width:500px"  />
 </p>
 
-**More info:** [HTML Component Configuration](/docs/data_card_html_component)
+**More info:** [HTML Component Configuration Examples](/docs/data_card_html_component)
 
 # Script 
-This component allows the definition and execution of javascript code,  **Python** to be supported soon. The code has access to all of the query result sets, identified by the variable name assigned to them on the query component settings. Also the results of other script components can be used if they preced this one. The script can be any valid javascript code. The last expression is the script result. It can be any object or a function. For example:
+This component allows the definition and execution of **Javascript code**. The code has access to all of the query result sets, identified by the variable name assigned to them on the query component settings. Also the results of other script components can be used if they preced this one. The script can be any valid javascript code. The last expression is the script result. It can be any object or a function. For example:
 ```
 // Example 1:
    { 'name' : q1Result[0].customer, 'revenue' :q1Result[0].revenue }
-//   returns an object with 'name' and 'revenue' fields obtained from the first element of the array q1Result.
+//   returns an object with 'name' and 'revenue' fields obtained from the first element of the array q1Result and two properties
+
 ```
 <p align="center">
-  <img src="media/javascript.PNG" />
+  <img src="media/javascript.PNG" style="max-width:500px" />
 </p>
+
+**More info:** [Script Component Configuration Examples](/docs/data_card_script_component)
 
 In the settings panel, you can set the **component name** and the **Variable name*** that is the Name of the variable to save the results to. You can later access this variable from other components.
 ## Moving/deleting the component
@@ -226,12 +230,10 @@ For every component you have to possibility to **delete** it using the bin icon 
 
 When finished customizing the card, you can have a preview of it hitting the **Preview** button.
 <p align="center">
-  <img src="media/preview_done.PNG" />
+  <img src="media/preview_done.PNG" style="max-width:500px" />
 </p>
 
 At this point you can either **Duplicate** it (i.e. copy it in another feed) or click **Done** to finish the process.
-
-
 
 
 Stay Tuned on this page since we are constantly developing new components to enhance your experience with data!
