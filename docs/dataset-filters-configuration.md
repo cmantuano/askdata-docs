@@ -50,6 +50,7 @@ For example in the above use case we are specifying that if the user login email
 **Example with user defined security:**
 
 This is an example of an advanced filter that could be applied to the dataset.
+
 ```javascript
 
 [
@@ -61,4 +62,22 @@ This is an example of an advanced filter that could be applied to the dataset.
 
 ```
 
-This filters only returns the cases that satisfy the conditions specified in the where clause.
+This filter is triggered when the conditions specified in the when clause are met.
+
+**Example with default time filter taking the highest year available as default **
+
+This is an example of an advanced filter that is applied to the dataset to automatically filter by the latest available year - when not specified in the user query
+
+```javascript
+
+
+[
+    {
+        "when": "!query.hasAnyEntity('year')",
+        "then": "\"YEAR\" = (SELECT MAX(YEAR) FROM {{dataset.full_tablename}})",
+        "type": "EXPR"
+    }
+]
+
+```
+
