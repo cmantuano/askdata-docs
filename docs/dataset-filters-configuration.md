@@ -1,5 +1,5 @@
 ---
-title: Dataset Filters Configuration
+title: Dataset Filters - Advanced Configuration
 keywords: documentation
 last_updated: April 06th, 2021
 tags: [getting-started]
@@ -74,7 +74,7 @@ This is an example of an advanced filter that is applied to the dataset to autom
 [
     {
         "when": "!query.hasAnyEntity('year')",
-        "then": "\"YEAR\" = (SELECT MAX(YEAR) FROM {{dataset.full_tablename}})",
+        "then": "\"YEAR\" = (SELECT MAX(YEAR) FROM NAME_OF_MY_TABLE )",
         "type": "EXPR"
     }
 ]
