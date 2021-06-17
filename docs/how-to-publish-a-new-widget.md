@@ -172,7 +172,7 @@ Finally, once tested in **QA** you can do open another issue in order to deploy 
 
 [Github repositoy]: <https://github.com/AskdataHQ/askdata-charts-components/tree/main/widgets/askdata>
 [`/widgets/askdata/`]: https://github.com/AskdataHQ/askdata-charts-components/tree/main/widgets/askdata
-[`_widget_example`]: https://github.com/AskdataHQ/askdata-charts-components/tree/main/widgets/askdata/_widget_example
+[`widget_example`]: https://github.com/AskdataHQ/askdata-charts-components/tree/main/widgets/askdata/_widget_example
 [guide example for creating a HTML widget]: <https://github.com/AskdataHQ/askdata-docs/blob/gh-pages/docs/widget_creation_example_of_html.md>
 [`/widgets/`]: https://github.com/AskdataHQ/askdata-charts-components/tree/main/widgets
 [`catalog.json`]: https://github.com/AskdataHQ/askdata-charts-components/blob/main/widgets/catalog.json
