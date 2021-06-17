@@ -14,7 +14,7 @@ the input token e.g. *"Give me revenue by regions”* is analyzed not by a singl
 
 
 <p align="center">
-  <img src="https://github.com/AskdataHQ/askdata-docs/raw/gh-pages/docs/media/pipeline_overview.png">
+  <img src="https://raw.githubusercontent.com/AskdataHQ/askdata-docs/gh-pages/docs/media/pipeline_overview.png">
 </p>
 
 
