@@ -9,9 +9,9 @@ layout: doc
 
 In order to publish a new widget, follow these steps:
 
-## STEP 1: Create a folder named as the <unique_code> of the widget
+## STEP 1: Create a folder named as the &lt;unique_code&gt; of the widget
 
-In the following [Github repositoy] create a new folder with the same name as the widget's identifier **<unique_code>** (here [`_widget_example`] in Figure below):
+In the following [Github repositoy] create a new folder with the same name as the widget's identifier **&lt;unique_code&gt;** (here [`widget_example`] in Figure below):
 
 <p align="center">
   <img src="https://github.com/AskdataHQ/askdata-docs/raw/gh-pages/docs/media/folder_example_widget.png">
