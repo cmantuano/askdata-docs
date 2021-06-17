@@ -1,5 +1,5 @@
 ---
-title: How to Publish a new Widget
+title: How to Publish a New Widget
 keywords: documentation
 last_updated: June 17th, 2021
 tags: [getting-started]
