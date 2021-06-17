@@ -14,7 +14,7 @@ In order to publish a new widget, follow these steps:
 In the following [Github repositoy] create a new folder with the same name as the widget's identifier **<unique_code>** (here [`_widget_example`] in Figure below):
 
 <p align="center">
-  <img src="https://github.com/AskdataHQ/askdata-docs/blob/gh-pages/docs/media/folder_example_widget.png">
+  <img src="https://github.com/AskdataHQ/askdata-docs/raw/gh-pages/docs/media/folder_example_widget.png">
 </p>
 
 **Note** that the folder must be created inside the following path: [`/widgets/askdata/`] as in Figure.
@@ -31,7 +31,7 @@ In the following [Github repositoy] create a new folder with the same name as th
 In the folder just created with path `/widgets/askdata/<unique_code>/` add the HTML file named `index.htm` as in figure below.
 
 <p align="center">
-  <img src="https://github.com/AskdataHQ/askdata-docs/blob/gh-pages/docs/media/folder_index_widget.png">
+  <img src="https://github.com/AskdataHQ/askdata-docs/raw/gh-pages/docs/media/folder_index_widget.png">
 </p>
 
 The main objective of the HTML template is to consume web-service with the convention (widgetId, widgetTypeCode):
@@ -110,7 +110,7 @@ The previous example produces the following result:
 
 
 <p align="center">
-  <img width="500" src="https://github.com/AskdataHQ/askdata-docs/blob/gh-pages/docs/media/widget_properites.png">
+  <img width="500" src="https://github.com/AskdataHQ/askdata-docs/raw/gh-pages/docs/media/widget_properites.png">
 </p>
 
 
@@ -157,7 +157,7 @@ For instance, the following chunk of code gives the result in the next screen of
 ```
 
 <p align="center">
-  <img width="500" src="https://github.com/AskdataHQ/askdata-docs/blob/gh-pages/docs/media/screen_widget_selector.png">
+  <img width="500" src="https://github.com/AskdataHQ/askdata-docs/raw/gh-pages/docs/media/screen_widget_selector.png">
 </p>
 
 
