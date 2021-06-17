@@ -63,6 +63,10 @@ entries:
     - title: Create a workspace
       url: docs/how-to-create-an-askdata-workspace
       output: web, pdf
+      
+    - title: Workspace configuration
+      url: docs/workspace-configuration
+      output: web, pdf
 
     - title: Connect your data
       url: docs/how-to-add-a-new-dataset
