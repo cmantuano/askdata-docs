@@ -102,11 +102,8 @@ It must be a *json* file structured as in the follow example:
 
 ```
 
-where `m1_id` and `s1_id` are the parameters id used in the HTML file `index.htm`.
+where `m1_id` and `s1_id` in the last two chunks of code are the parameters id that will be used in the HTML file `index.htm`.
 
-
-
-+ aggiungere descrizione campi
 
 
 The previous example produces the following result:
@@ -117,7 +114,20 @@ The previous example produces the following result:
 </p>
 
 
-Specifically...
+Specifically the fields
+```JSON 
+"label": "Description"
+```
+
+```JSON 
+"mandatory": true
+```
+
+```JSON 
+"viewType": "dropdown"
+```
+
+are those circled in output with respectively blue, red and green colours.
 
 
 ## STEP 4: Copy the configuration file in the folder
@@ -157,13 +167,8 @@ For instance, the following chunk of code gives the result in the next screen of
 
 Once everything is correctly set, from Github the widget will be automatically updated on [**DEV**]. From here, if the widget works as you expecting you can ask an issue through Github for a promotion of the widget in [**QA**].
 
-Finally, once tested in **QA** you can do open another issue in order to deploy the widget on [**PROD**].
+Finally, once tested in **QA** you can do open another issue in order to deploy the widget on [**PROD**]!
 
-...
-...
-
-
-{% include links.html %}
 
 [Github repositoy]: <https://github.com/AskdataHQ/askdata-charts-components/tree/main/widgets/askdata>
 [`/widgets/askdata/`]: https://github.com/AskdataHQ/askdata-charts-components/tree/main/widgets/askdata
