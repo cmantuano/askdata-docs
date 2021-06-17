@@ -105,10 +105,14 @@ entries:
       url: docs/video-admin-configuration
       output: web, pdf
 
-  - title: API & SDK
+  - title: Developers, API & SDK
     output: web, pdf
 
     folderitems:
+    - title: Developers Documentation
+      url: docs/developers-documentation
+      output: web, pdf
+    
     - title: SDK Documentation
       url: docs/askdata-sdk
       output: web, pdf
