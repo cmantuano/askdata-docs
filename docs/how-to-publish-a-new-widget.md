@@ -179,3 +179,5 @@ Finally, once tested in **QA** you can do open another issue in order to deploy 
 [**DEV**]: https://app-dev.askdata.com/ 
 [**QA**]: http://app-qa.askdata.com/
 [**PROD**]: http://app.askdata.com/ 
+
+{% include links.html %}
