@@ -14,7 +14,7 @@ the input token e.g. *"Give me revenue by regions”* is analyzed not by a singl
 
 
 <p align="center">
-  <img src="https://github.com/AskdataHQ/askdata-docs/blob/gh-pages/docs/media/pipeline_overview.png">
+  <img src="https://github.com/AskdataHQ/askdata-docs/raw/gh-pages/docs/media/pipeline_overview.png">
 </p>
 
 
@@ -22,7 +22,7 @@ Specifically, the input is classified by the first algorithm and if it fails, th
 
 
 <p align="center">
-  <img src="https://github.com/AskdataHQ/askdata-docs/blob/gh-pages/docs/media/pipeline_overview_second.png">
+  <img src="https://github.com/AskdataHQ/askdata-docs/raw/gh-pages/docs/media/pipeline_overview_second.png">
 </p>
 
 
@@ -34,7 +34,7 @@ The default pipeline is composed by **SmartIntent** + **Human2SQL**.
 
 
 <p align="center">
-  <img src="https://github.com/AskdataHQ/askdata-docs/blob/gh-pages/docs/media/pipeline_smartintent_human2sql.png">
+  <img src="https://github.com/AskdataHQ/askdata-docs/raw/gh-pages/docs/media/pipeline_smartintent_human2sql.png">
 </p>
 
 
