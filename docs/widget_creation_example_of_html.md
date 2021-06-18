@@ -87,7 +87,7 @@ success: function(data) {
 
 ```
 
-You can copy and extend the following [example]:
+You can copy and extend the previous example [here].
 
-[example]: <https://github.com/AskdataHQ/askdata-charts-components/tree/main/widgets/askdata/_widget_example/index.html>
+[here]: <https://github.com/AskdataHQ/askdata-charts-components/tree/main/widgets/askdata/_widget_example/index.html>
 
