@@ -38,6 +38,7 @@ The default pipeline is composed by **SmartIntent** + **Human2SQL**.
 </p>
 
 
-[NLP algorithms]: https://github.com/AskdataHQ/askdata-docs/blob/gh-pages/docs/nlp-advanced-configuration.md
+[NLP algorithms]: </docs/nlp-advanced-configuration>
+
 
 {% include links.html %}
