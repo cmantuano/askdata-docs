@@ -1,3 +1,16 @@
+---
+title: Widget Creation - Example of HTML
+keywords: documentation
+last_updated: June 17th, 2020
+tags: [getting-started]
+sidebar: mydoc_sidebar
+layout: doc
+---
+
+
+Here you can find a HTML template for creating a new widget. Follow these instructions.
+
+
 In the head tags of the HTML we're loading the libraries usually required to consume data for the specific widget contained in the Data Card.
 You are not required of using any of these libraries but you can use this doc as a reference since you have to follow the integration pattern.
 
@@ -74,6 +87,7 @@ success: function(data) {
 
 ```
 
-You can copy and extend the following example:
+You can copy and extend the following [example]:
 
-https://github.com/AskdataHQ/askdata-charts-components/tree/main/widgets/askdata/_widget_example/index.html
+[example]: <https://github.com/AskdataHQ/askdata-charts-components/tree/main/widgets/askdata/_widget_example/index.html>
+
