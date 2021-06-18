@@ -16,4 +16,4 @@ Here the guides:
 - others coming soon...
 
 
-[How to Publish a New Widget]: <https://github.com/AskdataHQ/askdata-docs/raw/gh-pages/docs/how-to-publish-a-new-widget.md>
+[How to Publish a New Widget]: <https://github.com/AskdataHQ/askdata-docs/blob/gh-pages/docs/how-to-publish-a-new-widget.md>
