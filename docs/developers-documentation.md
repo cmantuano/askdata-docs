@@ -17,3 +17,7 @@ Here the guides:
 
 
 [How to Publish a New Widget]: </docs/how-to-publish-a-new-widget>
+
+
+
+{% include links.html %}
