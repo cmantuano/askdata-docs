@@ -7,7 +7,7 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-Welcome to the Workspace Configuration. Here are mainly gathered instructions on how to configure and personalize the main workspace's settings.
+Welcome to the Workspace Configuration. Here there are mainly gathered instructions on how to configure and personalize the workspace's settings.
 
 
 ## Setting
@@ -24,4 +24,4 @@ coming soon...
 
 
 
-[NLP Pipeline Overview]: https://github.com/AskdataHQ/askdata-docs/blob/gh-pages/docs/NLP-pipeline-overview.md
+[NLP Pipeline Overview]: /docs/NLP-pipeline-overview
