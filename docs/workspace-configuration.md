@@ -18,6 +18,8 @@ coming soon...
 
 + If you want to have a look on how our NLP Pipeline works check out this documentation: [NLP Pipeline Overview]
 
+[prova](/docs/NLP-pipeline-overview)
+
 ## Look & Feel
 
 coming soon...
