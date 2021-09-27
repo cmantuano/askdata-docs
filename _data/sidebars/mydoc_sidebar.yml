@@ -137,7 +137,7 @@ entries:
       url: faq
       output: web, pdf
 
-  - title: Universities
+  - title: For Students
     output: web, pdf
 
     folderitems:
