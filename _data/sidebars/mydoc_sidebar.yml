@@ -138,7 +138,7 @@ entries:
       output: web, pdf
 
   - title: Universities
-      output: web, pdf
+    output: web, pdf
 
       folderitems:
       - title: Introduction to Python
