@@ -136,3 +136,16 @@ entries:
     - title: FAQs
       url: faq
       output: web, pdf
+
+- title: Universities
+    output: web, pdf
+
+    folderitems:
+    - title: Introduction to Python
+      url: docs/intro_python
+      output: web, pdf
+      
+    - title: FAQs
+      url: faq
+      output: web, pdf
+
