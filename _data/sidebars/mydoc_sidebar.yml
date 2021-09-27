@@ -146,6 +146,14 @@ entries:
       output: web, pdf
       
     - title: Pandas and Numpy Tutorial
-      url: docs/pandas.md
+      url: docs/pandas
+      output: web, pdf
+    
+    - title: Data Preparation and Visualization
+      url: docs/data_prep_and_viz
+      output: web, pdf
+
+    - title: Build Your First Model
+      url: docs/build_your_first_ml_model
       output: web, pdf
 
