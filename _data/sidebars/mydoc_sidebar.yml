@@ -137,7 +137,7 @@ entries:
       url: faq
       output: web, pdf
 
-  - title: For Students
+  - title: Learn To Code
     output: web, pdf
 
     folderitems:
@@ -145,7 +145,7 @@ entries:
       url: docs/intro_python
       output: web, pdf
       
-    - title: Pandas and Numpy Tutorial
+    - title: Pandas Tutorial
       url: docs/pandas
       output: web, pdf
     

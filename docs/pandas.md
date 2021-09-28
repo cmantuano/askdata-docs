@@ -1,70 +1,3 @@
-
-### Numpy
-
-It’s the universal standard for working with numerical data in Python, and it’s at the core of the scientific Python ecosystems. NumPy users include everyone from beginning coders to experienced researchers doing state-of-the-art scientific and industrial research and development. The NumPy API is used extensively in Pandas, SciPy, Matplotlib, scikit-learn, scikit-image and most other data science and scientific Python packages.
-
-
-```python
-!pip install numpy
- 
-# Importing NumPy and printing version number
-import numpy as np
-print(np.__version__)
-```
-
-
-```python
-a = np.array([[1,2,3],
-              [4,5,6]])
-
-b = np.array([[10,11,12],
-              [13,14,15]])
-
-c = a + b
-
-print(c)
-```
-
-    [[11 13 15]
-     [17 19 21]]
-
-
-
-```python
-i = np.eye(4)
-
-print(i)
-```
-
-    [[1. 0. 0. 0.]
-     [0. 1. 0. 0.]
-     [0. 0. 1. 0.]
-     [0. 0. 0. 1.]]
-
-
-## Exercises 
-
-a) Write a Python program that prints all the numbers from 0 to 6 except 3 and 6.
-
-b) Write a function that, takes as input two integers given by the user, computes the sum and prints "Yes" if the sum is bigger than 10 else "no" (default type of input is String, wrap it up with int)
-
-
-```python
-# for x in range(6):
-#     if (x == 3 or x==6):
-#         continue
-#     print(x)
-# print("\n")
-
-# def sum(n1, n2):
-#   if (n1 + n2 > 10):
-#     print("Yes")
-#   else:
-#     print("no")
-
-# sum(int(input()), int(input()))
-```
-
 ## Pandas basics
 
 <p align="center">
@@ -1230,4 +1163,4 @@ df = pd.read_csv("titanic.csv")
 ```
 
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14Oju1Z3fkKcUMd2KO-E1il1oHOVzpBr_?usp=sharing)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19PW3m7FeBxXBhFGEygZqRA90rWD-c8-R?usp=sharing)
