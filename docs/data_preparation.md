@@ -6,7 +6,7 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-
+## Data Cleaning
 
 it is important to be able to deal with messy data, whether that means missing values, inconsistent formatting, malformed records, or nonsensical outliers.
 
@@ -362,11 +362,11 @@ df.loc[len(df)] = ["32", "2", "2", "32", "1", "1", "1", "1", "1", "2", None, "4"
 osservatorio_data.rename(columns = {'quality':'Wine quality'}, inplace = True)
 ```
 
-### Detect Outliers
+## Detect Outliers
 
 Outliers need a special mention in this section. In statistics, an outlier is an observation point that is distant from other observations. We are not going to cover this since I think some kind of theoretical knowledge is required but keep in mind that this is really important when analyzing data.
 
-## 7) Lambda functions
+## Lambda functions
 
 A **lambda function** is just like any normal python function, except that it has no name when defining it, and it is contained in one line of code. A lambda function evaluates an expression for a given argument. You give the function a value (argument) and then provide the operation (expression). The keyword lambda must come first. A full colon (:) separates the argument and the expression.
 

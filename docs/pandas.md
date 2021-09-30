@@ -296,7 +296,7 @@ df.drop(columns = ["total acidity"]).head(3)
 
 a) create a dataframe with the method of your choice
 
-## 4. Learn how to use Pandas data structures in data science to manipulate data (group by, pivot, melt)
+## Learn how to use Pandas data structures in data science to manipulate data (group by, pivot, melt)
 
 Pandas offers a wide variety of different method to transform and manipulate your data. I will provide examples of some functions. For further details please check the [Pandas Official Documentation](https://pandas.pydata.org/docs/)
 
@@ -623,7 +623,7 @@ df[df["quality"]==3].head(3)
 
 
 
-### slicing
+### Slicing
 
 
 * loc gets rows (and/or columns) with particular labels.
@@ -753,7 +753,7 @@ df.loc[(df['quality'] == 5) & (df['volatile acidity'] == 0.700) & (df['residual 
 
 
 
-### groupby
+### GroupBy
 
 
 ```python
@@ -906,7 +906,7 @@ a) Calculate the average citric acid for red wine having "quality = 3"
 b)  Calculate the number of observations for every quality class
 
 
-### unique
+### Unique
 
 
 ```python
@@ -925,7 +925,7 @@ names
 
 a) How many different quality classes are represented in the df? Check if we have a quality == 10 
 
-### pivot
+### Pivot
 
 The pivot() function is used to reshaped a given DataFrame organized by given index / column values. This function does not support data aggregation, multiple values will result in a MultiIndex in the columns.
 
@@ -1053,7 +1053,7 @@ df_cars.pivot(index='cars', columns='Country', values='sales')
 
 
 
-## 5. Understand techniques for accessing and using files
+## Understand techniques for accessing and using files
 
 Different functions to deal with different files.
 

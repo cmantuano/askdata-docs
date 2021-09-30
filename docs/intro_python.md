@@ -157,7 +157,7 @@ drive.mount('/content/drive')
 # In addition, you can have a maximum of 2 notebooks running simultaneously.
 ```
 
-### List comprehension
+## List comprehension
 
 List comprehension offers a shorter syntax when you want to create a new list based on the values of an existing list.
 
@@ -186,7 +186,7 @@ print(newlist)
 # newlist = [expression for item in iterable if condition == True]
 ```
 
-### Exercise
+## Exercise
 
 a) For example, let's say we need to create a list of integers which specify the length of each word in a certain sentence, but only if the word is not the word for".
 ```python
