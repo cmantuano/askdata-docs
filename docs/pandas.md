@@ -163,12 +163,18 @@ df
 
 
 ```python
-import pandas as pd
+#Load df from askdata, explicit way
 
-#Implicit definition of a dataframe, if I do not specify the separator it doesn't work as expected
-# help(object)
+username = "geyos65958@ergowiki.com"
+password = "Password"
 
-df = pd.read_csv("wine-red.csv", sep=";")
+!pip install askdata
+from askdata import Agent, Askdata
+
+
+askdata = Askdata(username = username, password = password)
+agent = askdata.agent("red_wine")
+df = agent.load_dataset("red_wine")
 ```
 
 
@@ -1102,7 +1108,7 @@ For this final exercise, you are going to use the (in)famous titanic dataset. He
 
 
 
-a) Load the dataset "titanic"
+a) Load the dataset "titanic" (via Askdata, username = "fosic56191@ppp998.com" , password = "Luiss1234!") 
 
 b) Explore the dataset and get a basic understanding of it (How many columns are numerical, categorical, ecc..)
 
@@ -1127,8 +1133,10 @@ Find all of the words in a string that are less than 5 letters
 
 ```python
 # A
-import pandas as pd 
-df = pd.read_csv("titanic.csv")
+from askdata import Askdata
+
+askdata = Askdata(username = "fosic56191@ppp998.com", password = "Luiss1234!")
+agent_name = "titanic"
 
 
 # C

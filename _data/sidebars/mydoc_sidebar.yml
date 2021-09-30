@@ -149,8 +149,12 @@ entries:
       url: docs/pandas
       output: web, pdf
     
-    - title: Data Preparation and Visualization
-      url: docs/data_prep_and_viz
+    - title: Data Preparation
+      url: docs/data_preparation
+      output: web, pdf
+
+    - title: Data Visualization
+      url: docs/data_visualization
       output: web, pdf
 
     - title: Build Your First Model

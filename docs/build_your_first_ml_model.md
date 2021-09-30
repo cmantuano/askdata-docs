@@ -21,7 +21,19 @@ from sklearn.linear_model import LinearRegression
 
 
 ```python
-df = pd.read_csv("wine-red.csv", sep=";")
+##Load Dataset via Askdata
+
+username = "geyos65958@ergowiki.com"
+password = "Password"
+
+!pip install askdata
+
+from askdata import Agent, Askdata
+
+
+askdata = Askdata(username = username, password = password)
+agent = askdata.agent("red_wine")
+df = agent.load_dataset("red_wine")
 
 #IGNORE THIS
 df1 = df.pop('alcohol') # remove column b and store it in df1
@@ -230,27 +242,21 @@ import matplotlib.pyplot as plt
 ### Bar plot
 
 # create a figure and axis 
-fig, ax = plt.subplots() 
-# count the occurrence of each class 
-data =df[df["Survived"]=="1"].groupby(["Pclass"]).count()["Survived"]
-# get x and y data 
-points = data.index 
-frequency = data.values 
-# create bar chart 
-ax.bar(points, frequency) 
-# set title and labels 
-ax.set_title('Titanic data') 
-ax.set_xlabel('Survivors') 
-ax.set_ylabel('Frequency')
-fig.show()
+# fig, ax = plt.subplots() 
+# # count the occurrence of each class 
+# data =df[df["Survived"]=="1"].groupby(["Pclass"]).count()["Survived"]
+# # get x and y data 
+# points = data.index 
+# frequency = data.values 
+# # create bar chart 
+# ax.bar(points, frequency) 
+# # set title and labels 
+# ax.set_title('Titanic data') 
+# ax.set_xlabel('Survivors') 
+# ax.set_ylabel('Frequency')
+# fig.show()
 ```
 
-    [category.py:219 -               update() ] - 2021-09-18 10:25:06,236 --> Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-    [category.py:219 -               update() ] - 2021-09-18 10:25:06,238 --> Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-
-
-
-![png](ml_files/ml_16_1.png)
 
 
 
@@ -303,37 +309,8 @@ reg.score(X_test, y_test) #Returns R^2..not that bad
 
 
 ```python
-reg.predict(X_test)
+reg.predict(X_test)[0:10]
 ```
-
-
-
-
-    array(['0', '0', '0', '1', '0', '1', '0', '0', '0', '1', '1', '0', '0',
-           '0', '0', '1', '1', '0', '0', '1', '0', '1', '0', '0', '0', '0',
-           '1', '0', '0', '0', '0', '0', '1', '0', '0', '0', '1', '0', '1',
-           '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '1',
-           '0', '1', '0', '1', '0', '1', '0', '0', '0', '1', '0', '1', '0',
-           '0', '1', '0', '0', '0', '0', '1', '1', '1', '0', '0', '0', '1',
-           '0', '0', '0', '0', '1', '0', '0', '0', '1', '1', '1', '0', '1',
-           '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0',
-           '0', '0', '0', '1', '0', '1', '1', '0', '1', '1', '1', '0', '0',
-           '0', '1', '0', '0', '1', '0', '1', '0', '1', '1', '1', '0', '0',
-           '0', '0', '0', '0', '0', '0', '1', '0', '0', '0', '0', '0', '0',
-           '0', '0', '0', '0', '0', '1', '0', '0', '0', '0', '0', '0', '0',
-           '0', '0', '0', '0', '0', '1', '0', '1', '0', '0', '0', '1', '0',
-           '0', '1', '1', '1', '0', '0', '0', '0', '1', '0', '1', '0', '0',
-           '0', '0', '1', '1', '0', '0', '1', '0', '0', '0', '0', '0', '0',
-           '1', '1', '0', '1', '0', '0', '0', '1', '0', '0', '0', '0', '1',
-           '0', '0', '1', '0', '1', '0', '0', '0', '0', '1', '1', '0', '0',
-           '0', '0', '1', '0', '1', '0', '1', '0', '0', '0', '1', '0', '0',
-           '0', '0', '0', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0',
-           '0', '0', '0', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0',
-           '1', '0', '0', '0', '1', '0', '0', '1', '1', '0', '0', '0', '0',
-           '1', '0', '0', '0', '0', '1', '0', '0', '0', '1', '0', '0', '0',
-           '0', '0', '1', '0', '0', '0', '1', '0', '0'], dtype=object)
-
-
 
 
 ```python
