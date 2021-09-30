@@ -1,5 +1,11 @@
+---
+title: Introduction to Python
+keywords: documentation
+tags: [learn-to-code]
+sidebar: mydoc_sidebar
+layout: doc
+---
 
-## 1. Introduction to Python
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png"/>
@@ -47,7 +53,7 @@ Mutable is a fancy way of saying that the internal state of the object is change
   <img src="https://miro.medium.com/max/538/1*sAoqf0mk34ij9RomTq2zdQ.png"/>
 </p>
 
-## 2. Introduction to Jupyter Notebooks and Colab Environment
+## Jupyter Notebooks and Colab Environment
 
 Notebook documents (or “notebooks”) are documents produced by the Jupyter Notebook App, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…). Notebook documents are both **human-readable** documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run **to perform data analysis**.
 

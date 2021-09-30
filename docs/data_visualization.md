@@ -28,6 +28,8 @@ agent = askdata.agent("red_wine")
 df = agent.load_dataset("red_wine")
 ```
 
+## Scatter Plot
+
 To create a scatter plot in Matplotlib we can use the scatter method. We will also create a figure and an axis using plt.subplots so we can give our plot a title and labels.
 
 
@@ -52,6 +54,7 @@ fig.show()
      
 Data visualization is often crucial if you want to transmit someone a message. For this reason, it is always reccomended investing your time in this activity. When I am in need of fancy graphs, I always visit [this website](https://www.python-graph-gallery.com/) which offers a huge variety of graphs with ready to use code snippets. 
 
+## Bar Chart
 
 ```python
 ### Bar plot

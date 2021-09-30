@@ -1,5 +1,12 @@
+---
+title: Data preparation
+keywords: documentation
+tags: [learn-to-code]
+sidebar: mydoc_sidebar
+layout: doc
+---
 
-## Data preparation
+
 
 it is important to be able to deal with messy data, whether that means missing values, inconsistent formatting, malformed records, or nonsensical outliers.
 

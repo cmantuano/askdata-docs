@@ -1,4 +1,12 @@
-## Pandas basics
+---
+title: Pandas Tutorial
+keywords: documentation
+tags: [learn-to-code]
+sidebar: mydoc_sidebar
+layout: doc
+---
+
+## Pandas Basics
 
 <p align="center">
   <img src="https://miro.medium.com/max/798/1*93CVLqnQESmvfOhzvYUgQw.png"/>

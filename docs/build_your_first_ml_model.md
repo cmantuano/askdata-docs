@@ -1,6 +1,10 @@
-
-## 8) Your first machine learning algorithm (small model)
-
+---
+title: Your first machine learning algorithm
+keywords: documentation
+tags: [learn-to-code]
+sidebar: mydoc_sidebar
+layout: doc
+---
 Remember that the final goal is always to discover and exploit the information that is hidden in the data. For this reason, since we have cleaned our data and checked that everything is in place we are going to build our first (super basic) machine learning model. The simplest option is the **linear regression**, you can' t call yourself an acknowledged person in the Big Data world if you do not know what linear regression is. For this reason, I am going to provide a little bit of context here:
 
 Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data. One variable is considered to be an explanatory variable, and the other is considered to be a dependent variable. For example, a modeler might want to relate the weights of individuals to their heights using a linear regression model.
