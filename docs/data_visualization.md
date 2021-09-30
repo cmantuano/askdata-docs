@@ -1,5 +1,11 @@
+---
+title: Data Visualization
+keywords: documentation
+tags: [learn-to-code]
+sidebar: mydoc_sidebar
+layout: doc
+---
 
-## Data Visualization
 
 Data visualization is the discipline of trying to understand data by placing it in a visual context so that patterns, trends and correlations that might not otherwise be detected can be exposed. Python offers multiple great graphing libraries that come packed with lots of different features.
 
@@ -41,8 +47,9 @@ ax.scatter(df['Quality'], df['Ph'])
 fig.show()
 ```
 <img src="https://s3.eu-central-1.amazonaws.com/innaas.smartfeed/icons/python_course1.png"
-     alt="Markdown Monster icon"
-      />
+     alt="Markdown Monster icon"/>
+
+     
 Data visualization is often crucial if you want to transmit someone a message. For this reason, it is always reccomended investing your time in this activity. When I am in need of fancy graphs, I always visit [this website](https://www.python-graph-gallery.com/) which offers a huge variety of graphs with ready to use code snippets. 
 
 
