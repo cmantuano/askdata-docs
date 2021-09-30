@@ -26,6 +26,7 @@ To create a scatter plot in Matplotlib we can use the scatter method. We will al
 
 
 ```python
+
 import matplotlib.pyplot as plt
 
 # create a figure and axis
@@ -39,11 +40,9 @@ ax.scatter(df['Quality'], df['Ph'])
 # ax.set_ylabel('pH')
 fig.show()
 ```
-
 <img src="https://s3.eu-central-1.amazonaws.com/innaas.smartfeed/icons/python_course1.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
+      />
 Data visualization is often crucial if you want to transmit someone a message. For this reason, it is always reccomended investing your time in this activity. When I am in need of fancy graphs, I always visit [this website](https://www.python-graph-gallery.com/) which offers a huge variety of graphs with ready to use code snippets. 
 
 
@@ -67,8 +66,7 @@ fig.show()
 ```
 
 <img src="https://s3.eu-central-1.amazonaws.com/innaas.smartfeed/icons/python_course2.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     alt="Markdown Monster icon" />
 
 
 ## Correlation
@@ -87,8 +85,7 @@ plt.title('Correlation Matrix', fontsize=16);
 ```
 
 <img src="https://s3.eu-central-1.amazonaws.com/innaas.smartfeed/icons/python_course3.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     alt="Markdown Monster icon" />
 
 Why is correlation important?
 
