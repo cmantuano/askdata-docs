@@ -11,27 +11,25 @@ Data visualization is the discipline of trying to understand data by placing it 
 
 Matplotlib is one of the most used libraries: is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
-
 ```python
-##Load Dataset via Askdata
-
-username = "geyos65958@ergowiki.com"
-password = "Password"
-
+## Install Askdata via PyPi
 !pip install askdata
 
+# Load modules
 from askdata import Agent, Askdata
 
+# Authenticate to Askdata (the system will ask for e-mail and password)
+askdata = Askdata()
 
-askdata = Askdata(username = username, password = password)
+#Load dataset
 agent = askdata.agent("red_wine")
 df = agent.load_dataset("red_wine")
+df
 ```
 
 ## Scatter Plot
 
 To create a scatter plot in Matplotlib we can use the scatter method. We will also create a figure and an axis using plt.subplots so we can give our plot a title and labels.
-
 
 ```python
 
@@ -74,10 +72,8 @@ ax.set_xlabel('Points')
 ax.set_ylabel('Frequency')
 fig.show()
 ```
-
 <img src="https://s3.eu-central-1.amazonaws.com/innaas.smartfeed/icons/python_course2.png"
      alt="Markdown Monster icon" />
-
 
 ## Correlation
 
