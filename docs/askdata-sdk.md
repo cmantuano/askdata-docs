@@ -19,7 +19,7 @@ The Askdata team has developed an handy Python SDK that can be installed with on
 
 We've prepared a Google Colab for a fast experimentation
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AskdataInc/askdata-examples/blob/master/notebooks/Askdata%20-%20Quickstart.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AskdataHQ/askdata-docs/blob/gh-pages/notebooks/Askdata%20-%20Quickstart.ipynb)
 
 #### Other resources
 
