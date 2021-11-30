@@ -1,5 +1,5 @@
 ---
-title: AI Task Sentence Classification Italian
+title: AI Task Sentence Classification (Italian)
 keywords: documentation
 last_updated: November 30th, 2021
 tags: [getting-started]
@@ -7,32 +7,33 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-This workflow generates summaries automatically summaries using a proprietarly AI-driven NLP summarization model
+This workflow automatically classify italian sentence or tickets using a proprietarly AI-driven NLP classification model.
 
-## Instruction to use ###
+# Instruction to use #
 
-**Column (col_to_classify)**
+The workflow requires as input:
+  - dataset
+  - column_name: name of a column to classify of the given dataset
+  - output_column_name: optional name of the target column where the outputs will be stored. Default is "Topics".
+  - model: optional string to specify the model, used to classify the input sentence. Default model is.
 
-Column to classify
-
-** Model name **
-
-You can leave this value bank. Default model is a zero shot classification... blahl blah..
-Get in touch with the Askdata team if you to bind a custom model
-
-** List of classes **
-
-Name of the target column where summaries will be stored 
-
-``` ["request for info" , "request for support"] ``` 
+The workflow returns as output a new dataset with the selected *column_name* and the *output_column_name*.
 
 
-**Output Column Name (output_col_name)**
+### Model and classes ###
 
-Name of the target column where summaries will be stored 
+Default model is a one-shot classifier.
+
+Two owner models can be used writing in the box "timmodel" to use a sentence classifier or "sogeimodel" to use a ticket classifier.
+
+Get in touch with the Askdata team if you want to bind a new model.
+
 
 ## Example of output ###
 
-...example here ....
+|Sentence|Topics|
+|-|-|
+|we|a|
+
 
 {% include links.html %}
