@@ -1,5 +1,5 @@
 ---
-title: AI Task: Sentence Classification Italian (sentence_classification_italian)
+title: AI Task: Sentence Classification Italian
 keywords: documentation
 last_updated: Novembre 30th, 2021
 tags: [getting-started]
