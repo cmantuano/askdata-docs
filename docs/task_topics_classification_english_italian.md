@@ -1,0 +1,42 @@
+---
+title: AI Task Topics Classification (English, Italian)
+keywords: documentation
+last_updated: November 30th, 2021
+tags: [getting-started]
+sidebar: mydoc_sidebar
+layout: doc
+---
+
+This workflow automatically finds topics of given input sentences, using an AI-driven NLP classification model.
+
+# Instruction to use #
+
+The workflow requires as input:
+  - dataset
+  - column_name: name of a column to classify of the given dataset
+  - output_column_name: optional name of the target column where the outputs will be stored. Default is "Topics".
+  - labels: optional list of labels or classes to classify the input sentence. Default classes are described in the next section.
+
+The workflow returns as output a new dataset with the selected *column_name* and the *output_column_name*.
+
+
+### Model and classes ###
+
+Default model is a zero-shot classification with labels: ```Greeting, Error, Report, Solved, Request, Payment, View, Documents, Other, Action, Office, Blocked, Income```.
+
+Also, other labels can be specified, as: ```mobile, fixed, fiber, internet, network, mail, phone, technology, decoder, other, missing operators, assistance, disservice, forum, report, product, problem, tim box, tim vision, dazn, price, registration problem, access problem, video problem, connection problem, charge problem```.
+
+Get in touch with the Askdata team if you to bind a new model.
+
+
+## Example of output ###
+
+The following examples are used with labels = ```mobile, fixed, fiber, internet, network, mail, phone, technology, decoder, other, missing operators, assistance, disservice, forum, report, product, problem, tim box, tim vision, dazn, price, registration problem, access problem, video problem, connection problem, charge problem```.
+
+
+|Sentence|Topics|
+|-|-|
+|Salve, ho parlato con un operatore ma non ha risolto il mio problema. La mia linea internet non funziona da 7 giorni.|access problem, internet|
+|Salve, ho chiamato più volte ma l'assistenza non risponde! Il mio smartphone non si carica ed ha quale problema.|phone, assistance|
+
+{% include links.html %}
