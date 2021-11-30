@@ -26,7 +26,7 @@ Default model is a zero-shot classification with labels: ```Greeting, Error, Rep
 
 Also, other labels can be specified, as: ```mobile, fixed, fiber, internet, network, mail, phone, technology, decoder, other, missing operators, assistance, disservice, forum, report, product, problem, tim box, tim vision, dazn, price, registration problem, access problem, video problem, connection problem, charge problem```.
 
-Get in touch with the Askdata team if you to bind a new model.
+Get in touch with the Askdata team if you want to bind a new model.
 
 
 ## Example of output ###
