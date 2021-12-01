@@ -2,7 +2,7 @@
 title: List of AI Tasks
 keywords: documentation
 last_updated: December 1st, 2021
-tags: [getting-started]
+tags: [admin-guide]
 sidebar: mydoc_sidebar
 layout: doc
 ---
