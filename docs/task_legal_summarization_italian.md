@@ -1,7 +1,7 @@
 ---
 title: AI Task Italian Legal Summarization 
 keywords: documentation
-last_updated: November 30th, 2021
+last_updated: December 1st, 2021
 tags: [getting-started]
 sidebar: mydoc_sidebar
 layout: doc
@@ -18,7 +18,7 @@ The workflow requires as input:
 - **column_name**: name of a column of the given dataset (*mandatory*)
 - **output_column_name**: name of the target column where summaries will be stored (*optional*)
 
-The workflow returns as output a new dataset with the selected **column_name** and the **output_column_name**.
+The workflow returns as output a new dataset with the selected **column_name** and the **output_column_name** if specifies, **Summarized Text** otherwise.
 
 # Example of usage #
 
