@@ -27,6 +27,10 @@ Learn how to train a new synonym and improve the understanding of your agent
 
 Learn how to create complex data connections and rules
 
+##### [Workflow Tasks](/docs/tasks)
+
+Learn about our workflow tasks and how to execute them
+
 {% include links.html %}
 
     
