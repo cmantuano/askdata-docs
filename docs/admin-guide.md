@@ -11,7 +11,7 @@ Welcome in the *Admin Guide*. This section of the documentation is specifically 
 
 Use those links to go from a novice level to and advanced users.
 
-##### [Create and Agent](/docs/how-to-create-an-askdata-agent)
+##### [Create a workspace](/docs/how-to-create-an-askdata-workspace)
 
 Learn how to create a new agent.
 
