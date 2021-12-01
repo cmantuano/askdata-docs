@@ -2,7 +2,7 @@
 title: AI Task Topics Classification (English, Italian)
 keywords: documentation
 last_updated: November 30th, 2021
-tags: [task_topics_classification_english_italian]
+tags: [getting-started]
 sidebar: mydoc_sidebar
 layout: doc
 ---
