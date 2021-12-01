@@ -9,31 +9,30 @@ layout: doc
 
 This workflow automatically classify italian sentence or tickets using a proprietarly AI-driven NLP classification model.
 
-# Instruction to use #
+# About the task #
 
 The workflow requires as input:
   - dataset
   - column_name: name of a column to classify of the given dataset
   - output_column_name: optional name of the target column where the outputs will be stored. Default is "Topics".
-  - model: optional string to specify the model, used to classify the input sentence. Default model is.
+  - model: optional string to specify the model, used to classify the input sentence. Default model is [...].
 
 The workflow returns as output a new dataset with the selected *column_name* and the *output_column_name*.
 
 
-### Model and classes ###
+## Model and classes ##
 
-Default model is a one-shot classifier.
-
-Two owner models can be used writing in the box "timmodel" to use a sentence classifier or "sogeimodel" to use a ticket classifier.
+Default model is a one-shot classifier based on Bert model. The labels are: ```internet, mail, phone, technology, other, assistance, disservice, report, product, problem, price,  access, video, audio, games, light, building```.
 
 Get in touch with the Askdata team if you want to bind a new model.
 
 
 ## Example of output ###
 
-|Sentence|Topics|
+|Sentence|Classes|
 |-|-|
-|we|a|
+|Salve, ho chiamato più volte ma l'assistenza non risponde! Il mio smartphone non si carica ed ha quale problema.|Consumer, Experience, Mercato, Tecnologia|
+|Buongiorno, la mia linea internet va un pò lenta da qualche giorno, potete inviare un tecnico?|Consumer, Experience, Mercato|
 
 
 {% include links.html %}
