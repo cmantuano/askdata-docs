@@ -12,17 +12,18 @@ This workflow automatically classify italian sentence or tickets using a proprie
 # About the task #
 
 The workflow requires as input:
-  - dataset
-  - column_name: name of a column to classify of the given dataset
-  - output_column_name: optional name of the target column where the outputs will be stored. Default is "Topics".
-  - model: optional string to specify the model, used to classify the input sentence. Default model is [...].
+  - Dataset
+  - Column: name of a column to classify of the given dataset.
+  - Output column name: (*optional*) name of the target column where the outputs will be stored. Default is "Topics".
+  - Slug of Dataset Output: slug where the output dataset will be saved.
+  - Model: (*optional*) string to specify the model, used to classify the input sentence. Default model is a BERT-based one-shot classifier.
 
-The workflow returns as output a new dataset with the selected *column_name* and the *output_column_name*.
+The workflow returns as output the input dataset with the addition of the *output_column_name* with the model outputs.
 
 
 ## Model and classes ##
 
-Default model is a one-shot classifier based on Bert model. The labels are: ```internet, mail, phone, technology, other, assistance, disservice, report, product, problem, price,  access, video, audio, games, light, building```.
+Default model is a one-shot classifier based on BERT. The labels are: ```internet, mail, phone, technology, other, assistance, disservice, report, product, problem, price,  access, video, audio, games, light, building```.
 
 Get in touch with the Askdata team if you want to bind a new model.
 
