@@ -29,7 +29,7 @@ Also, other labels can be specified, as: ```mobile, fixed, fiber, internet, netw
 Get in touch with the Askdata team if you want to bind a new model.
 
 
-## Example of output ###
+## Example of usage ###
 
 The following examples are used with labels = ```mobile, fixed, fiber, internet, network, mail, phone, technology, decoder, other, missing operators, assistance, disservice, forum, report, product, problem, tim box, tim vision, dazn, price, registration problem, access problem, video problem, connection problem, charge problem```.
 
