@@ -2,7 +2,7 @@
 title: AI Task Italian Sentiment & Emotion Classification
 keywords: documentation
 last_updated: December 1st, 2021
-tags: [task_sentiment_emotion_classification_italian]
+tags: [getting-started]
 sidebar: mydoc_sidebar
 layout: doc
 ---
