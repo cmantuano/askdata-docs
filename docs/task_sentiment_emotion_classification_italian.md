@@ -1,5 +1,5 @@
 ---
-title: AI Task Italian Sentiment & Emotion Classification
+title: AI Task Sentiment & Emotion Classification (Italian)
 keywords: documentation
 last_updated: December 1st, 2021
 tags: [getting-started]
@@ -7,7 +7,7 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-The Italian Sentiment & Emotion Classification Task is a workflow that generates automatically sentiment and emotion values for italian sentences, using proprietarly AI-driven NLP model.
+The Sentiment & Emotion Classification (Italian) Task is a workflow that generates automatically sentiment and emotion values for italian sentences, using proprietarly AI-driven NLP model.
 
 
 # About the task #
