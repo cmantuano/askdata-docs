@@ -13,7 +13,11 @@ Use those links to go from a novice level to and advanced users.
 
 ##### [Create a workspace](/docs/how-to-create-an-askdata-workspace)
 
-Learn how to create a new agent.
+Learn how to create a new workspace.
+
+##### [Configure a workspace](/docs/workspace-configuration)
+
+Learn ho to configure a new workspace
 
 ##### [Connect your Data](/docs/how-to-connect-a-dataset)
 
