@@ -17,8 +17,8 @@ The workflow requires as input:
 - **column_name**: name of a column of the given dataset (*mandatory*)
 
 The classification is done with two models:
-- a BERT-based model that outputs **sentiment**, whose possible labels are: *Positive*, *Neutral* and *Negative*
-- a model that outputs **emotion**, whose possible labels are: *Happy*, *Sad*, *Angry*
+- a BERT-based model that outputs **sentiment**, whose possible labels are: ```Positive, Neutral, Negative```
+- a model that outputs **emotion**, whose possible labels are: ```Happy, Sad, Angry```
 
 Thus, the workflow returns as output a new dataset with the selected **column_name** and the outputs of the aforementioned model.
 
