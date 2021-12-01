@@ -22,7 +22,7 @@ The workflow returns as output a new dataset with the selected *column_name* and
 
 ### Model and classes ###
 
-Default model is a zero-shot classification with labels: ```Greeting, Error, Report, Solved, Request, Payment, View, Documents, Other, Action, Office, Blocked, Income```.
+Default model is a zero-shot classification model based on BERT, with output labels: ```Greeting, Error, Report, Solved, Request, Payment, View, Documents, Other, Action, Office, Blocked, Income```.
 
 Also, other labels can be specified, as: ```mobile, fixed, fiber, internet, network, mail, phone, technology, decoder, other, missing operators, assistance, disservice, forum, report, product, problem, tim box, tim vision, dazn, price, registration problem, access problem, video problem, connection problem, charge problem```.
 
