@@ -8,7 +8,7 @@ layout: doc
 
 ---
 
-#### Add a new dataset to your Workspace
+## Add a new dataset to your Workspace
 
 Select the Workspace to which you want to add your dataset, and in the main feed click on the **Datasets** button.
 
