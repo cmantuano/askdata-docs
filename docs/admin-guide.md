@@ -19,7 +19,7 @@ Learn how to create a new workspace.
 
 Learn ho to configure a new workspace
 
-##### [Connect your Data](/docs/how-to-connect-a-dataset)
+##### [Connect your Data](/docs/how-to-add-a-new-dataset)
 
 Discover the common steps to add a new dataset
 
