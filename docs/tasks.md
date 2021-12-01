@@ -14,3 +14,4 @@ layout: doc
 - [Summarization (English)](/docs/task_summarization_english)
 - [Topics Classification (English/Italian)](/docs/task_topics_classification_english_italian)
 - [Sentiment & Emotion Classification (Italian)](/docs/task_sentiment_emotion_classification_italian)
+- [Text Classification Keyword](/docs/task_text_classification_keyword)
