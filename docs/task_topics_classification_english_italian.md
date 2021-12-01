@@ -9,7 +9,7 @@ layout: doc
 
 This workflow automatically finds topics of given input sentences, using an AI-driven NLP classification model.
 
-# Instruction to use #
+# About the task #
 
 The workflow requires as input:
   - dataset
@@ -20,7 +20,7 @@ The workflow requires as input:
 The workflow returns as output a new dataset with the selected *column_name* and the *output_column_name*.
 
 
-### Model and classes ###
+## Model and classes ##
 
 Default model is a zero-shot classification model based on BERT, with output labels: ```Greeting, Error, Report, Solved, Request, Payment, View, Documents, Other, Action, Office, Blocked, Income```.
 
