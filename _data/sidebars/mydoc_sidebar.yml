@@ -87,6 +87,10 @@ entries:
     - title: Configure other channels
       url: docs/advanced-configuration-other-channels
       output: web, pdf
+    
+    - title: Workflow Tasks
+      url: docs/tasks
+      output: web, pdf
 
   - title: Video & Demo
     output: web, pdf
