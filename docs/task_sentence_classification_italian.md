@@ -27,7 +27,7 @@ Default model is a one-shot classifier based on Bert model. The labels are: ```i
 Get in touch with the Askdata team if you want to bind a new model.
 
 
-## Example of output ###
+## Example of usage ###
 
 |Sentence|Classes|
 |-|-|
