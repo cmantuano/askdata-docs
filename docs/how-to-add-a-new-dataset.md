@@ -26,6 +26,10 @@ Once you selected the dataset, you will have a new modal to configure the new da
 
 Each dataset has a different configuration in order to enstablish a data source connection.
 
+In the left menu there's the “Connection” tab that can be used to establish a connection with data source.
+
+Once you have completed you can simply press Save. Askdata will discover the dimensions (entities) and measures and build a knowledge graph that can be extended with synonyms and entity relationships over time.
+
 You can further optimize the Data Consumption experience following [this link](/docs/how-to-configure-your-dataset).
 
 {% include links.html %}
