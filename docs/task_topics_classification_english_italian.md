@@ -12,12 +12,13 @@ This workflow automatically finds topics of given input sentences, using an AI-d
 # About the task #
 
 The workflow requires as input:
-  - dataset
-  - column_name: name of a column to classify of the given dataset
-  - output_column_name: optional name of the target column where the outputs will be stored. Default is "Topics".
-  - labels: optional list of labels or classes to classify the input sentence. Default classes are described in the next section.
+  - Dataset
+  - Column: name of a column to classify of the given dataset.
+  - Output column name: (*optional*) name of the target column where the outputs will be stored. Default is "Topics".
+  - Slug of Dataset Output: slug where the output dataset will be saved.
+  - Labels: (*optional*) list of labels or classes to classify the input sentence. Default classes are described in the next section.
 
-The workflow returns as output a new dataset with the selected *column_name* and the *output_column_name*.
+The workflow returns as output the input dataset with the addition of the *output_column_name* with the model outputs.
 
 
 ## Model and classes ##
