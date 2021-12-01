@@ -21,7 +21,11 @@ Learn ho to configure a new workspace
 
 ##### [Connect your Data](/docs/how-to-connect-a-dataset)
 
-Discover the common steps to add and configure a new dataset.
+Discover the common steps to add a new dataset
+
+##### [Configure your Dataset](/docs/how-to-configure-your-dataset)
+
+Learn how to configure the dataset just added
 
 ##### [Train a new Synonym](/docs/how-to-train-a-synonym)
 
