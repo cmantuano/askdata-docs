@@ -2,7 +2,7 @@
 title: AI Task Italian Legal Summarization 
 keywords: documentation
 last_updated: December 1st, 2021
-tags: [getting-started]
+tags: [task_legal_summarization_italian]
 sidebar: mydoc_sidebar
 layout: doc
 ---
