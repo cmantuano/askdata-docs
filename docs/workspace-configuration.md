@@ -2,7 +2,7 @@
 title: Workspace Configuration
 keywords: documentation
 last_updated: June 17th, 2020
-tags: [getting-started]
+tags: [admin-guide]
 sidebar: mydoc_sidebar
 layout: doc
 ---
