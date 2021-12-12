@@ -125,12 +125,16 @@ entries:
       url: docs/developers-documentation
       output: web, pdf
     
-    - title: SDK Documentation
+    - title: Python SDK Documentation
       url: docs/askdata-sdk
       output: web, pdf
 
     - title: API Documentation
       url: docs/api-documentation
+      output: web, pdf
+      
+    - title: Develop new Integrations
+      url: docs/adocs/create_a_dataset_integration
       output: web, pdf
 
   - title: Support and FAQ
