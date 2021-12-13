@@ -134,7 +134,7 @@ entries:
       output: web, pdf
       
     - title: Develop new Integrations
-      url: docs/adocs/create_a_dataset_integration
+      url: docs/create_a_dataset_integration
       output: web, pdf
 
   - title: Support and FAQ
