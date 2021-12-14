@@ -4,7 +4,7 @@ keywords: documentation
 last_updated: May 11th, 2021
 tags: [getting-started]
 sidebar: mydoc_sidebar
-layout: doc
+layout: post
 ---
 # The Script Component
 This component allows the user to implement simple javascript transformation for resultset.
