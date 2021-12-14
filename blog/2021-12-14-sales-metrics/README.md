@@ -1,14 +1,11 @@
 ---
-title: PowerShell: Connect to MS SQL Server and save results as CSV
+title: New title
 keywords: documentation
-last_updated: October 19th, 2021
+last_updated: December 14th, 2021
 tags: [admin-guide]
 sidebar: mydoc_sidebar
 layout: doc
 
 ---
 
-## This is a blog post
-
-
-
+## This is the first blog post
