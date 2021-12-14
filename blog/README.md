@@ -1,7 +1,7 @@
-Wow version 3
+## Blog posts
 
 {% for file in site.static_files %}
   {% if file.path contains "blog/" %}
-    https://docs.askdata.com/blog/{{ file.basename }}
+    <a href="/blog/{{ file.basename }}">https://docs.askdata.com/blog/{{ file.basename }}</a>
   {% endif %}
 {% endfor %}
