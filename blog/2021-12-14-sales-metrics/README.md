@@ -1,8 +1,10 @@
 ---
 title: "Blog post"
-categories: jekyll update
-permalink: myupdate.html
-tags: [news]
+keywords: documentation
+last_updated: March 15th, 2021
+tags: [getting-started]
+sidebar: mydoc_sidebar
+layout: doc
 ---
 
 This is a blog post
