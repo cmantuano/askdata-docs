@@ -1,0 +1,38 @@
+entries:
+- title: Blog
+  posts:
+  - title: Impact of the NLP Conversational Analytics
+    slug: askdata-and-the-impact-of-the-nlp-conversational-analytics
+    date: 2021-12-01
+    author: Simone Di Somma
+    image: https://askdata.com/assets/images/common/logo_color-nobkg.png
+    
+  - title: Askdata SDK is out
+    slug: askdata-python-sdk-is-out
+    date: 2021-12-05
+    author: Simone Di Somma
+    image: https://askdata.com/assets/images/common/logo_color-nobkg.png
+ 
+   - title: Third post!
+    slug: askdata-python-sdk-is-out
+    date: 2021-12-05
+    author: Simone Di Somma
+    image: https://askdata.com/assets/images/common/logo_color-nobkg.png
+    
+   - title: 4th blog post!
+    slug: askdata-python-sdk-is-out
+    date: 2021-12-05
+    author: Simone Di Somma
+    image: https://askdata.com/assets/images/common/logo_color-nobkg.png
+ 
+    - title: 5th blog post!
+    slug: askdata-python-sdk-is-out
+    date: 2021-12-05
+    author: Simone Di Somma
+    image: https://askdata.com/assets/images/common/logo_color-nobkg.png
+    
+    - title: 6th blog post!
+    slug: askdata-python-sdk-is-out
+    date: 2021-12-05
+    author: Simone Di Somma
+    image: https://askdata.com/assets/images/common/logo_color-nobkg.png
