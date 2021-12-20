@@ -142,11 +142,11 @@ entries:
 
     folderitems:
     - title: Request Support
-      url: support
+      url: docs/support
       output: web, pdf
       
     - title: FAQs
-      url: faq
+      url: docs/faq
       output: web, pdf
 
   - title: Learn To Code
