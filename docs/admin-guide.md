@@ -11,13 +11,21 @@ Welcome in the *Admin Guide*. This section of the documentation is specifically 
 
 Use those links to go from a novice level to and advanced users.
 
-##### [Create and Agent](/docs/how-to-create-an-askdata-agent)
+##### [Create a workspace](/docs/how-to-create-an-askdata-workspace)
 
-Learn how to create a new agent.
+Learn how to create a new workspace.
 
-##### [Connect your Data](/docs/how-to-connect-a-dataset)
+##### [Configure a workspace](/docs/workspace-configuration)
 
-Discover the common steps to add and configure a new dataset.
+Learn ho to configure a new workspace
+
+##### [Connect your Data](/docs/how-to-add-a-new-dataset)
+
+Discover the common steps to add a new dataset
+
+##### [Configure your Dataset](/docs/how-to-configure-your-dataset)
+
+Learn how to configure the dataset just added
 
 ##### [Train a new Synonym](/docs/how-to-train-a-synonym)
 
@@ -26,6 +34,18 @@ Learn how to train a new synonym and improve the understanding of your agent
 ##### [Advanced Configuration](/docs/advanced-configurations)
 
 Learn how to create complex data connections and rules
+
+##### [Advanced Filter Configuration](/docs/dataset-filters-configuration)
+
+Learn how to configure dataset filters
+
+##### [Configure other channels](/docs/advanced-configuration-other-channels)
+
+Learn how to configure other channels
+
+##### [Workflow Tasks](/docs/tasks)
+
+Learn about our workflow tasks and how to execute them
 
 {% include links.html %}
 

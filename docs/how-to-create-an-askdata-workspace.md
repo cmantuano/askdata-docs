@@ -2,7 +2,7 @@
 title: How to Create an Askdata Workspace
 keywords: documentation
 last_updated: October 15th, 2020
-tags: [getting-started]
+tags: [admin-guide]
 sidebar: mydoc_sidebar
 layout: doc
 ---

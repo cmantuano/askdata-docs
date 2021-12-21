@@ -2,7 +2,7 @@
 title: Configure your Dataset
 keywords: documentation
 last_updated: April 06th, 2021
-tags: [getting-started]
+tags: [admin-guide]
 sidebar: mydoc_sidebar
 layout: doc
 ---

@@ -6,6 +6,7 @@ tags: [getting-started]
 sidebar: mydoc_sidebar
 layout: doc
 ---
+# Data Card Creation
 
 A Data Card is the simplest piece of content that can be exchanged on Askdata and it must be necessarily associated with a feed. <br/>
 In order to create a Card, we can proceed in two ways:
@@ -122,7 +123,7 @@ After customizing it, press **Save** to proceed.
 # Comment
 This is thought to be a support for who is working on the data card. It is a component that stores text that won't be available in the final data card on the feed. In the settings panel on the left, you can enter the comment name and the text. 
 
-Once you have done that, clisa **Save**, to proceed.
+Once you have done that, click **Save**, to proceed.
 
 # Text
 Unlike Comment this is a text section that will be available in the resulting data card. All the others considerations remain the same. 
