@@ -6,6 +6,7 @@ tags: [getting-started]
 sidebar: mydoc_sidebar
 layout: doc
 ---
+# Data Card Creation
 
 A Data Card is the simplest piece of content that can be exchanged on Askdata and it must be necessarily associated with a feed. <br/>
 In order to create a Card, we can proceed in two ways:
