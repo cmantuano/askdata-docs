@@ -7,7 +7,7 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-
+# Configure your first dataset
 
 When you [connect a new dataset](https://docs.askdata.com/docs/how-to-connect-a-dataset), you may be interest in enhancing your data. For example, you may want to create an artifical column aggregated from other columns or just change a column type. Askdata provides several options to modify and update your data.*All the modifications must be done from the user that has the right to access the global data*. <br/>
 From the agent homepage, the first step is to navigate to the **dataset** panel and then to choose the one you would like to edit. 
