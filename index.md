@@ -66,6 +66,6 @@ This is the go-to guide on asking questions and sharing data cards using Askdata
          </div>
 </div>
 
-[FAQ](/faq) and [Support Aavailable](/support).
+[FAQ](/docs/faq) and [Support Aavailable](/docs/support).
 
 This documentation is released under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license.
