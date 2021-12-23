@@ -24,36 +24,20 @@ entries:
     folderitems:
 
     - title: Home
-      url: index
+      url: blog/index
       output: web, pdf
       type: homepage
 
-    - title: Getting Started
-      url: docs/getting-started
-      output: web, pdf
-
-  - title: User Guide
+  - title: 2021
     output: web, pdf
     folderitems:
 
-    - title: Your First Usage
-      url: docs/your-first-usage
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project
       output: web, pdf
-
-    - title: Searching Data
-      url: docs/searching-data
-      output: web, pdf
-
-    - title: How to create a Data Card
-      url: docs/how-to-create-a-data-card
-      output: web, pdf
-
-    - title: Be productive with Feeds
-      url: docs/be-productive-with-feeds
-      output: web, pdf
-
-    - title: Working with others
-      url: docs/working-with-others
+      
+    - title: Blog title test
+      url: blog/2021-12-14-blog-title
       output: web, pdf
 
   - title: Admin Guide
