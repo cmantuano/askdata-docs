@@ -21,7 +21,7 @@ This is the go-to guide on asking questions and sharing data cards using Askdata
 	<div class="col-md-3 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <a href="/docs/getting-started"> <img src="/images/illustrations/guides/Getting Started.png" style="object-fit: cover;heigth:160px;width:160px"></a>
+                     <a href="/docs/getting-started"> <img src="/media/images/illustrations/guides/Getting Started.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
                      <h4 id="getting-started">Getting started<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/getting-started" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
@@ -33,7 +33,7 @@ This is the go-to guide on asking questions and sharing data cards using Askdata
 	<div class="col-md-3 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <a href="/docs/admin-guide"> <img src="/images/illustrations/guides/Admin.png" style="object-fit: cover;heigth:160px;width:160px"></a>
+                     <a href="/docs/admin-guide"> <img src="/media/images/illustrations/guides/Admin.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
                      <h4 id="getting-started">Admin Guide<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/admin-guide" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
@@ -45,7 +45,7 @@ This is the go-to guide on asking questions and sharing data cards using Askdata
 	<div class="col-md-3 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <a href="/docs/sdk-and-api"> <img src="/images/illustrations/guides/API.png" style="object-fit: cover;heigth:160px;width:160px"></a>
+                     <a href="/docs/sdk-and-api"> <img src="/media/images/illustrations/guides/API.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
                      <h4 id="getting-started">SDK and APIs<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/sdk-and-api" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
@@ -57,7 +57,7 @@ This is the go-to guide on asking questions and sharing data cards using Askdata
 	<div class="col-md-3 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <a href="/docs/video-and-demos"> <img src="/images/illustrations/guides/video.png" style="object-fit: cover;heigth:160px;width:160px"></a>
+                     <a href="/docs/video-and-demos"> <img src="/media/images/illustrations/guides/video.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
                      <h4 id="getting-started">Videos and Demos<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/videos-and-demo" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
