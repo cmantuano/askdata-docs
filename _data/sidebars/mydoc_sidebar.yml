@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: Home
-      url: index
+      url: docs/index
       output: web, pdf
       type: homepage
 
