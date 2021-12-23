@@ -7,8 +7,9 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-Welcome in the Advanced Configuration. This section of the documentation is specifically designed for proficient and expert users.
+# Dataset: Rules
 
+This document provides examples of advanced dataset configuration deploying a business logic rule to a dataset
 
 ## Sorting rules
 
