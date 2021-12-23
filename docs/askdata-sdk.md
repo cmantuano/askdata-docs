@@ -15,7 +15,7 @@ layout: doc
 
 The Askdata team has developed an handy Python SDK that can be installed with one line of code.
 
-* [Python SDK Guide](askdata-python-sdk)
+* [Python SDK Guide](docs/askdata-python-sdk)
 
 We've prepared a Google Colab for a fast experimentation
 
@@ -23,6 +23,6 @@ We've prepared a Google Colab for a fast experimentation
 
 #### Other resources
 
-* [API Documentation](https://docs.askdata.com/docs/api-documentation)
+* [API Documentation](/docs/api-documentation)
 
 {% include links.html %}       
