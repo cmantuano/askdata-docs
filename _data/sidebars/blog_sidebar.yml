@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: Home
-      url: features/index
+      url: product/index
       output: web, pdf
       type: homepage
 
