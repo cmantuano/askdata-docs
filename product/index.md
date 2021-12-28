@@ -11,7 +11,7 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
 
 Askdata is a powerful but simple interface that lets your team interact with data as they would search on a search engine such as Google. Askdata is the best way to get answers to your data questions. Simply search for the data you need and use the results to create or run a instant reporting or make a data card in a few clicks.
 
-Askdata overcomes the concept of dashboard introducing the data cards. Data cards are a simple and very visual way to display your data. A data card is a modular unit that allows you to easily build a user-friendly data experience that resembles consuming information from social media sites.
+Askdata overcomes the concept of dashboard introducing the data cards. Data cards are a simple and very visual way to display your data in a collaborative way.
 
 
 <div class="row">
@@ -21,9 +21,9 @@ Askdata overcomes the concept of dashboard introducing the data cards. Data card
                      <a href="/docs/getting-started"> <img src="/media/images/illustrations/guides/Getting Started.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
-                     <h4 id="getting-started">Search Data<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/product/search-insight" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+                     <h4 id="getting-started">Search Data<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/product/search-insights" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/product/search-insight" class="btn btn-secondary">Faster Insights</a>
+                     <a href="/product/search-insights" class="btn btn-secondary">Faster Insights</a>
                  </div>
              </div>
          </div>
