@@ -9,10 +9,9 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
 
 # Documentation
 
-Askdata is a powerful but simple interace that let your team to interact with data as they would search on Google.
+Askdata is a powerful but simple interface that lets your team interact with data as they would search on a search engine such as Google. 
 
-This is the go-to guide on asking questions and sharing data cards using Askdata. You’ll learn in depth about how questions are expressed, how to chart data cards, as well as how to share data cards and create feeds.
-
+This is the go-to guide on asking questions and sharing data cards using Askdata. You’ll learn in depth about how questions are expressed, how to chart and create data cards. We’ll also cover the different ways to share data cards, as well as how to create a feed for an audience.
 
 <div class="row">
          <div class="col-lg-12">

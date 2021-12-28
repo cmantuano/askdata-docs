@@ -23,8 +23,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Home
-      url: features/index
+    - title: Why Askdata
+      url: product/index
       output: web, pdf
       type: homepage
 
@@ -32,6 +32,18 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: EEWS Project
-      url: features/2021-12-17-eews-project
+    - title: Search Insights
+      url: product/search-insights
+      output: web, pdf
+
+    - title: Push Insights
+      url: product/push-insights
+      output: web, pdf
+
+    - title: Data Personalization
+      url: product/data-personalization
+      output: web, pdf
+
+    - title: Data Collaboration
+      url: product/share-insights
       output: web, pdf
