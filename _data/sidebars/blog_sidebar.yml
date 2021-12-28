@@ -19,11 +19,11 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Latest Posts
     output: web, pdf
     folderitems:
 
-    - title: Home
+    - title: Recent Posts
       url: blog/index
       output: web, pdf
       type: homepage

@@ -47,3 +47,23 @@ entries:
     - title: Data Collaboration
       url: product/share-insights
       output: web, pdf
+
+  - title: Product Videos
+    output: web, pdf
+    folderitems:
+
+    - title: Getting Started Video
+      url: docs/getting-started-video
+      output: web, pdf
+
+    - title: Desktop
+      url: docs/askdata-webapp-video
+      output: web, pdf
+
+    - title: Mobile
+      url: docs/askdata-mobile-app-video
+      output: web, pdf
+
+    - title: Admin
+      url: docs/video-admin-configuration
+      output: web, pdf
