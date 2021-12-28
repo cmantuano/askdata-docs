@@ -7,14 +7,14 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-## Overview
+# Overview
 ### Askdata in 140 chars
 
 Askdata is the social network of data, you get all your data in one place instantly searchable.
 
 <img src="https://docs.askdata.com/images/illustrations/docs/What-is-askdata.png" style="max-width:260px" />
 
-### Descritpion
+### Description
 Askdata is designed to enable anyone, regardless of the level of technical knowledge, to harness the power of data (big and small). Ssers leverage Askdata to explore, query, visualize, and share data from any data sources. Their work in turn enables anybody in their team to use the data. Every day, thousands of users around the world use Askdata to share insights and make data-driven decisions.
 
 ### The platform's mission
