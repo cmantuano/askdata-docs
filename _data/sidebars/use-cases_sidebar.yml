@@ -19,11 +19,11 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Use Cases
+  - title: Overview
     output: web, pdf
     folderitems:
 
-    - title: Overview
+    - title: Use Cases
       url: use-cases/index
       output: web, pdf
       type: homepage
@@ -32,24 +32,32 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Your First Usage
-      url: use-cases/your-first-usage
+    - title: Sales and Marketing
+      url: use-cases/sales-and-marketing
       output: web, pdf
 
-    - title: Searching Data
-      url: use-cases/searching-data
+    - title: Media and Telco
+      url: use-cases/media-and-telco
       output: web, pdf
 
-    - title: How to create a Data Card
-      url: use-cases/how-to-create-a-data-card
+    - title: Supply Chain
+      url: use-cases/supply-chain
       output: web, pdf
 
-    - title: Be productive with Feeds
-      url: use-cases/be-productive-with-feeds
+    - title: Sport
+      url: use-cases/sport
       output: web, pdf
 
-    - title: Working with others
-      url: use-cases/working-with-others
+    - title: Games and Betting
+      url: use-cases/game-betting
+      output: web, pdf
+
+    - title: Manufacturing
+      url: use-cases/manufacturing
+      output: web, pdf
+
+    - title: Technology
+      url: use-cases/technology
       output: web, pdf
 
   - title: By Objectives
@@ -137,5 +145,5 @@ entries:
     folderitems:
 
     - title: Integrations
-      url: integrations
+      url: integrations/index
       output: web, pdf

@@ -45,10 +45,10 @@ Askdata is suitable for any industry. With Askdata Your data gets ⚡ more valua
 	<div class="col-md-3 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <a href="/docs/video-and-demos"> <img src="/media/images/illustrations/guides/video.png" style="object-fit: cover;heigth:160px;width:160px"></a>
+                     <a href="/use-cases/sport"> <img src="/media/images/illustrations/guides/video.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
-                     <a href="/use-cases/healthcare" class="btn btn-secondary">Videos and Demo</a>
+                     <a href="/use-cases/sport" class="btn btn-secondary">Sport</a>
                  </div>
              </div>
          </div>
@@ -60,17 +60,17 @@ Askdata is suitable for any industry. With Askdata Your data gets ⚡ more valua
                      <a href="/use-cases/supply-chain"> <img src="/media/use-cases/supply-chain.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
-                     <a href="/use-cases/supply-chain" class="btn btn-secondary">Supply Chain</a>
+                     <a href="/use-cases/supply-chain" class="btn btn-secondary">Healthcare</a>
                  </div>
              </div>
          </div>
     <div class="col-md-3 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <a href="/use-cases/manufacturing"> <img src="/media/images/illustrations/guides/Admin.png" style="object-fit: cover;heigth:160px;width:160px"></a>
+                     <a href="/use-cases/heathcare"> <img src="/media/images/illustrations/guides/Admin.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
-                     <a href="/use-cases/manufacturing" class="btn btn-secondary">Sport & Games</a>
+                     <a href="/use-cases/heathcare" class="btn btn-secondary">Healthcare</a>
                  </div>
              </div>
          </div>
@@ -80,7 +80,7 @@ Askdata is suitable for any industry. With Askdata Your data gets ⚡ more valua
                      <a href="/use-cases/technology"> <img src="/media/images/illustrations/guides/API.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
-                     <a href="/use-cases/technology" class="btn btn-secondary">Learn More</a>
+                     <a href="/use-cases/technology" class="btn btn-secondary">Technology</a>
                  </div>
              </div>
          </div>

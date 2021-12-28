@@ -28,7 +28,7 @@ entries:
       output: web, pdf
       type: homepage
 
-  - title: 2021
+  - title: "2021"
     output: web, pdf
     folderitems:
 
@@ -48,7 +48,7 @@ entries:
       url: blog/2021-12-17-eews-project4
       output: web, pdf
 
-  - title: 2020
+  - title: "2020"
     output: web, pdf
     folderitems:
 
@@ -68,7 +68,7 @@ entries:
       url: blog/2021-12-17-eews-project8
       output: web, pdf
 
-  - title: 2019
+  - title: "2019"
     output: web, pdf
     folderitems:
 
