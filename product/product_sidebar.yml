@@ -1,0 +1,57 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Askdata
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Why Askdata
+      url: product/index
+      output: web, pdf
+      type: homepage
+
+  - title: Features
+    output: web, pdf
+    folderitems:
+
+    - title: Search Insights
+      url: product/search-insights
+      output: web, pdf
+
+    - title: Push Insights
+      url: product/push-insights
+      output: web, pdf
+
+    - title: Data Personalization
+      url: product/data-personalization
+      output: web, pdf
+
+    - title: Data Collaboration
+      url: product/share-insights
+      output: web, pdf
+
+  - title: Product Videos
+    output: web, pdf
+    folderitems:
+
+    - title: Overview
+      url: product/video-overview
+      output: web, pdf

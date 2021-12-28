@@ -1,0 +1,156 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Askdata
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Integrations
+    output: web, pdf
+    folderitems:
+
+    - title: CSV
+      url: integrations/csv
+      output: web, pdf
+
+  - title: Features
+    output: web, pdf
+    folderitems:
+
+    - title: Excel
+      url: integrations/excel
+      output: web, pdf
+    
+    - title: Github Datasources
+      url: integrations/github
+      output: web, pdf
+    
+    - title: Azure Synapse
+      url: integrations/azure-synapse
+      output: web, pdf
+    
+    - title: Google Analytics
+      url: integrations/google-analytics
+      output: web, pdf
+    
+    - title: Vertica
+      url: integrations/vertica
+      output: web, pdf
+    
+    - title: Tableau Server
+      url: integrations/tableau
+      output: web, pdf
+    
+    - title: Snowflake
+      url: integrations/snowflake
+      output: web, pdf
+      type: homepage
+    
+    - title: Sisense
+      url: integrations/sisense
+      output: web, pdf
+      type: homepage
+    
+    - title: SAP Hana
+      url: integrations/sap-hana
+      output: web, pdf
+      type: homepage
+    
+    - title: PostgreSQL
+      url: integrations/postgres-sql
+      output: web, pdf
+      type: homepage
+    
+    - title: Qlik Sense
+      url: integrations/qlik-sense
+      output: web, pdf
+      type: homepage
+    
+    - title: Panoply
+      url: integrations/panoply
+      output: web, pdf
+      type: homepage
+    
+    - title: Oracle
+      url: integrations/oracle
+      output: web, pdf
+      type: homepage
+    
+    - title: MySQL
+      url: integrations/mysql
+      output: web, pdf
+      type: homepage
+    
+    - title: MS SQL
+      url: integrations/ms-sql
+      output: web, pdf
+      type: homepage
+    
+    - title: MS Azure SQL
+      url: integrations/ms-azure-sql
+      output: web, pdf
+      type: homepage
+    
+    - title: MicroStrategy
+      url: integrations/microstrategy
+      output: web, pdf
+      type: homepage
+    
+    - title: Looker
+      url: integrations/looker
+      output: web, pdf
+      type: homepage
+    
+    - title: Knowledge Cards
+      url: integrations/knowledge-cards
+      output: web, pdf
+      type: homepage
+    
+    - title: Hive
+      url: integrations/hive
+      output: web, pdf
+      type: homepage
+    
+    - title: Google BigQuery
+      url: integrations/google-big-query
+      output: web, pdf
+      type: homepage
+    
+    - title: Denodo
+      url: integrations/denodo
+      output: web, pdf
+      type: homepage
+    
+    - title: AWS Redshitft
+      url: integrations/aws-redshift
+      output: web, pdf
+      type: homepage
+    
+    - title: Impala
+      url: integrations/impala
+      output: web, pdf
+      type: homepage
+    
+    - title: AWS Aurora
+      url: integrations/aws-aurora
+      output: web, pdf
+      type: homepage
+    
+    - title: AWS Athena
+      url: integrations/aws-athena
+      output: web, pdf
+      type: homepage

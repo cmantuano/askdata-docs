@@ -1,0 +1,109 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Askdata
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Latest Posts
+    output: web, pdf
+    folderitems:
+
+    - title: Recent Posts
+      url: blog/index
+      output: web, pdf
+      type: homepage
+
+  - title: "2021"
+    output: web, pdf
+    folderitems:
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project
+      output: web, pdf
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project2
+      output: web, pdf
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project3
+      output: web, pdf
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project4
+      output: web, pdf
+
+  - title: "2020"
+    output: web, pdf
+    folderitems:
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project5
+      output: web, pdf
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project6
+      output: web, pdf
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project7
+      output: web, pdf
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project8
+      output: web, pdf
+
+  - title: "2019"
+    output: web, pdf
+    folderitems:
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project9
+      output: web, pdf
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project0
+      output: web, pdf
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project0
+      output: web, pdf
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project0
+      output: web, pdf
+
+  - title: Archived
+    output: web, pdf
+    folderitems:
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project1
+      output: web, pdf
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project2
+      output: web, pdf
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project3
+      output: web, pdf
+
+    - title: EEWS Project
+      url: blog/2021-12-17-eews-project4
+      output: web, pdf

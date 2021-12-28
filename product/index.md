@@ -21,45 +21,45 @@ Askdata overcomes the concept of dashboard introducing the data cards. Data card
                      <a href="/docs/getting-started"> <img src="/media/images/illustrations/guides/Getting Started.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
-                     <h4 id="getting-started">Search Data<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/getting-started" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+                     <h4 id="getting-started">Search Data<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/product/search-insight" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/docs/getting-started" class="btn btn-secondary">Faster Insights</a>
+                     <a href="/product/search-insight" class="btn btn-secondary">Faster Insights</a>
                  </div>
              </div>
          </div>
 	<div class="col-md-3 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <a href="/docs/admin-guide"> <img src="/media/images/illustrations/guides/Admin.png" style="object-fit: cover;heigth:160px;width:160px"></a>
+                     <a href="/product/push-insights"> <img src="/media/images/illustrations/guides/Admin.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
                      <h4 id="getting-started">Automated Data Analysis<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/admin-guide" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/docs/admin-guide" class="btn btn-secondary">Speed-up Analysis</a>
+                     <a href="/product/push-insights" class="btn btn-secondary">Speed-up Analysis</a>
                  </div>
              </div>
          </div>
 	<div class="col-md-3 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <a href="/docs/sdk-and-api"> <img src="/media/images/illustrations/guides/API.png" style="object-fit: cover;heigth:160px;width:160px"></a>
+                     <a href="/product/data-personalization"> <img src="/media/images/illustrations/guides/API.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
                      <h4 id="getting-started">Proactive Experience<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/sdk-and-api" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/docs/sdk-and-api" class="btn btn-secondary">Proactive Reporting</a>
+                     <a href="/product/data-personalization" class="btn btn-secondary">Proactive Reporting</a>
                  </div>
              </div>
          </div>
 	<div class="col-md-3 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <a href="/docs/video-and-demos"> <img src="/media/images/illustrations/guides/video.png" style="object-fit: cover;heigth:160px;width:160px"></a>
+                     <a href="/product/share-insights"> <img src="/media/images/illustrations/guides/video.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
                      <h4 id="getting-started">Collaborative Data<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/videos-and-demo" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/docs/video-and-demos" class="btn btn-secondary">Share Data</a>
+                     <a href="/product/share-insights" class="btn btn-secondary">Share Data</a>
                  </div>
              </div>
          </div>

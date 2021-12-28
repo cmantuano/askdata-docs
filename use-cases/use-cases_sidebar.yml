@@ -1,0 +1,149 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Askdata
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Use Cases
+      url: use-cases/index
+      output: web, pdf
+      type: homepage
+
+  - title: By Industries
+    output: web, pdf
+    folderitems:
+
+    - title: Sales and Marketing
+      url: use-cases/sales-and-marketing
+      output: web, pdf
+
+    - title: Media and Telco
+      url: use-cases/media-and-telco
+      output: web, pdf
+
+    - title: Supply Chain
+      url: use-cases/supply-chain
+      output: web, pdf
+
+    - title: Sport
+      url: use-cases/sport
+      output: web, pdf
+
+    - title: Games and Betting
+      url: use-cases/game-betting
+      output: web, pdf
+
+    - title: Manufacturing
+      url: use-cases/manufacturing
+      output: web, pdf
+
+    - title: Technology
+      url: use-cases/technology
+      output: web, pdf
+
+  - title: By Objectives
+    output: web, pdf
+    folderitems:
+
+    - title: Reduce the Dashboards
+      url: use-cases/reduce-dashbaords
+      output: web, pdf
+
+    - title: Productive Sales Data
+      url: use-cases/your-first-usage
+      output: web, pdf
+
+    - title: Increase Data Collaboration
+      url: use-cases/your-first-usage
+      output: web, pdf
+
+    - title: On-Field Analytics
+      url: use-cases/your-first-usage
+      output: web, pdf
+
+    - title: Augment Data with External Data
+      url: use-cases/your-first-usage
+      output: web, pdf
+
+  - title: By Roles
+    output: web, pdf
+    folderitems:
+
+    - title: Sales Team
+      url: role/sales-team
+      output: web, pdf
+
+    - title: Sales Manager
+      url: role/sales-manager
+      output: web, pdf
+
+    - title: Operation Manager
+      url: role/operation-manager
+      output: web, pdf
+
+    - title: Insurance Agents
+      url: role/insurance-agents
+      output: web, pdf
+
+    - title: Hospital Managers
+      url: role/hospital-managers
+      output: web, pdf
+
+    - title: Finace Teams
+      url: role/finance-teams
+      output: web, pdf
+
+    - title: Executives
+      url: role/executives
+      output: web, pdf
+
+    - title: Data Scientists
+      url: role/data-scientists
+      output: web, pdf
+
+    - title: Data Analysts
+      url: role/data-analysts
+      output: web, pdf
+
+    - title: Customer Success Managers
+      url: role/customer-success-manager
+      output: web, pdf
+
+    - title: Customer Experience Managers
+      url: role/customer-experience
+      output: web, pdf
+
+    - title: Project Managers
+      url: role/project-managers
+      output: web, pdf
+
+    - title: Credit Managers
+      url: role/credit-managers
+      output: web, pdf
+
+  - title: By Technology
+    output: web, pdf
+    folderitems:
+
+    - title: Integrations
+      url: integrations/index
+      output: web, pdf
