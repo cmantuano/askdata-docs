@@ -18,7 +18,7 @@ Askdata is suitable for any industry. With Askdata Your data gets ⚡ more valua
                      <a href="/use-cases/sales-and-marketing"> <img src="/media/use-cases/sales-and-marketing.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
-                     <a href="/use-cases/sales-and-marketing" class="btn btn-primary">Sales and Marketing</a>
+                     <a href="/use-cases/sales-and-marketing" class="btn btn-secondary">Sales and Marketing</a>
                  </div>
              </div>
          </div>
@@ -90,7 +90,7 @@ Askdata is suitable for any industry. With Askdata Your data gets ⚡ more valua
                      <a href="/docs/video-and-demos"> <img src="/media/images/illustrations/guides/video.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="panel-body">
-                     <a href="/use-cases/manufacturing" class="btn btn-primary">Manufacturing</a>
+                     <a href="/use-cases/manufacturing" class="btn btn-secondary">Manufacturing</a>
                  </div>
              </div>
          </div>

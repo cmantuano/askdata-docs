@@ -19,157 +19,123 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Use Cases
     output: web, pdf
     folderitems:
 
-    - title: Home
-      url: docs/index
+    - title: Overview
+      url: use-cases/index
       output: web, pdf
       type: homepage
 
-    - title: Getting Started
-      url: docs/getting-started
-      output: web, pdf
-
-  - title: User Guide
+  - title: By Industries
     output: web, pdf
     folderitems:
 
     - title: Your First Usage
-      url: docs/your-first-usage
+      url: use-cases/your-first-usage
       output: web, pdf
 
     - title: Searching Data
-      url: docs/searching-data
+      url: use-cases/searching-data
       output: web, pdf
 
     - title: How to create a Data Card
-      url: docs/how-to-create-a-data-card
+      url: use-cases/how-to-create-a-data-card
       output: web, pdf
 
     - title: Be productive with Feeds
-      url: docs/be-productive-with-feeds
+      url: use-cases/be-productive-with-feeds
       output: web, pdf
 
     - title: Working with others
-      url: docs/working-with-others
+      url: use-cases/working-with-others
       output: web, pdf
 
-  - title: Admin Guide
+  - title: By Objectives
     output: web, pdf
-
-    folderitems:
-    - title: Create a workspace
-      url: docs/how-to-create-an-askdata-workspace
-      output: web, pdf
-      
-    - title: Workspace configuration
-      url: docs/workspace-configuration
-      output: web, pdf
-
-    - title: Connect your data
-      url: docs/how-to-add-a-new-dataset
-      output: web, pdf
-
-    - title: Configure your Dataset
-      url: docs/how-to-configure-your-dataset
-      output: web, pdf
-
-    - title: Train a synonym
-      url: docs/how-to-train-a-synonym
-      output: web, pdf
-    
-    - title: Advanced Configuration
-      url: docs/advanced-configurations
-      output: web, pdf
-    
-    - title: Advanced Filter Configuration
-      url: docs/dataset-filters-configuration
-      output: web, pdf
-
-    - title: Configure other channels
-      url: docs/advanced-configuration-other-channels
-      output: web, pdf
-    
-    - title: Workflow Tasks
-      url: docs/tasks
-      output: web, pdf
-
-  - title: Video & Demo
-    output: web, pdf
-
     folderitems:
 
-    - title: Overview
-      url: docs/getting-started-video
+    - title: Reduce the Dashboards
+      url: use-cases/reduce-dashbaords
       output: web, pdf
 
-    - title: Desktop
-      url: docs/askdata-webapp-video
+    - title: Productive Sales Data
+      url: use-cases/your-first-usage
       output: web, pdf
 
-    - title: Mobile
-      url: docs/askdata-mobile-app-video
+    - title: Increase Data Collaboration
+      url: use-cases/your-first-usage
       output: web, pdf
 
-    - title: Admin
-      url: docs/video-admin-configuration
+    - title: On-Field Analytics
+      url: use-cases/your-first-usage
       output: web, pdf
 
-  - title: Developers, API & SDK
+    - title: Augment Data with External Data
+      url: use-cases/your-first-usage
+      output: web, pdf
+
+  - title: By Roles
     output: web, pdf
-
     folderitems:
-    - title: Developers Documentation
-      url: docs/developers-documentation
-      output: web, pdf
-    
-    - title: Python SDK Documentation
-      url: docs/askdata-sdk
+
+    - title: Sales Team
+      url: role/sales-team
       output: web, pdf
 
-    - title: API Documentation
-      url: docs/api-documentation
-      output: web, pdf
-      
-    - title: Develop new Integrations
-      url: docs/create_a_dataset_integration
+    - title: Sales Manager
+      url: role/sales-manager
       output: web, pdf
 
-  - title: Support and FAQ
+    - title: Operation Manager
+      url: role/operation-manager
+      output: web, pdf
+
+    - title: Insurance Agents
+      url: role/insurance-agents
+      output: web, pdf
+
+    - title: Hospital Managers
+      url: role/hospital-managers
+      output: web, pdf
+
+    - title: Finace Teams
+      url: role/finance-teams
+      output: web, pdf
+
+    - title: Executives
+      url: role/executives
+      output: web, pdf
+
+    - title: Data Scientists
+      url: role/data-scientists
+      output: web, pdf
+
+    - title: Data Analysts
+      url: role/data-analysts
+      output: web, pdf
+
+    - title: Customer Success Managers
+      url: role/customer-success-manager
+      output: web, pdf
+
+    - title: Customer Experience Managers
+      url: role/customer-experience
+      output: web, pdf
+
+    - title: Project Managers
+      url: role/project-managers
+      output: web, pdf
+
+    - title: Credit Managers
+      url: role/credit-managers
+      output: web, pdf
+
+  - title: By Technology
     output: web, pdf
-
     folderitems:
-    - title: Request Support
-      url: docs/support
-      output: web, pdf
-      
-    - title: FAQs
-      url: docs/faq
-      output: web, pdf
 
-  - title: Learn To Code
-    output: web, pdf
-
-    folderitems:
-    - title: Introduction to Python
-      url: docs/intro_python
+    - title: Integrations
+      url: integrations
       output: web, pdf
-      
-    - title: Pandas Tutorial
-      url: docs/pandas
-      output: web, pdf
-    
-    - title: Data Preparation
-      url: docs/data_preparation
-      output: web, pdf
-
-    - title: Data Visualization
-      url: docs/data_visualization
-      output: web, pdf
-
-    - title: Build Your First Model
-      url: docs/build_your_first_ml_model
-      output: web, pdf
-

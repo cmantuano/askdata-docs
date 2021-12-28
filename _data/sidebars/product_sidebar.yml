@@ -52,15 +52,19 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Getting Started Video
+    - title: Overview
+      url: product/video-overview
+      output: web, pdf
+
+    - title: Platform concepts
       url: docs/getting-started-video
       output: web, pdf
 
-    - title: Desktop
+    - title: Desktop Demo
       url: docs/askdata-webapp-video
       output: web, pdf
 
-    - title: Mobile
+    - title: Mobile Demo
       url: docs/askdata-mobile-app-video
       output: web, pdf
 

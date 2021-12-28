@@ -23,7 +23,7 @@ Askdata overcomes the concept of dashboard introducing the data cards. Data card
                  <div class="panel-body">
                      <h4 id="getting-started">Search Data<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/getting-started" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/docs/getting-started" class="btn btn-primary">Faster Insights</a>
+                     <a href="/docs/getting-started" class="btn btn-secondary">Faster Insights</a>
                  </div>
              </div>
          </div>
@@ -35,7 +35,7 @@ Askdata overcomes the concept of dashboard introducing the data cards. Data card
                  <div class="panel-body">
                      <h4 id="getting-started">Automated Data Analysis<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/admin-guide" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/docs/admin-guide" class="btn btn-primary">Speed-up Analysis</a>
+                     <a href="/docs/admin-guide" class="btn btn-secondary">Speed-up Analysis</a>
                  </div>
              </div>
          </div>
@@ -47,7 +47,7 @@ Askdata overcomes the concept of dashboard introducing the data cards. Data card
                  <div class="panel-body">
                      <h4 id="getting-started">Proactive Experience<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/sdk-and-api" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/docs/sdk-and-api" class="btn btn-primary">Proactive Reporting</a>
+                     <a href="/docs/sdk-and-api" class="btn btn-secondary">Proactive Reporting</a>
                  </div>
              </div>
          </div>
@@ -59,7 +59,7 @@ Askdata overcomes the concept of dashboard introducing the data cards. Data card
                  <div class="panel-body">
                      <h4 id="getting-started">Collaborative Data<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/videos-and-demo" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/docs/video-and-demos" class="btn btn-primary">Share Data</a>
+                     <a href="/docs/video-and-demos" class="btn btn-secondary">Share Data</a>
                  </div>
              </div>
          </div>
