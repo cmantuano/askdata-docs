@@ -1,14 +1,15 @@
+---
+title: askdata-democratized-data-access
+slug: soccer-chatbot-in-3-mins
+name: askdata-democratized-data-access
+keywords: documentation
+last_updated: December 14th, 2021
+published_on: May, 28th 2020
+tags: [getting_started]
+layout: dataset
+---
 
-  ---
-  title: askdata-democratized-data-access
-  slug: soccer-chatbot-in-3-mins
-  name: askdata-democratized-data-access
-  keywords: documentation
-  last_updated: December 14th, 2021
-  published_on: May, 28th 2020
-  tags: [getting_started]
-  layout: dataset
-  ---
+## Tutorial: Create Soccer Data-driven chatbot
 
 <p>The AskData platform lets users access data in the<strong> simplest way</strong>&nbsp;possible: natural language queries.</p><p>Since at <a href="https://www.askdata.com/" target="_blank">Askdata</a> we are sports fans, today we will explain to you how to create a chatbot to provide real-time sports stats.</p><p>We need a <strong>dataset</strong>, an <strong>AskData account </strong>and <strong>5 minutes</strong> of your time.</p><p>5 minutes, the whole setup time</p><p><strong>A. Create Dataset (if you don’t already own one)</strong></p><p>Choose a dataset containing sports data stats. For instance, you could create a MySQL table.</p><p>CREATE TABLE `SOCCER_STATS` (`ID` INT NOT NULL,`PLAYER` VARCHAR(45) NULL,`TEAM` VARCHAR(45) NULL,`GOALS` INT NULL,PRIMARY KEY (`ID`));<br></p><p>Let’s push some records into the table:</p><p>/* LET'S POPULATE OUR TABLE */INSERT INTO SOCCER_STATS &nbsp;(ID, PLAYER, TEAM, GOALS) VALUES (1,'Mohamed Salah','Liverpool',16);<br>INSERT INTO SOCCER_STATS &nbsp;(ID, PLAYER, TEAM, GOALS) VALUES (2,'Roberto Firmino','Liverpool',9);<br>INSERT INTO SOCCER_STATS &nbsp;(ID, PLAYER, TEAM, GOALS) VALUES (3,'Sadio Mané','Liverpool',9);<br>INSERT INTO SOCCER_STATS &nbsp;(ID, PLAYER, TEAM, GOALS) VALUES (4,'Xherdan Shaqiri','Liverpool',6);<br>INSERT INTO SOCCER_STATS &nbsp;(ID, PLAYER, TEAM, GOALS) VALUES (5,'James Milner','Liverpool',3);<br>INSERT INTO SOCCER_STATS &nbsp;(ID, PLAYER, TEAM, GOALS) VALUES (6,'Daniel Sturridge','Liverpool',2);<br>INSERT INTO SOCCER_STATS &nbsp;(ID, PLAYER, TEAM, GOALS) VALUES (7,'Trent Alexander-Arnold','Liverpool',1);<br>INSERT INTO SOCCER_STATS &nbsp;(ID, PLAYER, TEAM, GOALS) VALUES (8,'Dejan Lovren','Liverpool',1);<br>INSERT INTO SOCCER_STATS &nbsp;(ID, PLAYER, TEAM, GOALS) VALUES (9,'Joel Matip','Liverpool',1);<br>INSERT INTO SOCCER_STATS &nbsp;(ID, PLAYER, TEAM, GOALS) VALUES (10,'Divock Origi','Liverpool',1);<br>INSERT INTO SOCCER_STATS &nbsp;(ID, PLAYER, TEAM, GOALS) VALUES (11,'Fabinho','Liverpool',1);<br>INSERT INTO SOCCER_STATS &nbsp;(ID, PLAYER, TEAM, GOALS) VALUES (12,'Virgil van Dijk','Liverpool',1);<br>INSERT INTO SOCCER_STATS &nbsp;(ID, PLAYER, TEAM, GOALS) VALUES (13,'Georginio Wijnaldum','Liverpool',1);</p><p>You can check if the records have been inserted with this SQL statement</p><p>SELECT SUM(GOALS) TOTAL_GOALS FROM SOCCER_STATS;</p><p>If the answer is <strong>48</strong> then the dataset has been properly created and populated 💪!<strong>‍</strong></p><p><strong>B. The Askdata platform</strong></p><p>AskData is the platform that empowers users interact with data with no effort, it will take other 3 minutes 🕒</p><p><strong>1) Create an Agent</strong></p><p>An agent is the data broker.</p><p>You can click on the “Create Agent” card inside your Workspace to open a new process modal.</p><p>You have just to provide the agent name to complete the creation process.</p><figure class="w-richtext-figure-type-image w-richtext-align-center"><div><img src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e6d26b2c882354847d9193b_1*Bs8v21X8CPtgw_9UFHB-6A.png"></div></figure><p><strong>3) Add a dataset</strong></p><p>To add a dataset you have to click on the [+] button in the “<strong>Datasets</strong>” section</p><figure class="w-richtext-figure-type-image w-richtext-align-center"><div><img src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e6d26b2148907fbf9c61cc6_1*eg9-B38TLo5IV872g8O4bw.png"></div></figure><p>To complete the dataset creation you have to select the type of dataset to connect to Askdata, according to the selected type you will be prompted to a modal window requesting the connection parameters</p><figure class="w-richtext-figure-type-image w-richtext-align-center"><div><img src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e6d26b20f8bc3b7ecaf5aa1_1*IADA9_yCTRnjrCXn6fLG9g.png"></div></figure><p>Once you complete everything you can save the dataset.</p><p><strong>4) Test the agent</strong></p><p>To test the agent you can simply use the right section of the agent after the dataset creation. Click on the “Baloon” icon to test the interactive conversational capability of the agent.</p><figure class="w-richtext-figure-type-image w-richtext-align-center"><div><img src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e6d26b2a2ae97f83726a8fb_1*0uZvBXK52NtIbrUiimpRpw.png"></div></figure><p><strong>C. Done! </strong>🎉</p><p>You can interact with the agent through AskData web UI or App</p><h2>‍</h2>
 

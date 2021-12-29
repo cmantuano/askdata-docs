@@ -58,22 +58,6 @@ entries:
       output: web, pdf
 
 
-  - title: Company
-    output: web, pdf
-    folderitems:
-
-    - title: About us
-      url: company/research
-      output: web, pdf
-
-    - title: Research
-      url: company/research
-      output: web, pdf
-
-    - title: Partners
-      url: company/research
-      output: web, pdf
-
   - title: Apps
     output: web, pdf
     folderitems:
@@ -92,4 +76,41 @@ entries:
 
     - title: Slack
       url: product/slack
+      output: web, pdf
+
+
+  - title: Company
+    output: web, pdf
+    folderitems:
+
+    - title: About us
+      url: company/research
+      output: web, pdf
+
+    - title: Research
+      url: company/research
+      output: web, pdf
+
+    - title: Partners
+      url: company/research
+      output: web, pdf
+
+  - title: Contacts
+    output: web, pdf
+    folderitems:
+
+    - title: Contacts
+      url: contacts/index
+      output: web, pdf
+
+    - title: Request Demo
+      url: contacts/request-demo
+      output: web, pdf
+
+    - title: Support
+      url: contacts/support
+      output: web, pdf
+
+    - title: Partnerships
+      url: contacts/partnership
       output: web, pdf

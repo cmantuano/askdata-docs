@@ -1,14 +1,15 @@
+---
+title: askdata-democratized-data-access
+slug: the-decline-of-the-dashboards
+name: askdata-democratized-data-access
+keywords: documentation
+last_updated: December 14th, 2021
+published_on: October, 31th 2020
+tags: [getting_started]
+layout: dataset
+---
 
-  ---
-  title: askdata-democratized-data-access
-  slug: the-decline-of-the-dashboards
-  name: askdata-democratized-data-access
-  keywords: documentation
-  last_updated: December 14th, 2021
-  published_on: October, 31th 2020
-  tags: [getting_started]
-  layout: dataset
-  ---
+## The Decline of Dashboards
 
 <p>Earlier this year — <a href="http://www.gartner.com/">Gartner</a> published the <strong>Gartner Top Trends in Data and Analytics for 2020</strong>, these trends can help data and analytics leaders navigate their COVID-19 response and recovery and prepare for a post-pandemic reset.</p><p>The second highlighted trend is about the “Decline of the Dashboards”. Modern analytics and business intelligence platforms are failing the majority of our workforce — the frontline workers — because insights are not contextualized, easily consumable, or actionable.</p><p>The dashboard is becoming an obsolete tool and is replaced with a data-driven approach.</p><p>This trend is also present in the early stages of the COVID-19 response.</p><p>Dynamic data stories with more automated and consumerized experiences will replace visual, point-and-click authoring and exploration.</p><p>As a result, the number of time users spend using predefined dashboards will decline. The shift to in-context data stories means that the most relevant insights will stream to each user based on their context, role or use.</p><p>These dynamic insights leverage technologies such as augmented analytics, NLP, streaming anomaly detection and collaboration. Data and analytics leaders need to regularly evaluate their existing analytics and business intelligence (BI) tools and innovative startups offering new augmented and NLP-driven user experiences beyond the predefined dashboard.</p><p>The future of BI is an intelligent user experience Like many other technologies, the dashboard is a technology designed to solve a problem. And it solved that problem well. However, the dashboard is now outdated.</p><p>We are now in a period of rapid innovation, and new technologies are coming online that will transform the way we work with data and analytics. <strong>Augmented analytics</strong>, for example, will transform the way we interact with and explore data.</p><p>Augmented analytics will make the insights from data and analytics incredibly clearer, more accurate, faster to get to and easier to use. We are also seeing the rise of the conversational interface. Just as we can now talk to our phones, cars and refrigerators, we are now able to talk to our computers. We can have conversations with our data in the same way we’d have conversations with our friends, families, colleagues or business partners.</p><p>We will see a shift from the dashboard to dynamic data stories. This means that the most relevant insights will stream to each user based on their context, role or use. This is achieved through the use of technologies such as augmented analytics, natural language processing (<strong>NLP</strong>) and streaming anomaly detection.</p><p>New user experiences are emerging in a few new ways:</p><ul><li>Extensions to the current dashboard-centered user experience.</li><li>Conversational capabilities embedded enterprise applications</li><li>Search-driven data exploration (Google-style approach)</li><li>Question-and-answer interaction pattern</li><li>New dynamic user experiences that are characterized by auto-generated data stories based on tracking business data and identifying meaningful changes for each user</li></ul><p>The Askdata Halloween Social Card we’ve produced this year.</p><figure class="w-richtext-figure-type-image w-richtext-align-center"><div><img alt="Image for post" src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f9d93405619ec809741d88e_1*NzgK-mJ38CtIdulXbm4L6Q.png" width="auto" height="auto" loading="auto"></div><figcaption>Dashboards are scary (for non-technical decision-makers)</figcaption></figure><p><strong>About Simone:</strong></p><p><strong>Simone Di Somma is the co-founder of Askdata</strong>, a community-driven platform that aims to promote the data democratization culture across organizations of all sizes. Simone is a passionate data lover, open-source and open data advocate. He believes that data sharing and data-collaborating is the key to a better future.</p><p><strong>About Askdata:</strong></p><p><strong>Askdata</strong> is the best tool to complement your dashboards stack. With Askdata you can transform your whole company into a 100% data-driven workforce in a few days. Discover more here: <a href="https://www.askdata.com/">Askdata Website</a></p><p>‍</p>
 

@@ -7,9 +7,7 @@ permalink: index.html
 summary: This is the go-to guide on asking questions and sharing data cards using Askdata. You’ll learn in depth about how questions are expressed, how to chart data cards, as well as how to share data cards and create feeds.
 ---
 
-## The Askdata blog
-
-### Last 3 posts
+## Last Blog Posts
 
 <div class="card-group">
   <div class="card">
