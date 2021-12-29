@@ -1,67 +1,71 @@
 ---
-title: "Official Docs: Your data, instantly valuable"
+title: "What is Askdata"
 keywords: homepage documentation docs
 tags: [getting_started]
-sidebar: mydoc_sidebar
+sidebar: myd	oc_sidebar
 permalink: index.html
 summary: This is the go-to guide on asking questions and sharing data cards using Askdata. You’ll learn in depth about how questions are expressed, how to chart data cards, as well as how to share data cards and create feeds.
 ---
 
-# Product
+## What is Askdata
 
-Askdata is a powerful but simple interface that lets your team interact with data as they would search on a search engine such as Google. Askdata is the best way to get answers to your data questions. Simply search for the data you need and use the results to create or run a instant reporting or make a data card in a few clicks.
+Askdata brings the ability to answer any data question with a simple search and more.
+=====================================================================================
 
-Askdata overcomes the concept of dashboard introducing the data cards. Data cards are a simple and very visual way to display your data in a collaborative way.
+#### Askdata provides a new frictionless data experience. We give users the ability to answer any data-related questions with a simple search.
+
+In order to create the data experience we leverage all your existing data and analytics platforms to create a personalized experience through natural language and proactive insights.
+
+<img src="/media/product/askdata-search-insights.gif" class="mx-auto d-block" style="max-width:90%">
 
 
-<div class="row">
-	<div class="col-md-3 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <a href="/docs/getting-started"> <img src="/media/images/illustrations/guides/Getting Started.png" style="object-fit: cover;heigth:160px;width:160px"></a>
-                 </div>
-                 <div class="panel-body">
-                     <h4 id="getting-started">Search Data<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/product/search-insights" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
-<b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/product/search-insights" class="btn btn-secondary">Faster Insights</a>
-                 </div>
-             </div>
-         </div>
-	<div class="col-md-3 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <a href="/product/push-insights"> <img src="/media/images/illustrations/guides/Admin.png" style="object-fit: cover;heigth:160px;width:160px"></a>
-                 </div>
-                 <div class="panel-body">
-                     <h4 id="getting-started">Automated Data Analysis<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/admin-guide" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
-<b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/product/push-insights" class="btn btn-secondary">Speed-up Analysis</a>
-                 </div>
-             </div>
-         </div>
-	<div class="col-md-3 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <a href="/product/data-personalization"> <img src="/media/images/illustrations/guides/API.png" style="object-fit: cover;heigth:160px;width:160px"></a>
-                 </div>
-                 <div class="panel-body">
-                     <h4 id="getting-started">Proactive Experience<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/sdk-and-api" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
-<b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/product/data-personalization" class="btn btn-secondary">Proactive Reporting</a>
-                 </div>
-             </div>
-         </div>
-	<div class="col-md-3 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <a href="/product/share-insights"> <img src="/media/images/illustrations/guides/video.png" style="object-fit: cover;heigth:160px;width:160px"></a>
-                 </div>
-                 <div class="panel-body">
-                     <h4 id="getting-started">Collaborative Data<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/videos-and-demo" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
-<b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/product/share-insights" class="btn btn-secondary">Share Data</a>
-                 </div>
-             </div>
-         </div>
-</div>
+### Search
 
+Users can ask questions about their connected data instantly using Askdata's natural language querying technology --- no training needed. Our proprietary Human2SQL algorithm improves itself with every single search.
+
+[MORE ON SEARCH](/product/search-insights)
+
+![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5ee0ec3209389e174ac2abcb_Data%20Search%20Web.png)
+
+### Automated Insights
+
+Askdata uses cutting edge AI and knowledge graph techniques to help users surface relevant content that are organized in data cards. Askdata provides state-of-the-art tools for indexing data dimensions and metrics from many disparate operational datasets.
+
+[MORE ON AUTOMATED INSIGHTS](/product/push-insights)
+
+![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5ee0ec323d9497a2f0057e37_Insight%20Automation%20Web.png)
+
+
+### Data Personalization
+
+Askdata offers all the tools to make the user experience as personal as possible. With machine learning algorithms and external data connections is possible to give the best user experience customized on users need.
+
+[MORE ON DATA PERSONALIZATION](/product/data-personalization)
+
+![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5ee0ec32286c42afa6e66237_Data%20Personalization.png)
+
+### Collaboration
+
+Askdata provides intelligent data sharing capabilities to Business Intelligence and Analytics teams. Data-driven teams of any size trust Askdata to democratize their data  initiatives, accelerate digital transformation and governance, and reduce time to insight by more than 60%.
+
+[MORE ON COLLABORATION](/product/share-insights)
+
+![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5ee0ec312114455a50bbb559_Share%20Web.png)
+<!--
+![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5ecfb1b4fd9cb25046200466_YComb%402x.png)![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5ecfb1b40e918e8569a096dd_PnP%402x.png)![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5ecfb1b40e918e74f8a096dc_KPMG%402x.png)![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5ecf8b30fd9cb2dab61f1f6c_TIM%402x.png)![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5ecf8b308d34e71be3e6b487_Olivetti%402x.png)![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5ecfb1b425d6027630fa2c38_Merck%402x.png)![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5ecfb1b480f7a07627859ad5_BNP%402x.png)
+
+-->
+
+
+### Pay-as-you-go
+
+No one wants to pay hundreds of thousands of dollars for software they've never had the chance to try out. Askdata allows you to start with a small investment, get to know our platform, and you only need to pay more when and if you decide to process more data.
+
+![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5ed91b72168c5f4be05befdb_Plain%20credit%20card-pana.svg)
+
+
+### Integrate with everything natively
+
+Askdata can integrate directly with any data base (on prem or cloud), data warehouse, BI tool, analytics tool, CRM and more. In addition to using us for NLP search, you can use us to eliminate data silos and create a centralized source of information for all of your employees.
+
+![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5ed91c60dc47da28864a0383_Interaction%20Design-pana.svg)
