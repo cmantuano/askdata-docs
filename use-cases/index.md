@@ -1,5 +1,5 @@
 ---
-title: "Official Docs: Your data, instantly valuable"
+title: Official
 keywords: homepage documentation docs
 tags: [getting_started]
 sidebar: mydoc_sidebar

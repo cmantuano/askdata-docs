@@ -6,10 +6,11 @@ entries:
   version: 1.0
   folders:
 
-  - title:
+  - title: Title
     output: pdf
     type: frontmatter
     folderitems:
+      
     - title:
       url: /titlepage.html
       output: pdf

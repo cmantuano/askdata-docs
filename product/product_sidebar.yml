@@ -57,6 +57,23 @@ entries:
       url: product/share-insights
       output: web, pdf
 
+
+  - title: Company
+    output: web, pdf
+    folderitems:
+
+    - title: About us
+      url: company/research
+      output: web, pdf
+
+    - title: Research
+      url: company/research
+      output: web, pdf
+
+    - title: Partners
+      url: company/research
+      output: web, pdf
+
   - title: Apps
     output: web, pdf
     folderitems:
@@ -69,30 +86,10 @@ entries:
       url: product/android
       output: web, pdf
 
-  - title: Messaging
-    output: web, pdf
-    folderitems:
-
     - title: Microsoft Teams
       url: product/msteams
       output: web, pdf
 
     - title: Slack
       url: product/slack
-      output: web, pdf
-
-  - title: Plugins
-    output: web, pdf
-    folderitems:
-
-    - title: Google Chrome Extension
-      url: product/google-chome-extension
-      output: web, pdf
-
-    - title: Excel
-      url: product/excel
-      output: web, pdf
-
-    - title: Google Sheet
-      url: product/gsheet
       output: web, pdf
