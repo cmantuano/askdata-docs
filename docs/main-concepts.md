@@ -4,12 +4,11 @@ keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting-started]
 sidebar: mydoc_sidebar
-layout: doc
 ---
 
 ## Simple definition for all the concepts.
 
-### 1. Askdata Workspace
+#### 1. Askdata Workspace
 
 An Askdata woskpace is the point-of-contact between the users and the data. The simplifier of the data user experience (Data UX).
 
@@ -17,7 +16,7 @@ An Askdata woskpace is the point-of-contact between the users and the data. The 
 
 * [What is an Askdata Workspace?](/docs/what-is-an-askdata-agent)
 
-### 2. Dataset
+#### 2. Dataset
 
 A dataset is the representation of a datasource. A dataset can be a datasource such as a MySQL table or a Google Big Query dataset. The platform supports many different sources of data.
 
@@ -26,7 +25,7 @@ A dataset is the representation of a datasource. A dataset can be a datasource s
 * [What is an Askdata Dataset](/docs/what-is-a-dataset)
 * [List of datasets generally available](https://www.askdata.com/datasets).
 
-### 3. Data Card
+#### 3. Data Card
 
 A card is a cognitive friendly autoconsistent piece of information generated automatically by the Askdata platform to fullfill a query of the user or an automate process.
 
