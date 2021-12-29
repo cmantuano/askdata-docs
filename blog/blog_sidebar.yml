@@ -36,74 +36,78 @@ entries:
       url: blog/2021-12-17-eews-project
       output: web, pdf
 
-    - title: EEWS Project
-      url: blog/2021-12-17-eews-project2
-      output: web, pdf
-
-    - title: EEWS Project
-      url: blog/2021-12-17-eews-project3
-      output: web, pdf
-
-    - title: EEWS Project
+    - title: The Decline of the Dashboards
       url: blog/2021-12-17-eews-project4
+      output: web, pdf
+
+    - title: The Decline of the Dashboards
+      url: blog/the-decline-of-the-dashboards
+      output: web, pdf
+
+    - title: Fail to proof the ROI of Business Intelligence
+      url: blog/why-companies-fail-to-see-roi-on-their-business-intelligence-platform
+      output: web, pdf
+
+    - title: What is Data Democratization
+      url: blog/what-is-data-democratization
+      output: web, pdf
+
+    - title: How Askdata supports Data Scientists
+      url: blog/how-askdata-supports-data-scientists
       output: web, pdf
 
   - title: "2020"
     output: web, pdf
     folderitems:
 
-    - title: EEWS Project
-      url: blog/2021-12-17-eews-project5
+    - title: The impact of the Conversational Analytics
+      url: blog/askdata-and-the-impact-of-the-nlp-conversational-analytics
       output: web, pdf
 
-    - title: EEWS Project
-      url: blog/2021-12-17-eews-project6
+    - title: Analytics for Customer Success
+      url: blog/analtytics-for-customer-success-managers
       output: web, pdf
 
-    - title: EEWS Project
-      url: blog/2021-12-17-eews-project7
+    - title: Analytics for Remote Workers
+      url: blog/askdata-analytics-for-remote-workers
       output: web, pdf
 
-    - title: EEWS Project
-      url: blog/2021-12-17-eews-project8
+    - title: Working from home, impact on Data Teams
+      url: blog/podcast-wfh-working-from-home-impact-on-data-teams
+      output: web, pdf
+
+    - title: Successful Data Analysts
+      url: blog/podcast-soft-skills-for-successful-data-analysts-deval-motka-quicken-loans
+      output: web, pdf
+
+    - title: Predictions at the time of Covid
+      url: blog/podcast-predictions-at-time-of-covid-with-aleks-lazarevic
       output: web, pdf
 
   - title: "2019"
     output: web, pdf
     folderitems:
 
-    - title: EEWS Project
-      url: blog/2021-12-17-eews-project9
+    - title: Askdata at Plug & Play
+      url: blog/plug-play-and-askdata
       output: web, pdf
 
-    - title: EEWS Project
-      url: blog/2021-12-17-eews-project0
+    - title: Askdata at F10
+      url: blog/askdata-brings-search-driven-analytics-in-switzerland
       output: web, pdf
 
-    - title: EEWS Project
-      url: blog/2021-12-17-eews-project0
+    - title: Introducing the Askdata platform
+      url: blog/introducing-askdata-platform
       output: web, pdf
 
-    - title: EEWS Project
-      url: blog/2021-12-17-eews-project0
+    - title: How to Define a Data Driven Culture
+      url: blog/how-to-define-a-data-driven-culture
       output: web, pdf
 
-  - title: Archived
+  - title: "Archived"
     output: web, pdf
     folderitems:
 
-    - title: EEWS Project
-      url: blog/2021-12-17-eews-project1
-      output: web, pdf
-
-    - title: EEWS Project
-      url: blog/2021-12-17-eews-project2
-      output: web, pdf
-
-    - title: EEWS Project
-      url: blog/2021-12-17-eews-project3
-      output: web, pdf
-
-    - title: EEWS Project
-      url: blog/2021-12-17-eews-project4
+    - title: Askdata and MemSQL
+      url: blog/askdata-and-memsql
       output: web, pdf
