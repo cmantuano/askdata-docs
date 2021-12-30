@@ -84,7 +84,7 @@ entries:
     folderitems:
 
     - title: About us
-      url: company/research
+      url: company/about-us
       output: web, pdf
 
     - title: Research
@@ -92,7 +92,7 @@ entries:
       output: web, pdf
 
     - title: Partners
-      url: company/research
+      url: company/partners
       output: web, pdf
 
   - title: Contacts
