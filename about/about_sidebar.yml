@@ -24,17 +24,17 @@ entries:
     folderitems:
 
     - title: What is Askdata
-      url: product/index
+      url: about/index
       output: web, pdf
       type: homepage
 
     - title: Why Askdata
-      url: product/why-askdata
+      url: about/why-askdata
       output: web, pdf
       type: homepage
 
     - title: Video Overview
-      url: product/video-overview
+      url: about/video-overview
       output: web, pdf
 
   - title: Features
