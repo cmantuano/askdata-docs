@@ -13,4 +13,4 @@ layout: industry
 
 <h4 class="text-center">Askdata integrates with the most common datasets used in the Manufacturing operations.</h4>
 
-<img src="/media/use-cases/sales-and-marketing.png" class="mx-auto d-block">
+<img src="/media/use-cases/manufacturing.png" class="image-doc">
