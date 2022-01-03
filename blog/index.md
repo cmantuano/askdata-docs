@@ -10,11 +10,11 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
 ## From our blog
 
 <div class="card mb-3">
-  <img src="..." class="card-img-top" alt="...">
+  <img src="/media/blog/data-analytics-2022-outlook/cover.png" class="card-img-top" alt="Data Analytics Outlook">
   <div class="card-body">
     <h5 class="card-title">Data Analytics 2022 Outlook</h5>
-    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    <p class="card-text">All-in with No-Code for Data Analytics</p>
+    <p class="card-text"><small class="text-muted">January 3rd 2022</small></p>
     <a href="/blog/data-analytics-2022-outlook" class="btn btn-primary">Read Post</a>
   </div>
 </div>
