@@ -1,10 +1,9 @@
 ---
-title: "What is Askdata"
-keywords: homepage documentation docs
+title: "Research & Development"
+keywords: homepage documentation
 tags: [getting_started]
 sidebar: myd	oc_sidebar
 permalink: index.html
-summary: This is the go-to guide on asking questions and sharing data cards using Askdata. You’ll learn in depth about how questions are expressed, how to chart data cards, as well as how to share data cards and create feeds.
 ---
 
 ## Research
