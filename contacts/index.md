@@ -1,13 +1,9 @@
 ---
-title: "Official Docs: Your data, instantly valuable"
-keywords: homepage documentation docs
+title: "Contacts"
+keywords: homepage
 tags: [getting_started]
-sidebar: mydoc_sidebar
-permalink: index.html
 summary: This is the go-to guide on asking questions and sharing data cards using Askdata. You’ll learn in depth about how questions are expressed, how to chart data cards, as well as how to share data cards and create feeds.
 ---
-
-# Documentation
 
 ## Contact Us
 
@@ -22,7 +18,9 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
 
 ### Want to reach one of the local office?
 
-<div class="card" style="width: 18rem;">
+<div class="row">
+  <div class="col-sm-6">
+<div class="card">
   <img src="\media\contacts\locations\rome.png" class="card-img-top" alt="Askdata San Francisco">
   <div class="card-body">
     <h5 class="card-title">San Francisco</h5>
@@ -35,8 +33,9 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
         Email: sanfrancisco@askdata.com</p>
   </div>
 </div>
-
-<div class="card" style="width: 18rem;">
+  </div>
+  <div class="col-sm-6">
+<div class="card">
   <img src="\media\contacts\locations\rome.png" class="card-img-top" alt="Askdata Rome">
   <div class="card-body">
     <h5 class="card-title">Rome</h5>
@@ -47,6 +46,8 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
         00198 Rome, Italy<br/>
         VAT code: 12650141000<br/>
         Email: rome@askdata.com</p>
+  </div>
+</div>
   </div>
 </div>
 

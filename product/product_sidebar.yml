@@ -102,16 +102,12 @@ entries:
       url: company/partners
       output: web, pdf
 
-  - title: Contacts
-    output: web, pdf
-    folderitems:
-
     - title: Contacts
       url: contacts/index
       output: web, pdf
 
     - title: Request Demo
-      url: contacts/request-demo
+      url: https://www.askdata.com/request-poc
       output: web, pdf
 
     - title: Support

@@ -20,18 +20,14 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: By Industry
     output: web, pdf
     folderitems:
 
-    - title: Use Cases
+    - title: Overview
       url: use-cases/index
       output: web, pdf
       type: homepage
-
-  - title: By Industries
-    output: web, pdf
-    folderitems:
 
     - title: Sales and Marketing
       url: use-cases/sales-and-marketing
@@ -61,7 +57,7 @@ entries:
       url: use-cases/technology
       output: web, pdf
 
-  - title: By Objectives
+  - title: By Objective
     output: web, pdf
     folderitems:
 
@@ -85,7 +81,7 @@ entries:
       url: use-cases/your-first-usage
       output: web, pdf
 
-  - title: By Roles
+  - title: By Role
     output: web, pdf
     folderitems:
 

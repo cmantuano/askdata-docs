@@ -23,13 +23,13 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Overview
+      url: integrations/index
+      output: web, pdf
+
     - title: CSV
       url: integrations/csv
       output: web, pdf
-
-  - title: Features
-    output: web, pdf
-    folderitems:
 
     - title: Excel
       url: integrations/excel
