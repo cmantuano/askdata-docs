@@ -8,11 +8,11 @@ permalink: index.html
 
 ## Research
 
-<img src="/media/research/research.png" class="image-doc">
-
 #### Askdata conducts research toward the creation of a frictionless Human and Data experience.
 
 In order to create the data experience we leverage all your existing data and analytics platforms to create a personalized experience through natural language and proactive insights.
+
+<img src="/media/research/research.png" class="image-doc">
 
 ### Our Approach
 
@@ -24,17 +24,17 @@ Researchers across Askdata are innovating across many domains. We challenge conv
 
 From conducting fundamental research to influencing product development, our research teams have the opportunity to impact how people interact with data on a daily basis.
 
-<div class="container">
+<div class="container mb-3">
   <div class="row">
     <div class="col-12 col-md-6">
       <ul class="list-group">
         <li class="list-group-item"><i class="fas fa-male text-info mx-2"></i>Natural Language Processing</li>
-        <li class="list-group-item"><i class="fas fa-venus text-warning mx-2"></i>Natural Language Generation</li>
-        <li class="list-group-item"><i class="fas fa-gavel text-danger mx-2"></i>Distributed Systems</li>
-        <li class="list-group-item"><i class="fas fa-gavel text-danger mx-2"></i>Search</li>
-        <li class="list-group-item"><i class="fas fa-gavel text-danger mx-2"></i>Reccomendation Systems</li>
-        <li class="list-group-item"><i class="fas fa-gavel text-danger mx-2"></i>Information Retrieval</li>
-        <li class="list-group-item"><i class="fas fa-gavel text-danger mx-2"></i>Knwoledge Graphs and Representation</li>
+        <li class="list-group-item"><i class="fas fa-quote-left text-info mx-2"></i>Natural Language Generation</li>
+        <li class="list-group-item"><i class="fas fa-map text-info mx-2"></i>Distributed Systems</li>
+        <li class="list-group-item"><i class="fas fa-search text-info mx-2"></i>Search</li>
+        <li class="list-group-item"><i class="fas fa-smile text-info mx-2"></i>Reccomendation Systems</li>
+        <li class="list-group-item"><i class="fas fa-comments text-info mx-2"></i>Information Retrieval</li>
+        <li class="list-group-item"><i class="fas fa-gavel text-info mx-2"></i>Knwoledge Graphs and Representation</li>
       </ul>
     </div>
   </div>
