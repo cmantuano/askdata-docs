@@ -23,13 +23,13 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: What is Askdata
-      url: about/index
+    - title: About product
+      url: product/index
       output: web, pdf
       type: homepage
 
-    - title: Why Askdata
-      url: about/why-askdata
+    - title: Test 2
+      url: product/test
       output: web, pdf
       type: homepage
 
