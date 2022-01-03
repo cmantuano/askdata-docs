@@ -28,7 +28,7 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Test
+    - title: Test 2
       url: product/test
       output: web, pdf
       type: homepage
