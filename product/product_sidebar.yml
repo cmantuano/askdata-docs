@@ -33,8 +33,8 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Video Overview
-      url: about/video-overview
+    - title: Test 3
+      url: product/test-3
       output: web, pdf
 
   - title: Features
