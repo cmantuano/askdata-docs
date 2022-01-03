@@ -10,6 +10,6 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
 
 Askdata is a powerful but simple interace that let your team to interact with data as they would search on Google.
 
-<img src="/media/integrations/askdata_search_data.png" class=image-doc">
+<div><img src="/media/integrations/askdata_search_data.png" class=image-doc"></div>
 
 Use the left menu to find the list of datasets you can connect to the platform. Don't you see the data-source you're looking for? We have hundreds of integrations on our enterprise plan <a href="/contacts">write us</a>.

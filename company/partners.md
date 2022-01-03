@@ -1,5 +1,5 @@
 ---
-title: "What is Askdata"
+title: Partners
 keywords: homepage documentation docs
 tags: [getting_started]
 sidebar: myd	oc_sidebar
@@ -7,47 +7,96 @@ permalink: index.html
 summary: This is the go-to guide on asking questions and sharing data cards using Askdata. You’ll learn in depth about how questions are expressed, how to chart data cards, as well as how to share data cards and create feeds.
 ---
 
-## Research
+## Partners
 
-Askdata conducts research toward the creation of a frictionless Human and Data experience.
+### ⚡ We're in this together
 
-=====================================================================================
+#### Technology Partners
 
-#### We work on computer science problems that define the data experience of today and tomorrow.
+![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e5cdd980e1706dad689284e_partner-adobe-wide.png)
 
-In order to create the data experience we leverage all your existing data and analytics platforms to create a personalized experience through natural language and proactive insights.
+Adobe
 
-<img src="/media/product/askdata-search-insights.gif" class="mx-auto d-block" style="max-width:90%">
+More info
 
+](https://www.askdata.com/partners/adobe)
 
-### Our Approach
+[
 
-Askdata tackles the most challenging problems in data experience interaction.
+![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e52e32f33d3684d8f3b4661_partner-aws-wide.png)
 
-Researchers across Askdata are innovating across many domains. We challenge conventions and reimagine data interactions so that everyone can benefit.
+Amazon AWS
 
-### Research Areas
+More info
 
-From conducting fundamental research to influencing product development, our research teams have the opportunity to impact how people interact with data on a daily basis.
+](https://www.askdata.com/partners/amazon-aws)
 
-<div class="container">
-  <div class="row">
-    <div class="col-12 col-md-6">
-      <ul class="list-group">
-        <li class="list-group-item"><i class="fas fa-male text-info mx-2"></i>Natural Language Processing</li>
-        <li class="list-group-item"><i class="fas fa-venus text-warning mx-2"></i>Natural Language Generation</li>
-        <li class="list-group-item"><i class="fas fa-gavel text-danger mx-2"></i>Distributed Systems</li>
-        <li class="list-group-item"><i class="fas fa-gavel text-danger mx-2"></i>Search</li>
-        <li class="list-group-item"><i class="fas fa-gavel text-danger mx-2"></i>Reccomendation Systems</li>
-        <li class="list-group-item"><i class="fas fa-gavel text-danger mx-2"></i>Information Retrieval</li>
-        <li class="list-group-item"><i class="fas fa-gavel text-danger mx-2"></i>Knwoledge Graphs and Representation</li>
-      </ul>
-    </div>
-  </div>
-</div>
+[
 
-### Research Philosophy
+![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e63bca951beef818dc24638_exasol.png)
 
-As an organization, we maintain a portfolio of research projects driven by fundamental research, new product innovation, product contribution and infrastructure goals, while providing individuals and teams the freedom to emphasize specific types of work. We strive to create an environment conducive to many different types of research across many different time scales and levels of risk.
+Exasol
 
-We believe successful industry research requires managing a portfolio of projects with time horizons, levels of risk and goals appropriate for the organization. Our approach to research has always been flexible. Machine learning (ML) is a transformative technology that touches everything we do as a company. 
+More info
+
+](https://www.askdata.com/partners/exasol)
+
+[
+
+![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e52e326eba2591cef3ec818_partner-google-cloud-wide.png)
+
+Google Cloud
+
+More info
+
+](https://www.askdata.com/partners/google-cloud)
+
+[
+
+![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e52e3a13373099d99f6be2e_partner-looker-wide.png)
+
+Looker
+
+More info
+
+](https://www.askdata.com/partners/looker)
+
+[
+
+![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e52e35e16879c2f18c764a5_partner-memsql-wide.png)
+
+MemSQL
+
+More info
+
+](https://www.askdata.com/partners/memsql)
+
+[
+
+![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e52e36b33d36811623b4d17_partner-microstrategy-wide.png)
+
+MicroStrategy
+
+More info
+
+](https://www.askdata.com/partners/microstrategy)
+
+[
+
+![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e52e39233d36809fb3b4d49_partner-microsoft-wide.png)
+
+Microsoft
+
+More info
+
+](https://www.askdata.com/partners/microsoft)
+
+[
+
+![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e52e3172c16e834b613c5e9_partner-sap-wide.png)
+
+SAP
+
+More info
+
+](https://www.askdata.com/partners/sap)
