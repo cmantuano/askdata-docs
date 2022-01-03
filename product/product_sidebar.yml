@@ -36,18 +36,6 @@ entries:
     - title: Video Overview
       url: product/video-overview
 
-    - title: Test 3
-      url: product/test-3
-      output: web, pdf
-
-    - title: Test 4
-      url: product/test-4
-      output: web, pdf
-
-    - title: Test 5
-      url: product/test-5
-      output: web, pdf
-
   - title: Features
     output: web, pdf
     folderitems:
