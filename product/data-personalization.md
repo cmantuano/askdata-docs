@@ -14,7 +14,7 @@ It’s no secret that the demand for marketing to be more personal is getting st
 
 With too much content and new marketing channels bombarding us, brands are under constant pressure to capture new customers and retain existing ones. This is driving the need for more personalized messaging. At every phase of the funnel, marketers must find ways to deeply and directly connect with the consumer.
 
-<img src="/media/product/data-personalization.png" style="max-width:50%" />
+<img src="/media/product/data-personalization.png" class="image-doc" />
 
 Askdata seamlessly connects through APIs to your BI and data platform allowing business users or administrators to create data cards that can be exchanged in a secure way improving customer operations at scale
 

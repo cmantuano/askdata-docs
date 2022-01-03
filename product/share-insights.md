@@ -12,7 +12,7 @@ Askdata provides intelligent data sharing capabilities to Business Intelligence 
 
 Askdata seamlessly connects through APIs to your BI and data platform allowing business users or administrators to create data cards that can be exchanged in a secure way improving customer operations at scale.
 
-<img src="/media/product/data-collaboration.png" style="max-height:70%" />
+<img src="/media/product/data-collaboration.png" class="image-doc" />
 
 #### WHY DATA COLLABORATION?
 

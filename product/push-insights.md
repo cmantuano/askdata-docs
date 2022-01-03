@@ -12,7 +12,7 @@ Askdata provides automated data analytics capabilities to Business Intelligence,
 ‍
 Askdata seamlessly connects to your data environment and keeps users proactively informed of important changes to business data – helping to make faster, data driven business decisions.
 
-<img src="/media/product/automated-push-insights.png" style="max-width:70%" />
+<img src="/media/product/automated-push-insights.png" class="image-doc" />
 
 ### WHY AUTOMATED DATA ANALYTICS?
 
