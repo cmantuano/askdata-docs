@@ -1,0 +1,116 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Askdata
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: What is Askdata
+      url: about/index
+      output: web, pdf
+      type: homepage
+
+    - title: Why Askdata
+      url: about/why-askdata
+      output: web, pdf
+      type: homepage
+
+    - title: Video Overview
+      url: about/video-overview
+      output: web, pdf
+
+  - title: Features
+    output: web, pdf
+    folderitems:
+
+    - title: Search Insights
+      url: product/search-insights
+      output: web, pdf
+
+    - title: Push Insights
+      url: product/push-insights
+      output: web, pdf
+
+    - title: Data Personalization
+      url: product/data-personalization
+      output: web, pdf
+
+    - title: Data Collaboration
+      url: product/share-insights
+      output: web, pdf
+
+
+  - title: Apps
+    output: web, pdf
+    folderitems:
+
+    - title: iOS App
+      url: product/ios
+      output: web, pdf
+
+    - title: Android App
+      url: product/android
+      output: web, pdf
+
+    - title: Microsoft Teams
+      url: product/msteams
+      output: web, pdf
+
+    - title: Slack
+      url: product/slack
+      output: web, pdf
+
+
+  - title: Company
+    output: web, pdf
+    folderitems:
+
+    - title: About us
+      url: company/about-us
+      output: web, pdf
+
+    - title: Research
+      url: company/research
+      output: web, pdf
+
+    - title: Partners
+      url: company/partners
+      output: web, pdf
+
+  - title: Contacts
+    output: web, pdf
+    folderitems:
+
+    - title: Contacts
+      url: contacts/index
+      output: web, pdf
+
+    - title: Request Demo
+      url: contacts/request-demo
+      output: web, pdf
+
+    - title: Support
+      url: contacts/support
+      output: web, pdf
+
+    - title: Partnerships
+      url: contacts/partnership
+      output: web, pdf
