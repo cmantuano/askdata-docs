@@ -19,12 +19,17 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Latest Posts
+  - title: Overview
     output: web, pdf
     folderitems:
 
     - title: Recent Posts
       url: blog/index
+      output: web, pdf
+      type: homepage
+
+    - title: Research
+      url: research/index
       output: web, pdf
       type: homepage
 
@@ -34,10 +39,6 @@ entries:
 
     - title: EEWS Project
       url: blog/2021-12-17-eews-project
-      output: web, pdf
-
-    - title: The Decline of the Dashboards
-      url: blog/2021-12-17-eews-project4
       output: web, pdf
 
     - title: The Decline of the Dashboards

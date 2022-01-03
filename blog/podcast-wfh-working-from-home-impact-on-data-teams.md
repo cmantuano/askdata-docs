@@ -13,6 +13,3 @@ layout: dataset
 
 <div></div><p>In this episode of the <a href="https://www.askdata.com/podcast">Data Experience Podcast</a> we were joined by Mike Hansen, VP of Business Intelligence and Data Strategy at Guggenheim Partners. Mike has 15 years of experience in Business Intelligence space designing, building, and maturing business intelligence environments from the ground up for several companies. Proven track record growing, managing, and maturing teams around these systems.We talked about how to Covid impacted the way of working for the Data Analysts and Data Scientists<strong><br></strong></p>
 
-  {% include links.html %}
-
-  
