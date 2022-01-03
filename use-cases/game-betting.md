@@ -10,9 +10,9 @@ layput: industry
 
 ### Use Case
 
-<p class="text-center"><img src="/media/use-cases/icons/fintech.svg"></p>
+<p class="text-center"><img src="/media/use-cases/icons/industry-games-and-betting.svg"></p>
 <h1 class="text-center">Games and Betting</h1>
 
-<h4 class="text-center">Askdata integrates with the most common datasets used in the Supply Chain operations.</h4>
+<h4 class="text-center">Askdata integrates with the most common datasets used in the Games & Betting to provide personalized experience.</h4>
 
-<img src="/media/use-cases/game-and-betting.png" class="image-doc">
+<img src="/media/use-cases/games-and-betting.png" class="image-doc">
