@@ -23,18 +23,18 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: About product
+    - title: What is Askdata
       url: product/index
       output: web, pdf
       type: homepage
 
-    - title: Test 2
-      url: product/test
+    - title: Why Askdata
+      url: product/why-askdata
       output: web, pdf
       type: homepage
 
     - title: Video Overview
-      url: about/video-overview
+      url: product/video-overview
       output: web, pdf
 
   - title: Features
@@ -84,11 +84,7 @@ entries:
     folderitems:
 
     - title: About us
-      url: company/about-us
-      output: web, pdf
-
-    - title: Research
-      url: company/research
+      url: company/index
       output: web, pdf
 
     - title: Partners

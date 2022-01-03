@@ -9,59 +9,47 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
 
 # Documentation
 
-Askdata is a powerful but simple interface that lets your team interact with data as they would search on a search engine such as Google. <a href="/product/index">About Askdata</a>. This is the *go-to guide* on searching data and sharing data cards using Askdata organized by role: <a href="/docs/getting-started">User Guide</a>, <a href="/docs/admin-guide">Admin Guide</a>, <a href="/docs/sdk-and-api">Developer</a> or <a href="/docs/video-and-demos">Just Curious</a>.
+## Contact Us
 
-<div class="row">
-	<div class="col-md-3 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <a href="/docs/getting-started"> <img src="/media/images/illustrations/guides/Getting Started.png" style="object-fit: cover;heigth:160px;width:160px"></a>
-                 </div>
-                 <div class="panel-body">
-                     <h4 id="getting-started">Getting started<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/getting-started" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
-<b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/docs/getting-started" class="btn btn-secondary">Getting Started</a>
-                 </div>
-             </div>
-         </div>
-	<div class="col-md-3 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <a href="/docs/admin-guide"> <img src="/media/images/illustrations/guides/Admin.png" style="object-fit: cover;heigth:160px;width:160px"></a>
-                 </div>
-                 <div class="panel-body">
-                     <h4 id="getting-started">Admin Guide<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/admin-guide" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
-<b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/docs/admin-guide" class="btn btn-secondary">Admin Guide</a>
-                 </div>
-             </div>
-         </div>
-	<div class="col-md-3 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <a href="/docs/sdk-and-api"> <img src="/media/images/illustrations/guides/API.png" style="object-fit: cover;heigth:160px;width:160px"></a>
-                 </div>
-                 <div class="panel-body">
-                     <h4 id="getting-started">SDK and APIs<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/sdk-and-api" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
-<b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/docs/sdk-and-api" class="btn btn-secondary">SDK and APIs</a>
-                 </div>
-             </div>
-         </div>
-	<div class="col-md-3 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <a href="/docs/video-and-demos"> <img src="/media/images/illustrations/guides/video.png" style="object-fit: cover;heigth:160px;width:160px"></a>
-                 </div>
-                 <div class="panel-body">
-                     <h4 id="getting-started">Videos and Demos<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="/docs/videos-and-demo" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
-<b>For users:</b> Learn how to search and explore data with Askdata<p></p>
-                     <a href="/docs/video-and-demos" class="btn btn-secondary">Videos and Demo</a>
-                 </div>
-             </div>
-         </div>
+### Data never sleeps, neither do we
+
+* REQUEST DEMO:
+<a href="https://www.askdata.com/request-poc">General Inquiry</a>
+
+* CONTACT US:
+
+* PARTNER WITH US:
+
+### Want to reach one of the local office?
+
+<div class="card" style="width: 18rem;">
+  <img src="\media\contacts\locations\rome.png" class="card-img-top" alt="Askdata San Francisco">
+  <div class="card-body">
+    <h5 class="card-title">San Francisco</h5>
+    <p class="card-text">
+        San Francisco<br/>
+        Askdata Inc<br/>
+        1390 Market St #200<br/>
+        San Francisco, CA 94133<br/>
+        United States<br/>
+        Email: sanfrancisco@askdata.com</p>
+  </div>
 </div>
 
-[FAQ](/docs/faq) and [Support Aavailable](/docs/support).
+<div class="card" style="width: 18rem;">
+  <img src="\media\contacts\locations\rome.png" class="card-img-top" alt="Askdata Rome">
+  <div class="card-body">
+    <h5 class="card-title">Rome</h5>
+    <p class="card-text">
+        INNAAS srl<br/>
+        Viale Trastevere 236 (R&D)<br/>
+        Via Panama 52 (Legal)<br/>
+        00198 Rome, Italy<br/>
+        VAT code: 12650141000<br/>
+        Email: rome@askdata.com</p>
+  </div>
+</div>
 
-This documentation is released under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license.
+
+[FAQ](/contact/faq) and [Support Aavailable](/contacts/support).
+
