@@ -38,7 +38,7 @@ With Askdata Your data gets ⚡ more valuable
                      <a href="/use-cases/fintech"> <img src="/media/use-cases/finance-and-insurance.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="pb-3">
-                     <a href="/use-cases/finech" class="m-1 btn btn-secondary">Finance & Insurance</a>
+                     <a href="/use-cases/fintech" class="m-1 btn btn-secondary">Finance & Insurance</a>
                  </div>
              </div>
          </div>

@@ -23,7 +23,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Recent Posts
+    - title: Blog Posts
       url: blog/index
       output: web, pdf
       type: homepage
@@ -32,6 +32,14 @@ entries:
       url: research/index
       output: web, pdf
       type: homepage
+
+  - title: "2022"
+    output: web, pdf
+    folderitems:
+
+    - title: Data Analytics 2022 Outlook
+      url: blog/data-analytics-2022-outlook
+      output: web, pdf
 
   - title: "2021"
     output: web, pdf

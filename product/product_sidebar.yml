@@ -28,18 +28,6 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Why Askdata
-      url: product/why-askdata
-      output: web, pdf
-      type: homepage
-
-    - title: Video Overview
-      url: product/video-overview
-
-  - title: Features
-    output: web, pdf
-    folderitems:
-
     - title: Search Insights
       url: product/search-insights
       output: web, pdf
@@ -56,6 +44,8 @@ entries:
       url: product/share-insights
       output: web, pdf
 
+    - title: Video Overview
+      url: product/video-overview
 
   - title: Apps
     output: web, pdf

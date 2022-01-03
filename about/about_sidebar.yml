@@ -84,7 +84,7 @@ entries:
     folderitems:
 
     - title: About us
-      url: company/about-us
+      url: company/index
       output: web, pdf
 
     - title: Partners
