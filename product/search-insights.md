@@ -19,6 +19,7 @@ With Askdata you can:
 2. Share Data Answers instantly with data-cards
 3. Receive Data Cards based on your previous searches
 
+<img src="/media/integrations/askdata_search_data.png" class=image-doc">
 
 ### Instant data access
 Users can ask questions about their  data instantly using Askdata's natural language querying technology — no training needed. Our proprietary Human2SQL algorithm constantly improves over the time.
