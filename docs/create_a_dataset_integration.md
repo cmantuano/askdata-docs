@@ -7,17 +7,27 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-*Prerequisites:*
-* Python coding tool
+This documents explains how to extend the Askdata integration in order to provice reading capability for new datasets
+
+#### Pre-Requirements
+
+* Python Coding tool
 * GIT
 * Clone this repository: https://github.com/AskdataHQ/askdata-api-python-client (Askdata SDK)
 * Clone this repository: https://github.com/AskdataHQ/askdata-dataset-integrations/tree/master/catalog (Askdata Dataset Catalog)
 
-*Step 1:*
+#### Step 1
 
 Edit the datasets.yaml file in askdata-dataset-integrations/catalog and add the configuration for the new dataset. Remember to specify, in the fields section, what are the inputs that the user must insert in order to connect to the specific dataset.
-IMPORTANT: in order for the system to find the new dataset the driver value must be “Default”
-eg. 
+
+<div class="alert alert-primary" role="alert">
+  IMPORTANT: in order for the system to find the new dataset the driver value must be “Default”
+</div>
+
+*Example:*
+
+```
+
 -   code: MY_DATA
     name: My Data
     description : This dataset can be used to read from a My Data datasource
@@ -43,16 +53,24 @@ eg.
         readOnly: false
         mandatory: true
 
-*Step 2:*
+```
+
+#### Step 2
+
 Commit the changes and push on the master branch
 
-*Step 3:*
-Go to the Python SDK repository and open the file integration.py
+#### Step 3
+
+Go to the Python SDK repository and open the file *integration.py*
+
+*Example:*
 
 Add a method with this signature:
+```python:
 def __read_new_dataset(settings: dict):
+```
 
-eg.
+*Example:*
 
 ```python:
 def __read_my_data(settings: dict):
@@ -72,7 +90,8 @@ df.to_parquet(settings["parquet"])
 ```
 Where df is the variable containing the dataframe with the data (you can rename it if necessary).
 
-Step 4:
+#### Step 4:
+
 Go edit the read method in the same file
 A case for the new dataset must be added so it cal call the method created the previous step.
 
@@ -82,8 +101,9 @@ if type == "MY_DATA":
    return __read_my_data(settings)
 ```
 
-*Step 5:*
+#### Step 5:
 Commit and push the code and wait a few minutes that the server gets the updates
 
-*Step 6:*
+####  Step 6:
+
 Go to https://app.askdata.com and start using your new dataset!
