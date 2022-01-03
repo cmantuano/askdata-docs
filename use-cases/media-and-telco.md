@@ -14,4 +14,4 @@ layout: industry
 
 <h4 class="text-center">Askdata integrates with the most common datasets used in the Media & Telco industry.</h4>
 
-<img src="/media/use-cases/media-and-telco.png" class="class="image-doc">
+<img src="/media/use-cases/media-and-telco.png" class="image-doc">
