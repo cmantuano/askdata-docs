@@ -9,16 +9,9 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
 
 ## Research
 
-Askdata conducts research toward the creation of a frictionless Human and Data experience.
-
-=====================================================================================
-
-#### We work on computer science problems that define the data experience of today and tomorrow.
+#### Askdata conducts research toward the creation of a frictionless Human and Data experience.
 
 In order to create the data experience we leverage all your existing data and analytics platforms to create a personalized experience through natural language and proactive insights.
-
-<img src="/media/product/askdata-search-insights.gif" class="mx-auto d-block" style="max-width:90%">
-
 
 ### Our Approach
 
