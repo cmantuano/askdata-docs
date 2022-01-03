@@ -41,6 +41,10 @@ entries:
       url: product/test-4
       output: web, pdf
 
+    - title: Test 5
+      url: product/test-5
+      output: web, pdf
+
   - title: Features
     output: web, pdf
     folderitems:
