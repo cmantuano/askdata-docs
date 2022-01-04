@@ -11,7 +11,7 @@ layout: dataset
 
 ## Data Analytics Outlook for 2022
 
-<img src="/media/blog/data-analytics-2022-outlook/cover.png" alt="Data Analytics Outlook for 2022" class="image-doc" />
+<img src="/media/blog/data-analytics-2022-outlook/cover.png" alt="Data Analytics Outlook for 2022" class="image-doc pb-3" />
 
 At Askdata We foresee five technological trends, which will shape the data analytics market for this 2022.
 
