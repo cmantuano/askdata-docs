@@ -1,0 +1,40 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Askdata
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Company
+    output: web, pdf
+    folderitems:
+
+    - title: About us
+      url: company/index
+      output: web, pdf
+
+    - title: Research
+      url: company/research
+      output: web, pdf
+
+    - title: Partners
+      url: company/partners
+      output: web, pdf
+
+    - title: Contacts
+      url: contacts/index
+      output: web, pdf
