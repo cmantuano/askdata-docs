@@ -61,34 +61,13 @@ The culture of any organization flows from its people, so we seek out teammates 
 }
 
 
-/* Demo styles */
-
-html,
-body {
-  height: 100%;
-}
-
-body {
-  display: grid;
-  place-items: center;
-  background: #456173;
-}
-
 ul {
   list-style: none;
   padding: 0;
 }
 
-h1,
-h2,
-h3 {
-  margin: 0;
-}
-
 .app {
-  width: 375px;
-  height: 667px;
-  background: #DBD0BC;
+  background: var(--blue-100);
   overflow-y: scroll;
 }
 
@@ -104,6 +83,10 @@ h3 {
   border-radius: 8px;
 }
 
+.cover {
+  object-fit: cover;
+}
+
 .no-scrollbar {
   scrollbar-width: none;
   margin-bottom: 0;
@@ -115,7 +98,37 @@ h3 {
 </style>
 
 <div class="app">
-  <h1>Some headline</h1>
+	<p>The culture of any organization flows from its people, so we seek out teammates who share our values and drive, not people who are exactly like us. We’ve built a company that allows everyone to take risks and thrive professionally — without ever hiding their authentic selves.</p>
+  
+  <ul class="hs full">
+    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
+    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
+    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
+    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
+    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
+    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
+  </ul>
+  
+  <ul class="hs full no-scrollbar">
+    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
+    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
+    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
+    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
+  </ul>
+
+</div>
+  
+  <!--<div class="container">
+    <div class="item">
+      <h3>Block for context</h3>
+    </div>
+  </div>-->
+
+
+## Our Values
+
+<div class="app">
+	<p>Our core values make us who we are — and explain why Askdata is such a great place to work. We’re committed to upholding our values no matter how much we grow, or how fast.</p>
   
   <ul class="hs full">
     <li class="item">test</li>
@@ -125,27 +138,22 @@ h3 {
     <li class="item">test</li>
     <li class="item">test</li>
   </ul>
+
+</div>
+
+
+## Our Story
+
+<div class="app">
+	<p>Established out of Y Combinator in 2019, Askdata began with a realization: For modern companies using traditional BI tools badly underperformed. So we designed an entirely new kind of data experience.</p>
   
-  <ul class="hs full no-scrollbar">
+  <ul class="hs full">
+    <li class="item">test</li>
+    <li class="item">test</li>
     <li class="item">test</li>
     <li class="item">test</li>
     <li class="item">test</li>
     <li class="item">test</li>
   </ul>
-  
-  <div class="container">
-    <div class="item">
-      <h3>Block for context</h3>
-    </div>
-  </div>
+
 </div>
-
-<img src="/media/product/askdata-search-insights.gif" class="mx-auto d-block" style="max-width:90%">
-
-## Our Values
-
-Our core values make us who we are — and explain why Askdata is such a great place to work. We’re committed to upholding our values no matter how much we grow, or how fast.
-
-## Our Story
-
-Established out of Y Combinator in 2019, Askdata began with a realization: For modern companies using traditional BI tools badly underperformed. So we designed an entirely new kind of data experience.
