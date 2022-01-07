@@ -4,17 +4,16 @@ keywords: homepage documentation docs
 tags: [getting_started]
 sidebar: myd	oc_sidebar
 permalink: index.html
-summary: This is the go-to guide on asking questions and sharing data cards using Askdata. You’ll learn in depth about how questions are expressed, how to chart data cards, as well as how to share data cards and create feeds.
 ---
 
 ## Partners
 
-<h4 class="text-center">Technology Partners: ⚡ We're in this together</h4>
+<h3 class="text-center p-2">Technology Partners</h4>
+<h4 class="text-center">⚡ We're in this together</h4>
 
-
-<div class="bg-white border rounded-5" style="background-color: var(--blue-100)">
-     <section class="p-4 d-flex justify-content-center  w-100">
-         <div class="card" style="max-width: 22rem;">
+<div class="bg-white rounded-5" style="background-color: var(--blue-100)!important">
+     <section class="p-4 justify-content-center  w-100">
+         <div class="card m-2" style="max-width: 22rem;">
           <img src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e5cdd980e1706dad689284e_partner-adobe-wide.png" class="card-img-top" alt="Fissure in Sandstone">
           <div class="card-body">
             <h5 class="card-title">Adobe</h5>
@@ -95,7 +94,7 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
           </div>
         </div>
         <div class="card" style="max-width: 22rem;">
-          <img src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e52e3172c16e834b613c5e9_partner-sap-wide.png" alt="MicroStrategy">
+          <img src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e52e39233d36809fb3b4d49_partner-microsoft-wide.png" alt="Microsoft">
           <div class="card-body">
             <h5 class="card-title">Microsoft</h5>
             <p class="card-text">
@@ -105,9 +104,9 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
           </div>
       </div>
         <div class="card" style="max-width: 22rem;">
-          <img src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e52e3172c16e834b613c5e9_partner-sap-wide.png" alt="MicroStrategy">
+          <img src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e52e3172c16e834b613c5e9_partner-sap-wide.png" alt="SAP">
           <div class="card-body">
-            <h5 class="card-title">Microsoft</h5>
+            <h5 class="card-title">SAP</h5>
             <p class="card-text">
               SAP
             </p>
