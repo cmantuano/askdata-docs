@@ -9,11 +9,13 @@ layout: post
 
 ## Earthquake Early Warning Systems
 
+<img src="/media/blog/2021-12-17-eews-project/earthquake.jpeg" alt="Data Analytics Outlook for 2022" class="image-doc pb-3" />
+
 We're happy to announce the approval of the WWWS (Earthquake Early Warning Systems) a collaborative project between Askdata and the University of Rome Tor Vergata.
 
 The concept behind the mutual project is to combine the experience of Askdata in making data frictionless and productive the aerospece competence of the University of Tor Vergata to validate an end-to-end system that is able to provide a simple and reliable system able to identify data-driven Earthquake Early Warnings.
 
-####Full title: 
+#### Full title: 
 Earthquake Early Warning Systems
 
 #### Duration:
@@ -41,7 +43,7 @@ Nonetheless, it is necessary to implement intelligent systems and rapid decision
 
 The Earthquake Early Warning Systems (EEWS) project brings together concepts, methods and technologies of Real-Time (RT) seismology to achieve this goal. The combination of all these factors will allow the development of new theories and practices on Earthquake nucleation process thus creating the basis for the evolution of EEWS towards future systems. Team and project presentation
 
-<img src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/61bc6263f67207ec3f812780_loghi-progetto.jpeg" loading="lazy" alt="">
+<img src="/media/blog/2021-12-17-eews-project/EU.jpeg" loading="lazy" alt="">
 
 #### Project Team and Overview:
 (https://www.askdata.com/post/eews-project#:~:text=Team%20and%20Overview%3A-,Documentation,-Italian%20version%3A)[Documentation]
