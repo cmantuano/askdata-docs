@@ -11,6 +11,8 @@ layout: dataset
 
 ## Askdata lands in Switzerland
 
+<img src="/media/blog/askdata-brings-search-driven-analytics-in-switzerland/askdata-brings-search-driven-analytics-in-switzerland.jpeg" alt="Data Analytics Outlook for 2022" class="image-doc pb-3" />
+
 <p>F10 FinTech announces the companies that have been selected for the F10 Scale-up Program and Askdata is one of them!</p><p>Askdata is one of the 8 admitted to the program from the more than 80 teams, with market traction and revenue generation from various countries, that had applied to become part of the program that is designed to maximize the exposure to the financial services in Switzerland</p>
 
 <p>The Startups accepted into the Program have the opportunity to collaborate with the prestigious F10 Corporate Members and connect with the broader F10 ecosystem, get access to the F10 investor network, and gain valuable insights into sales, scaling as well as fundraising. <br></p>
