@@ -101,21 +101,46 @@ ul {
 	<p>The culture of any organization flows from its people, so we seek out teammates who share our values and drive, not people who are exactly like us. We’ve built a company that allows everyone to take risks and thrive professionally — without ever hiding their authentic selves.</p>
   
   <ul class="hs full">
-    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
-    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
-    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
-    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
-    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
-    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture1.gif" class="cover"></li>
+    <li class="item"><img src="/media/company/culture3.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture4.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture5.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture6.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture7.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture25.png" class="cover"></li>
   </ul>
   
-  <ul class="hs full no-scrollbar">
-    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
-    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
-    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
-    <li class="item"><img src="/media/blog/data-analytics-2022-outlook/cover.png" class="cover"></li>
+  <ul class="hs full">
+    <li class="item"><img src="/media/company/culture2.gif" class="cover"></li>
+    <li class="item"><img src="/media/company/culture8.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture9.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture10.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture11.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture12.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture26.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture29.png" class="cover"></li>
   </ul>
 
+  <ul class="hs full">
+    <li class="item"><img src="/media/company/culture13.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture14.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture15.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture16.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture17.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture18.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture27.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture30.png" class="cover"></li>
+  </ul>
+
+  <ul class="hs full">
+    <li class="item"><img src="/media/company/culture19.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture20.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture21.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture22.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture23.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture24.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture28.png" class="cover"></li>
+  </ul>
 </div>
   
   <!--<div class="container">
