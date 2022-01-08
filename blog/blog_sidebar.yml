@@ -105,10 +105,6 @@ entries:
       url: blog/askdata-brings-search-driven-analytics-in-switzerland
       output: web, pdf
 
-    - title: Introducing the Askdata platform
-      url: blog/introducing-askdata-platform
-      output: web, pdf
-
     - title: How to Define a Data Driven Culture
       url: blog/how-to-define-a-data-driven-culture
       output: web, pdf
