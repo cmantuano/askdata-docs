@@ -31,6 +31,19 @@ entries:
       url: partners/index
       output: web, pdf
 
-    - title: Contacts
+
+- title: Contacts
+    output: web, pdf
+    folderitems:
+
+    - title: Contact us
       url: contacts/index
+      output: web, pdf
+
+    - title: FAQ
+      url: contacts/faq
+      output: web, pdf
+
+    - title: Partners
+      url: contacts/support
       output: web, pdf

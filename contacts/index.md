@@ -21,7 +21,7 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
 <div class="row">
   <div class="col-sm-6">
 <div class="card">
-  <img src="\media\contacts\locations\rome.png" class="card-img-top" alt="Askdata San Francisco">
+  <img src="\media\contacts\offices\san-francisco.jpeg" class="card-img-top" alt="Askdata San Francisco">
   <div class="card-body">
     <h5 class="card-title">San Francisco</h5>
     <p class="card-text">
@@ -36,7 +36,7 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
   </div>
   <div class="col-sm-6">
 <div class="card">
-  <img src="\media\contacts\locations\rome.png" class="card-img-top" alt="Askdata Rome">
+  <img src="\media\contacts\offices\rome.jpeg" class="card-img-top" alt="Askdata Rome">
   <div class="card-body">
     <h5 class="card-title">Rome</h5>
     <p class="card-text">
@@ -51,6 +51,4 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
   </div>
 </div>
 
-
-[FAQ](/contact/faq) and [Support Aavailable](/contacts/support).
 
