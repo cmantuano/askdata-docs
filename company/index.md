@@ -107,7 +107,7 @@ ul {
     <li class="item"><img src="/media/company/culture5.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture12.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture9.png" class="cover"></li>
-    
+    <li class="item"><img src="/media/company/culture27.png" class="cover"></li>
   
   </ul>
   
@@ -117,18 +117,9 @@ ul {
     <li class="item"><img src="/media/company/culture26.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture11.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture29.png" class="cover"></li>
-  </ul>
-
-  <ul class="hs full">
     <li class="item"><img src="/media/company/culture30.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture13.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture14.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture17.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture18.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture27.png" class="cover"></li>
     
   </ul>
-
 </div>
   
 
