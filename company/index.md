@@ -11,7 +11,7 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
 
 Data fuels powerful insights and changes lives.
 
-### Mission
+#### Mission
 
 Askdata's mission is to make data productive for everyone.
 
@@ -106,7 +106,7 @@ ul {
     <li class="item"><img src="/media/company/culture4.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture5.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture12.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture9.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture28.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture27.png" class="cover"></li>
   
   </ul>
@@ -117,7 +117,7 @@ ul {
     <li class="item"><img src="/media/company/culture26.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture11.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture29.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture30.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture22.png" class="cover"></li>
     
   </ul>
 </div>
@@ -129,12 +129,10 @@ ul {
 	<p>Our core values make us who we are — and explain why Askdata is such a great place to work. We’re committed to upholding our values no matter how much we grow, or how fast.</p>
   
  <ul class="hs full">
-    <li class="item"><img src="/media/company/culture22.png" class="cover"></li>
-      <li class="item"><img src="/media/company/culture23.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture19.png" class="cover"></li>
+  <li class="item"><img src="/media/company/culture30.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture21.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture23.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture24.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture28.png" class="cover"></li>
   </ul>
 
 </div>
