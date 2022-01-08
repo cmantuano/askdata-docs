@@ -14,6 +14,10 @@ entries:
       url: /titlepage.html
       output: pdf
       type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
       
   - title: Company
     output: web, pdf
@@ -35,14 +39,14 @@ entries:
       output: web, pdf
       folderitems:
 
-      - title: Contact us
-        url: contacts/index
-        output: web, pdf
+    - title: Contact us
+      url: contacts/index
+      output: web, pdf
 
-      - title: FAQ
-        url: contacts/faq
-        output: web, pdf
+    - title: FAQ
+      url: contacts/faq
+      output: web, pdf
 
-      - title: Partners
-        url: contacts/support
-        output: web, pdf
+    - title: Support
+      url: contacts/support
+      output: web, pdf
