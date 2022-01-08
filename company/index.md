@@ -9,11 +9,12 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
 
 ## About
 
+Data fuels powerful insights and changes lives.
+
+### Mission
+
 Askdata's mission is to make data productive for everyone.
 
-### Motivation
-
-Data fuels powerful insights and changes lives.
 
 ## Our Culture
 
@@ -102,66 +103,47 @@ ul {
   
   <ul class="hs full">
     <li class="item"><img src="/media/company/culture1.gif" class="cover"></li>
-    <li class="item"><img src="/media/company/culture3.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture4.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture5.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture6.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture7.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture25.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture12.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture9.png" class="cover"></li>
+    
+  
   </ul>
   
   <ul class="hs full">
     <li class="item"><img src="/media/company/culture2.gif" class="cover"></li>
-    <li class="item"><img src="/media/company/culture8.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture9.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture10.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture11.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture12.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture26.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture11.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture29.png" class="cover"></li>
   </ul>
 
   <ul class="hs full">
+    <li class="item"><img src="/media/company/culture30.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture13.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture14.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture15.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture16.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture17.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture18.png" class="cover"></li>
     <li class="item"><img src="/media/company/culture27.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture30.png" class="cover"></li>
+    
   </ul>
 
-  <ul class="hs full">
-    <li class="item"><img src="/media/company/culture19.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture20.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture21.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture22.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture23.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture24.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture28.png" class="cover"></li>
-  </ul>
 </div>
   
-  <!--<div class="container">
-    <div class="item">
-      <h3>Block for context</h3>
-    </div>
-  </div>-->
-
 
 ## Our Values
 
 <div class="app">
 	<p>Our core values make us who we are — and explain why Askdata is such a great place to work. We’re committed to upholding our values no matter how much we grow, or how fast.</p>
   
-  <ul class="hs full">
-    <li class="item">test</li>
-    <li class="item">test</li>
-    <li class="item">test</li>
-    <li class="item">test</li>
-    <li class="item">test</li>
-    <li class="item">test</li>
+ <ul class="hs full">
+    <li class="item"><img src="/media/company/culture22.png" class="cover"></li>
+      <li class="item"><img src="/media/company/culture23.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture19.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture21.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture24.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture28.png" class="cover"></li>
   </ul>
 
 </div>
@@ -172,13 +154,9 @@ ul {
 <div class="app">
 	<p>Established out of Y Combinator in 2019, Askdata began with a realization: For modern companies using traditional BI tools badly underperformed. So we designed an entirely new kind of data experience.</p>
   
-  <ul class="hs full">
-    <li class="item">test</li>
-    <li class="item">test</li>
-    <li class="item">test</li>
-    <li class="item">test</li>
-    <li class="item">test</li>
-    <li class="item">test</li>
+ <ul class="hs full">
+    <li class="item"><img src="/media/company/story1.png" class="cover"></li>
+    <li class="item"><img src="/media/company/story2.png" class="cover"></li>
   </ul>
 
 </div>
