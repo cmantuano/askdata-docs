@@ -7,14 +7,14 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
 
 ## Contact Us
 
-### Data never sleeps, neither do we
+#### REQUEST A DEMO
+<h5><a href="/contacts/request-demo">Request demo</a></h5>
 
-* REQUEST DEMO:
-<a href="https://www.askdata.com/request-poc">General Inquiry</a>
+#### CONTACT US:
+Shoot an e-mail at info@askdata.com
 
-* CONTACT US:
-
-* PARTNER WITH US:
+#### PARTNER WITH US: 
+Write at partnerships@askdata.com
 
 ### Want to reach one of the local office?
 

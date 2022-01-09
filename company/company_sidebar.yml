@@ -47,6 +47,10 @@ entries:
       url: contacts/faq
       output: web, pdf
 
-    - title: Support
+    - title: Request Demo
+      url: contacts/request-poc
+      output: web, pdf
+
+    - title: Technical Support
       url: contacts/support
       output: web, pdf

@@ -28,11 +28,6 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Research
-      url: research/index
-      output: web, pdf
-      type: homepage
-
   - title: "2022"
     output: web, pdf
     folderitems:
