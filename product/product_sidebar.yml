@@ -63,7 +63,7 @@ entries:
       output: web, pdf
 
     - title: Microsoft Teams
-      url: product/msteams
+      url: product/ms-teams
       output: web, pdf
 
     - title: Slack
@@ -80,7 +80,7 @@ entries:
       output: web, pdf
 
     - title: Partners
-      url: company/partners
+      url: partners/index
       output: web, pdf
 
     - title: Contacts
@@ -88,13 +88,5 @@ entries:
       output: web, pdf
 
     - title: Request Demo
-      url: https://www.askdata.com/request-poc
-      output: web, pdf
-
-    - title: Support
-      url: contacts/support
-      output: web, pdf
-
-    - title: Partnerships
-      url: contacts/partnership
+      url: /contacts/request-demo
       output: web, pdf
