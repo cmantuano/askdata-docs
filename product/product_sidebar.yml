@@ -47,6 +47,9 @@ entries:
     - title: Video Overview
       url: product/video-overview
 
+    - title: Pricing
+      url: product/pricing
+
   - title: Apps
     output: web, pdf
     folderitems:

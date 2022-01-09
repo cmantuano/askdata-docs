@@ -88,6 +88,17 @@ ul {
   object-fit: cover;
 }
 
+.culture {
+    height: 260px;
+    width: 360px;
+}
+
+.values {
+    object-fit: scale-down!important;
+    height: 400px;
+    width: 360px;
+}
+
 .no-scrollbar {
   scrollbar-width: none;
   margin-bottom: 0;
@@ -102,22 +113,22 @@ ul {
 	<p>The culture of any organization flows from its people, so we seek out teammates who share our values and drive, not people who are exactly like us. We’ve built a company that allows everyone to take risks and thrive professionally — without ever hiding their authentic selves.</p>
   
   <ul class="hs full">
-    <li class="item"><img src="/media/company/culture1.gif" class="cover"></li>
-    <li class="item"><img src="/media/company/culture4.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture5.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture12.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture28.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture27.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture1.gif" class="cover culture"></li>
+    <li class="item"><img src="/media/company/culture4.png" class="cover culture"></li>
+    <li class="item"><img src="/media/company/culture5.png" class="cover culture"></li>
+    <li class="item"><img src="/media/company/culture12.png" class="cover culture"></li>
+    <li class="item"><img src="/media/company/culture28.png" class="cover culture"></li>
+    <li class="item"><img src="/media/company/culture27.png" class="cover culture"></li>
   
   </ul>
   
   <ul class="hs full">
-    <li class="item"><img src="/media/company/culture2.gif" class="cover"></li>
-    <li class="item"><img src="/media/company/culture10.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture26.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture11.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture29.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture22.png" class="cover"></li>
+    <li class="item"><img src="/media/company/culture2.gif" class="cover culture"></li>
+    <li class="item"><img src="/media/company/culture10.png" class="cover culture"></li>
+    <li class="item"><img src="/media/company/culture26.png" class="cover culture"></li>
+    <li class="item"><img src="/media/company/culture11.png" class="cover culture"></li>
+    <li class="item"><img src="/media/company/culture29.png" class="cover culture"></li>
+    <li class="item"><img src="/media/company/culture22.png" class="cover culture"></li>
     
   </ul>
 </div>
@@ -129,10 +140,10 @@ ul {
 	<p>Our core values make us who we are — and explain why Askdata is such a great place to work. We’re committed to upholding our values no matter how much we grow, or how fast.</p>
   
  <ul class="hs full">
-  <li class="item"><img src="/media/company/culture30.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture21.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture23.png" class="cover"></li>
-    <li class="item"><img src="/media/company/culture24.png" class="cover"></li>
+  <li class="item"><img src="/media/company/culture30.png" class="cover values"></li>
+    <li class="item"><img src="/media/company/culture21.png" class="cover values"></li>
+    <li class="item"><img src="/media/company/culture23.png" class="cover values"></li>
+    <li class="item"><img src="/media/company/culture24.png" class="cover values"></li>
   </ul>
 
 </div>
