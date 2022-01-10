@@ -19,5 +19,6 @@ checkTable()
 checkTable_single_row()
 checkTable_single_column()
 checkColumn('sales value usd (cy)')
+checkTable_multiple_rows()
 
 ```
