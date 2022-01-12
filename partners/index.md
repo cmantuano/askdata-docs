@@ -35,7 +35,7 @@ Askdata delivers unparalleled value for your business through the combined exper
           </div>
         </div>
          <div class="card m-2 mx-auto" style="max-width: 22rem;">
-          <img src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e52e32f33d3684d8f3b4661_partner-aws-wide.png" class="card-img-top" alt="Fissure in Sandstone">
+          <img src="/media/partners/exasol.png" class="card-img-top" alt="Exasol">
           <div class="card-body">
             <h5 class="card-title">Exasol</h5>
             <p class="card-text">
@@ -55,7 +55,7 @@ Askdata delivers unparalleled value for your business through the combined exper
           </div>
         </div>
          <div class="card m-2 mx-auto" style="max-width: 22rem;">
-          <img src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5e52e326eba2591cef3ec818_partner-google-cloud-wide.png" class="card-img-top" alt="Fissure in Sandstone">
+          <img src="/media/partners/memsql.png" class="card-img-top" alt="Fissure in Sandstone">
           <div class="card-body">
             <h5 class="card-title">MemSQL</h5>
             <p class="card-text">
@@ -71,7 +71,7 @@ Askdata delivers unparalleled value for your business through the combined exper
             <p class="card-text">
               Looker is the best product for the data analytics
             </p>
-            <a href="https://www.askdata.com/partners/looker" class="btn btn-primary">More info</a>
+            <a href="/partners/looker" class="btn btn-primary">More info</a>
           </div>
         </div>
          <div class="card m-2 mx-auto" style="max-width: 22rem;">
@@ -81,7 +81,7 @@ Askdata delivers unparalleled value for your business through the combined exper
             <p class="card-text">
               MemSQL is ideal for fast-data
             </p>
-            <a href="https://www.askdata.com/partners/memsql" class="btn btn-primary">More info</a>
+            <a href="/partners/memsql" class="btn btn-primary">More info</a>
           </div>
         </div>
          <div class="card m-2 mx-auto" style="max-width: 22rem;">
@@ -91,7 +91,7 @@ Askdata delivers unparalleled value for your business through the combined exper
             <p class="card-text">
               MicroStrategy is the platform for the intelligent enterprise
             </p>
-            <a href="https://www.askdata.com/partners/microstrategy" class="btn btn-primary">More info</a>
+            <a href="/partners/microstrategy" class="btn btn-primary">More info</a>
           </div>
         </div>
         <div class="card m-2 mx-auto" style="max-width: 22rem;">
@@ -101,7 +101,7 @@ Askdata delivers unparalleled value for your business through the combined exper
             <p class="card-text">
               Microsoft is the to-go-destination for data productivity
             </p>
-            <a href="https://www.askdata.com/partners/microsoft" class="btn btn-primary">More info</a>
+            <a href="/partners/microsoft" class="btn btn-primary">More info</a>
           </div>
       </div>
         <div class="card m-2 mx-auto" style="max-width: 22rem;">
@@ -111,7 +111,7 @@ Askdata delivers unparalleled value for your business through the combined exper
             <p class="card-text">
               SAP is where people take impactful data-driven decisions
             </p>
-            <a href="https://www.askdata.com/partners/sap" class="btn btn-primary">More info</a>
+            <a href="/partners/sap" class="btn btn-primary">More info</a>
           </div>
       </div>
       </section>
