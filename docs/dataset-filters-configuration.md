@@ -46,6 +46,16 @@ Filters are powerful tools that can be used to restrict access to some data. For
   <img src="media/filters-example.PNG" width="650" />
 </p>
 
+```javascript
+[
+{
+   "when": "user.details.division",
+   "then": "CUSTOMER_DIVISION = '{{user.details.division}}' OR CUSTOMER_REGION = '{{user.details.region}}'",
+   "type" : "EXPR" 
+}
+]
+```
+
 For example in the above use case we are specifying that if the user login email is *employee@yourcompany.com* then just show him the records where *name=John* and *surname=Doe*. This obviously is a rather simple example of the definition of a filter, more complex ones can be build in order to guarantee the proper flexibility to your dataset. If you would like to have a deeper overview of filters you can watch (this resource)[filters]
 
 **Example with user defined security:**
