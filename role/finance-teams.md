@@ -8,7 +8,7 @@ layout: usecase
 
 ## For Finance Teams
 
-<img src="/media/use-cases/role/finnce_teams.png" class="image-doc p-3">
+<img src="/media/use-cases/role/finance_teams.png" class="image-doc p-3">
 
 #### Askdata makes managing Sales in a more effective way by simplifying sales team interaction with data. 
 
