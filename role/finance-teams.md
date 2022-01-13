@@ -8,7 +8,7 @@ layout: usecase
 
 ## For Finance Teams
 
-<img src="/media/use-cases/role/sales_teams.png" class="image-doc p-3">
+<img src="/media/use-cases/role/finnce_teams.png" class="image-doc p-3">
 
 #### Askdata makes managing Sales in a more effective way by simplifying sales team interaction with data. 
 
@@ -32,3 +32,11 @@ Access to internal financial trends data to examine profitability and revenue ge
 ##### ROI analysis
 
 Unified ROI data vs investments done across different sources of data
+=======
+<h5>Eefficient sales monitoring and management is not always possible, given the complexity of the tools currently available.</h5>
+
+Askdata, through artificial intelligence algorithms, simplifies the interaction between people and data. In the world of project management, the availability of up-to-date and easily readable data is essential.
+
+The platform enables users to request, for example: the status of expiring activities, planning delays, the load of the various teams involved, estimates and forecasts relating to timing and costs in a desired time range.
+
+Askdata supports numerous languages, so it is possible to interact with the platform in different geographical areas without losing the quality of the insights.
