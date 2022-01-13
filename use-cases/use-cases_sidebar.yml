@@ -20,92 +20,19 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: By Industry
-    output: web, pdf
-    folderitems:
-
-    - title: Overview
-      url: use-cases/index
-      output: web, pdf
-      type: homepage
-
-    - title: Sales and Marketing
-      url: use-cases/sales-and-marketing
-      output: web, pdf
-
-    - title: Media and Telco
-      url: use-cases/media-and-telco
-      output: web, pdf
-
-    - title: Supply Chain
-      url: use-cases/supply-chain
-      output: web, pdf
-
-    - title: Sport
-      url: use-cases/sport
-      output: web, pdf
-
-    - title: Games and Betting
-      url: use-cases/game-betting
-      output: web, pdf
-
-    - title: Manufacturing
-      url: use-cases/manufacturing
-      output: web, pdf
-
-    - title: Technology
-      url: use-cases/technology
-      output: web, pdf
-
-  - title: By Objective
-    output: web, pdf
-    folderitems:
-
-    - title: Reduce the Dashboards
-      url: use-cases/reduce-dashbaords
-      output: web, pdf
-
-    - title: Productive Sales Data
-      url: use-cases/your-first-usage
-      output: web, pdf
-
-    - title: Increase Data Collaboration
-      url: use-cases/your-first-usage
-      output: web, pdf
-
-    - title: On-Field Analytics
-      url: use-cases/your-first-usage
-      output: web, pdf
-
-    - title: Augment Data with External Data
-      url: use-cases/your-first-usage
-      output: web, pdf
-
   - title: By Role
     output: web, pdf
     folderitems:
 
     - title: Sales Team
-      url: role/sales-team
+      url: role/sales-teams
       output: web, pdf
 
-    - title: Sales Manager
-      url: role/sales-manager
+    - title: Marketing Teams
+      url: role/marketing-teams
       output: web, pdf
 
-    - title: Operation Manager
-      url: role/operation-manager
-      output: web, pdf
-
-    - title: Insurance Agents
-      url: role/insurance-agents
-      output: web, pdf
-
-    - title: Hospital Managers
-      url: role/hospital-managers
-      output: web, pdf
-
-    - title: Finace Teams
+    - title: Finance Teams
       url: role/finance-teams
       output: web, pdf
 
@@ -113,24 +40,24 @@ entries:
       url: role/executives
       output: web, pdf
 
-    - title: Data Scientists
+    - title: Data Teams
       url: role/data-scientists
       output: web, pdf
 
-    - title: Data Analysts
-      url: role/data-analysts
+    - title: HR Teams
+      url: role/hr-teams
       output: web, pdf
 
-    - title: Customer Success Managers
-      url: role/customer-success-manager
-      output: web, pdf
-
-    - title: Customer Experience Managers
+    - title: Customer Experience
       url: role/customer-experience
       output: web, pdf
 
     - title: Project Managers
       url: role/project-managers
+      output: web, pdf
+
+    - title: Suppliers Managers
+      url: role/suppliers-managers
       output: web, pdf
 
     - title: Credit Managers

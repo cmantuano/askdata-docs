@@ -8,6 +8,8 @@ layout: usecase
 
 ## For Project Managers
 
+<img src="/media/use-cases/role/operation-managers.png" class="image-doc p-3">
+
 <h5>Eefficient project monitoring and management is not always possible, given the complexity of the tools currently available.</h5>
 
 Askdata, through artificial intelligence algorithms, simplifies the interaction between people and data. In the world of project management, the availability of up-to-date and easily readable data is essential.
