@@ -27,9 +27,10 @@ SAP SE is a German multinational software corporation based in Walldorf, Baden-W
                
 #### Video intro
 
-               <div><iframe width="560" height="315" src="https://www.youtube.com/embed/joi9mPicLks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-               <p>
-               Askdata transforms your organization by unlocking the power of your data with a combination of machine learning and AI-driven search analytics. The Askdata and SAP partnership allows end business users to type natural language questions and retrieve real-time information from any SAP data source. Non-data people will finally be able to receive information instantly without learning how to decode sophisticated reporting and dashboards.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/joi9mPicLks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>
+Askdata transforms your organization by unlocking the power of your data with a combination of machine learning and AI-driven search analytics. The Askdata and SAP partnership allows end business users to type natural language questions and retrieve real-time information from any SAP data source. Non-data people will finally be able to receive information instantly without learning how to decode sophisticated reporting and dashboards.</p>
                
 ### BENEFITS
 
