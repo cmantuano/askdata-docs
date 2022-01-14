@@ -12,14 +12,14 @@ Here is a list of some frequently asked questions about Askdata.
 ## General Questions
 
 #### How do I ask for help?
-You can use the [support page](support).
+You can use the [support page](/contacts/support).
 
 #### What if I find a bug?
-Refer to the [support page](support) page as well.
+Refer to the [support page](/contacts/support) page as well.
 
 #### Can I request a new feature?
 
-Refer to the [support page](support) page as well.
+Refer to the [support page](/contacts/support) page as well.
 
 #### Does Askdata do X?
 
