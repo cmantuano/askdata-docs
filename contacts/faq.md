@@ -19,19 +19,19 @@ You can use the [support page](/contacts/support).
 
 #### What if I find a bug?[](/contacts/faq#what-if-i-find-a-bug)
 
-Refer to the [support page](https://docs.askdata.com/support) page as well.
+Refer to the [support page](/contacts/support) page as well.
 
 #### Can I request a new feature?[](/contacts/faq#can-i-request-a-new-feature)
 
-Refer to the [support page](https://docs.askdata.com/support) page as well.
+Refer to the [support page](/contacts/support) page as well.
 
 #### Does Askdata do X?[](/contacts/faq#does-askdata-do-x)
 
-You can check the [user guide](https://docs.askdata.com/docs/user-guide) and the [admin guide](https://docs.askdata.com/docs/admin-guide)
+You can check the [user guide](/docs/user-guide) and the [admin guide](/docs/admin-guide)
 
 #### Does Askdata have access to my data?[](/contacts/faq#does-askdata-have-access-to-my-data)
 
-A [detailed answer](https://docs.askdata.com/docs/does_askdata_access_my_data) is available here.
+A [detailed answer](/docs/does_askdata_access_my_data) is available here.
 
 #### What browsers does Askdata support?[](/contacts/faq#what-browsers-does-askdata-support)
 
@@ -43,7 +43,7 @@ English, Italian, Spanish, French. We're actively testing Arabic, Hebrew, Japane
 
 #### Which databases does Askdata support?[](/contacts/faq#which-databases-does-askdata-support)
 
-More and more. [Full list](https://www.askdata.com/datasets)
+More and more. [Full list](/integrations)
 
 #### How do I integrate Askdata and our single-sign on (SSO) solution?[](/contacts/faq#how-do-i-integrate-askdata-and-our-single-sign-on-sso-solution)
 
@@ -54,11 +54,11 @@ Using Askdata[](/contacts/faq#using-askdata)
 
 #### How do I reset my password?[](/contacts/faq#how-do-i-reset-my-password)
 
-[Reset password guide](https://docs.askdata.com/docs/reset-password)
+[Reset password guide](/docs/reset-password)
 
 #### How do I ask questions about my data?[](/contacts/faq#how-do-i-ask-questions-about-my-data)
 
-Refer to the [user guide](https://docs.askdata.com/docs/user-guide).
+Refer to the [user guide](/docs/user-guide).
 
 #### How do I answer questions about data that lives in multiple databases?[](/contacts/faq#how-do-i-answer-questions-about-data-that-lives-in-multiple-databases)
 
@@ -75,5 +75,5 @@ Pricing & Administration[](/contacts/faq#pricing--administration)
 
 #### What is the pricing of Askdata?[](/contacts/faq#what-is-the-pricing-of-askdata)
 
-More info [about pricing](https://www.askdata.com/pricing)
+More info [about pricing](/product/pricing)
 
