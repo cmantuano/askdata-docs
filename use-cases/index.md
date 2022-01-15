@@ -25,7 +25,7 @@ With Askdata Your data gets ⚡ more valuable
 	<div class="col-md-3 col-sm-6">
              <div class="text-center">
                  <div class="panel-heading">
-                     <a href="/role/markekting-teams"> <img src="/media/use-cases/media-and-telco.png" style="object-fit: cover;heigth:160px;width:160px"></a>
+                     <a href="/role/marketing-teams"> <img src="/media/use-cases/media-and-telco.png" style="object-fit: cover;heigth:160px;width:160px"></a>
                  </div>
                  <div class="pb-3">
                      <a href="/role/marketing-teams" class="m-1 btn btn-secondary">Marketing Team</a>

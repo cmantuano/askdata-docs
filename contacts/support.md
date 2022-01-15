@@ -19,5 +19,5 @@ Shoot us an email and we’ll get back to as fast as possible.
 Interested in an SLA or expert support from Askdata Contact our sales team to learn more.
 
 <form action="https://www.askdata.com/contact-us">
-  <a class="btn btn-outline-primary" href="https://www.askdata.com/contact-us">Contact Sales</a>
+  <a class="btn btn-outline-primary" href="https://www.askdata.com/contacts">Contact Sales</a>
 </form>
