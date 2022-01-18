@@ -97,7 +97,7 @@ Now we are going to present all the different components that can be added to a 
 Select an (external) dataset, query it and apply filter on it. When you attach this component you will be prompted to select a dataset to query with the associated columns. After clicking **Done** it will be shown in the webpage. Moving to the left hand side panel, you can adjust the following properties:
 
 - **Query Name**: Name of the query displayed as header
-- **Variable name**: Name of the variable to save the results to. You can lates access this variable from other components.
+- **Variable name**: Name of the variable to save the results to. You can later access this variable from other components.
 - **Connection**: Some datasets support a specific connection (not the centralized one) for each user that perform a query
 - **Buckets**: Buckets are the way you can configure as output more than one Data Card, choosing the dimension over the Data Card will be split
 
@@ -106,14 +106,14 @@ Select an (external) dataset, query it and apply filter on it. When you attach t
 Add a new Natural Language Query. This component is similar to the [**Natural language Query**](#natural-language-query), please refer to the dedicated section.
 
 # SQL Query
-With this component you can autonomously add a new SQL query to retrieve thew results from your dataset. If enter the **Edit** mode, you can select the dataset and modify the editor with the query you would like to execute. Talking about the setings panel, these are the options:
+With this component you can autonomously add a new SQL query to retrieve the results from your dataset. If enter the **Edit** mode, you can select the dataset and modify the editor with the query you would like to execute. Talking about the settings panel, these are the options:
 
 <p align="center">
   <img src="media/sql_query_settings.PNG" style="max-width:500px" />
 </p>
 
 - **Query Name**: Name of the query displayed as header
-- **Variable name**: Name of the variable to save the results to. You can lates access this variable from other components.
+- **Variable name**: Name of the variable to save the results to. You can later access this variable from other components.
 - **Connection**: Some datasets support a specific connection (not the centralized one) for each user that perform a query
 - **Native Type Query**: Allows to send a native query to the selected dataset.
 - **Buckets**: Buckets are the way you can configure as output more than one Data Card, choosing the dimension over the Data Card will be split
@@ -148,7 +148,7 @@ This component allows you to show your results in a more compact way, printing t
 Special type of chart that shows your results on map. The result of the NL query must be suitable to be shown on a Map.
 
 # Compare
-This component allows you to compare the results of two different queries. Yo can access the results by specifying the varibale name you defined in the NL query. In the settings panel you have the following options:
+This component allows you to compare the results of two different queries. You can access the results by specifying the variable name you defined in the NL query. In the settings panel you have the following options:
 <p align="center">
   <img src="media/compare.PNG" style="max-width:500px" />
 </p>
@@ -156,7 +156,7 @@ This component allows you to compare the results of two different queries. Yo ca
 - **Name***: Set the name of the comparison component
 - **Query***: Select the first query
 - **Measure***: Set the measure in the query
-- **Label**: Pick the label..
+- **Label**: Pick the label.
 - **Custom Label**: Or define a custom label
 - **Description**: Set {{P}} to show the difference in percentage or {{AV}} to use the absolute value
 
@@ -179,7 +179,7 @@ This component allows you to show your results in a more compact way, printing t
 Hit save and the component will be updated according to your preferences.
 
 # Chart
-This component allows you to show your results in a chart without writing a single line fo code. We have different types of charts available.
+This component allows you to show your results in a chart without writing a single line of code. We have different types of charts available.
 
 <p align="center">
   <img src="media/chart.PNG" style="max-width:500px" />
@@ -188,7 +188,7 @@ This component allows you to show your results in a chart without writing a sing
 - **Name**: Set the name of the component
 - **Query**: The name of the query you are referring to. This is what you defined under the variable name in [Query](#query)
 - **Type**: charts **currently** available: Horizontal Bar, Line, Pie, Radar, Donut, Vertical Bar, Stacked Area, Stacked Horizontal, Stacked Vertical
-- **parameters**: The varibales to be considered for the chart
+- **Parameters**: The variables to be considered for the chart
 
 Hit save and the component will be updated according to your preferences.
 
@@ -199,7 +199,7 @@ Paste an Image in your data card. In the settings panel you can set a title for 
 Link an external resource such as a PDF, DOC, web page.... You just need to configure the name of the component, the label and the URL. 
 
 # HTML
-This component allows the user to implement HTML code to enhance the Data Card. The code could be used for graphical reason (as shown in the picture below) but also for more practical ones. In fact, the results of the query can be accessed within the HTML editor(the variable name must be specified in the settings tab), which is available by clicking the **Edit button**. Here is an example:
+This component allows the user to implement HTML code to enhance the Data Card. The code could be used for graphical reason (as shown in the picture below) but also for more practical ones. In fact, the results of the query can be accessed within the HTML editor (the variable name must be specified in the settings tab), which is available by clicking the **Edit button**. Here is an example:
 
 <p align="center">
   <img src="media/html_code.PNG"  style="max-width:500px" />
@@ -209,7 +209,7 @@ This component allows the user to implement HTML code to enhance the Data Card. 
 **More info:** [HTML Component Configuration Examples](/docs/data_card_html_component)
 
 # Script 
-This component allows the definition and execution of **Javascript code**. The code has access to all of the query result sets, identified by the variable name assigned to them on the query component settings. Also the results of other script components can be used if they preced this one. The script can be any valid javascript code. The last expression is the script result. It can be any object or a function. For example:
+This component allows the definition and execution of **JavaScript code**. The code has access to all of the query result sets, identified by the variable name assigned to them on the query component settings. Also the results of other script components can be used if they preceed this one. The script can be any valid javascript code. The last expression is the script result. It can be any object or a function. For example:
 ```
 // Example 1:
    { 'name' : q1Result[0].customer, 'revenue' :q1Result[0].revenue }
