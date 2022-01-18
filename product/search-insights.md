@@ -6,7 +6,7 @@ tags: [getting_started]
 layout: usecase
 ---
 
-# Search Insights
+## Search Insights
 
 <div class="w-container text-center"><img src="/media/product/askdata-search-insights.gif" alt="Askdata"></div>
 
