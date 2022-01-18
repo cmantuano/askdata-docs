@@ -20,10 +20,10 @@ Askdata Automated Analytics brings your data to life and notifies your users tha
 
 This not only increases your ROI of your BI & Analytics infrastructure but also makes your organization more data informed and data driven.
 
-• Increases user engagement with data
-• Increases BI & Analytics user adoption within organizations (ROI)
-• Decreases dashboard fatigue
-• Enables you to manage by exception
+- Increases user engagement with data
+- Increases BI & Analytics user adoption within organizations (ROI)
+- Decreases dashboard fatigue
+- Enables you to manage by exception
 
 Askdata seamlessly connects through APIs to your BI platform allowing business users or administrators to create alerts from data contained in your dashboards.
 
