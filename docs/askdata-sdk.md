@@ -9,7 +9,7 @@ layout: doc
 
 ## SDK Section
 
-<img src="https://docs.askdata.com/images/illustrations/guides/API.png" style="max-width:200px" />
+<img src="https://askdata.com/assets/images/core/askdata-small-black.png" style="max-width:200px" />
 
 ### Python SDK
 
@@ -25,4 +25,3 @@ We've prepared a Google Colab for a fast experimentation
 
 * [API Documentation](/docs/api-documentation)
 
-{% include links.html %}       
