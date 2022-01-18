@@ -14,7 +14,7 @@ that wants to implement new features on the workspace. These guides are intended
 
 ## SDK
 
-- [Pytjon SDK](/docs/askdata-python-sdk)
+- [Python SDK](/docs/askdata-python-sdk)
 
 ## API
 
