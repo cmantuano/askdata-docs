@@ -33,11 +33,14 @@ Components that visualize on output in the Data Card itself such as images or ch
 
 * Table
 * Chart
-* Widget
 * Button
 * [HTML](docs/data_card_html_component)
 * List
 * Comparison
 * Map
+* Widget
+
+It is possible to extend the available visual components creating a new Widget: [How to publish a new Widget](https://askdata.com/docs/how-to-publish-a-new-widget).
+It's pretty fun giving back (contributing) to the community.
 
 Technical specification of the data-card response: [/docs/data_card_technical_model](/docs/data_card_technical_model)
