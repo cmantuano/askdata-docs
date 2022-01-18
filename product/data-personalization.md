@@ -8,7 +8,7 @@ layout: usecase
 
 ## Data Personalization
 
-With AskData - your Customers get personalized contents generated from your internal and external data‍
+With Askdata - your Customers get personalized contents generated from your internal and external data‍
 
 It’s no secret that the demand for marketing to be more personal is getting stronger by the minute.
 
