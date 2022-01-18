@@ -7,7 +7,7 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-**Advanced Configuration**
+## Advanced Configuration
 
 Welcome in the Advanced Configuration. This section of the documentation is specifically designed for proficient and expert users.
 
