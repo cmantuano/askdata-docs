@@ -7,11 +7,11 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-# Dataset: Rules
+## Dataset: Rules
 
 This document provides examples of advanced dataset configuration deploying a business logic rule to a dataset
 
-## Sorting rules
+### Sorting rules
 
 In this example, we provide the instructions for sorting the results of the query
 ```javascript
@@ -38,7 +38,7 @@ In this example, we provide the instructions for sorting the results of the quer
 }
 ]
 ```
-## Filters
+### Filters
 
 Filters are powerful tools that can be used to restrict access to some data. For example if you are a manager in a company and would like one of your employees to access just the data that is related to himself, you could achieve that by defining a simple filter as in the picture:
 
