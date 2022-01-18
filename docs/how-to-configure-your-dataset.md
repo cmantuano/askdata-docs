@@ -97,4 +97,4 @@ Filters are powerful tools that can be used to restrict access to some data. For
 For example in the above use case we are specifying that if the user login email is *employee@yourcompany.com* then just show him the records where *name=John* and *surname=Doe*. This obviously is a rather simple example of the definition of a filter, more complex ones can be build in order to guarantee the proper flexibility to your dataset. If you would like to have a deeper overview of filters you can watch [this resource](https://docs.askdata.com/docs/dataset-filters-configuration).
 
 
-Once all the edits have been completed, just hit save and the dataset willl be updated.
+Once all the edits have been completed, just hit save and the dataset will be updated.
