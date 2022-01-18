@@ -7,7 +7,8 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-This documents explains how to extend the Askdata integration in order to provice reading capability for new datasets
+## Dataset Integration development
+This document explains how to extend the Askdata integration in order to provide reading capability for new datasets
 
 #### Pre-Requirements
 
