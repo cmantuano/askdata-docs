@@ -17,7 +17,7 @@ To create an Askdata workspace you can use the **web app**: <https://app.askdata
 
 Through the **web app**, editors can create new Workspaces and configure them.  
 
-Also the end users (Viewer) can connect to the web **App** at <https://app.askdata.com>. Using the web client or the native Apps for Android and iOS, users query the Agent and access the published content but cannot modify the workspae configuration.  
+Also the end users (Viewer) can connect to the web **App** at <https://app.askdata.com>. Using the web client or the native Apps for Android and iOS, users query the Agent and access the published content but cannot modify the workspace configuration.  
 
 ### Additional resources:
 
