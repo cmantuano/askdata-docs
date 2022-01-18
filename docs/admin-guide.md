@@ -7,6 +7,8 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
+## Admin Guide
+
 Welcome in the *Admin Guide*. This section of the documentation is specifically designed for *Agent creators (and Admins)*
 
 Use those links to go from a novice level to and advanced users.
