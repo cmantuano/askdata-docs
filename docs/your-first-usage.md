@@ -7,9 +7,9 @@ sidebar: mydoc_sidebar
 layout: doc
 --- 
 
-## First Acess
+## First Access
 
-### How to access askdata
+### How to access Askdata
 
 You can start using Askdata using the link <https://app.askdata.com/> you can sign-in with your with your credentials or alternatively you can register your free Askdata account: <https://askdata.com/signup>
 
