@@ -33,7 +33,7 @@ When the page is loaded you will have an overview of the first 5 rows of your da
 
 Among all this fields, two need to be deepened: **Schema** and **Filter**.
 
-## Schema
+### Schema
 
 As mentioned earlier, this field provides an overview of the columns of your data. If want to edit a specific column just click on it and you will be prompted with a menù with the following editable options:
 
@@ -86,7 +86,7 @@ Geo
 - **Key from external resource**: The name of the field in the external resource that contains the join field
 - **Value Formatting**: Instructions on how to format the values
 
-## Filters
+### Filters
 
 Filters are powerful tools that can be used to restrict access to some data. For example if you are a manager in a company and would like one of your employees to access just the data that is related to himself, you could achieve that by defining a simple filter as in the picture:
 
