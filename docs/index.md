@@ -62,6 +62,6 @@ Askdata is a powerful but simple interface that lets your team interact with dat
          </div>
 </div>
 
-[FAQ](/docs/faq) and [Support Aavailable](/docs/support).
+[FAQ](/docs/faq) and [Support Available](/docs/support).
 
 This documentation is released under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license.
