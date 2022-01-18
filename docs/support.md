@@ -6,7 +6,7 @@ tags: [getting_started]
 sidebar: mydoc_sidebar
 ---
 
-# Support
+## Support
 
 We’d love to support you as best we can creating a productive data experience with Askdata!
 
