@@ -7,6 +7,8 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
+## Videos and Demo
+
 Welcome in the Video and Demo. 
 
 ### [Overview](/docs/getting-started-video)
