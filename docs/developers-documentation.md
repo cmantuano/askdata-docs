@@ -7,7 +7,7 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-Welcome in the **evelopers Documentation**. This section of the documentation is specifically designed for developers 
+Welcome in the **Developers Documentation**. This section of the documentation is specifically designed for developers 
 that wants to implement new features on the workspace. These guides are intended for Askdata community developers that want to contribute to extend widgets, AI task and dataset integrations
 
 ## Advanced Configuration for developers:
