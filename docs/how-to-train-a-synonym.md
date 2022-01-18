@@ -7,7 +7,7 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-##Training the Askdata agent
+## Training the Askdata agent
 
 Open the Askdata Console and select one agent where you have admin rights.
 
