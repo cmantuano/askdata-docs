@@ -7,7 +7,7 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-## Prodcut Video Overview
+## Produut Video Overview
 
 With Askdata users ask questions in natural language and find answers across all their data.
 
