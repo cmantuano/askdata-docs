@@ -6,12 +6,12 @@ tags: [getting-started]
 sidebar: mydoc_sidebar
 layout: doc
 ---
-# Data Card Creation
+## Data Card Creation
 
 A Data Card is the simplest piece of content that can be exchanged on Askdata and it must be necessarily associated with a feed. <br/>
 In order to create a Card, we can proceed in two ways:
 
-## Create it from Agent's Home 
+### Create it from Workspace Home 
 
 If you have already created a feed, you can generate a new card by clicking **Create** and then **Data Card**:
 
@@ -28,9 +28,9 @@ Then you will be asked to enter the name and to select the feed to associate the
 
 When you are done just click **Add** and you are good to go!
 
-## Create it from a feed
+### Create it from a feed
 
-If you have already [created a feed](https://docs.askdata.com/docs/be-productive-with-feeds.html), you can simply add a new card by clicking **New Data Card** and customize it with your name.
+If you have already [created a feed](https://docs.askdata.com/docs/be-productive-with-feeds.html), select it and add a new card by clicking **New Data Card** and customize it with your name.
 
 <p align="center">
   <img src="media/data_card_from_feed.PNG" style="max-width:500px"  />
@@ -38,7 +38,7 @@ If you have already [created a feed](https://docs.askdata.com/docs/be-productive
 
 When you are done just click **Add** and you are good to go!
 
-# Customize your data card
+## Customize your data card
 
 Once you have created a Data card by using one of the available methods, we offer the possibility to highly customize it according to your style and to your requirements. With Askdata you can create different types of content within a Data Card, matching your needs with extreme neatness and enhancing your data experience. <br/>
 </br>
@@ -52,7 +52,7 @@ When you enter a card that has just been created, you will be presented two sect
 
 If you click on a specific section, a tab on the right will be shown and you will be able to set all the desired properties. Now we are going to dive deeper in the two sections mentioned above.
 
-## Data card header
+### Data card header
 
 The data card header allows you to change some of the default settings of the card. You are able to customize it:
 
@@ -66,7 +66,7 @@ When you are done customizing the settings click save and the system will update
   <img src="media/card_settings.PNG" style="max-width:500px" />
 </p>
 
-## Natural Language query 
+### Natural Language query 
 
 This is the component where the real power of Askdata shows up. If you click on the **Edit** button you will be prompted to enter the query in natural language. After hitting **Run** your results will be quickly shown together with the **recognized entities** and some suggestions on some **other possible interpretations** of your query.
 
@@ -85,7 +85,7 @@ If you select a NL query, you can personalize it applying the properties you wan
 - **Buckets**: Buckets are the way you can configure as output more than one Data Card, choosing the dimension over the Data Card will be split
 
 
-## Other components
+### Other components
 Now we are going to present all the different components that can be added to a data card in order to customize it:
 
 <p align="center">
@@ -93,7 +93,7 @@ Now we are going to present all the different components that can be added to a 
 </p>
 
 
-# Query
+#### Query
 Select an (external) dataset, query it and apply filter on it. When you attach this component you will be prompted to select a dataset to query with the associated columns. After clicking **Done** it will be shown in the webpage. Moving to the left hand side panel, you can adjust the following properties:
 
 - **Query Name**: Name of the query displayed as header
@@ -102,10 +102,10 @@ Select an (external) dataset, query it and apply filter on it. When you attach t
 - **Buckets**: Buckets are the way you can configure as output more than one Data Card, choosing the dimension over the Data Card will be split
 
 
-# Search
+#### Search
 Add a new Natural Language Query. This component is similar to the [**Natural language Query**](#natural-language-query), please refer to the dedicated section.
 
-# SQL Query
+#### SQL Query
 With this component you can autonomously add a new SQL query to retrieve the results from your dataset. If enter the **Edit** mode, you can select the dataset and modify the editor with the query you would like to execute. Talking about the settings panel, these are the options:
 
 <p align="center">
@@ -120,15 +120,15 @@ With this component you can autonomously add a new SQL query to retrieve the res
 
 
 After customizing it, press **Save** to proceed.
-# Comment
+#### Comment
 This is thought to be a support for who is working on the data card. It is a component that stores text that won't be available in the final data card on the feed. In the settings panel on the left, you can enter the comment name and the text. 
 
 Once you have done that, click **Save**, to proceed.
 
-# Text
+#### Text
 Unlike Comment this is a text section that will be available in the resulting data card. All the others considerations remain the same. 
 
-# List
+#### List
 This component allows you to show your results in a more compact way, printing them as a List. You can adjust the following properties:
 
 <p align="center">
@@ -144,10 +144,10 @@ This component allows you to show your results in a more compact way, printing t
 - **Action label**: The label of the action (if enabled)
 - **Action URL**: The URL of the action (if enabled)
 
-# Map
+#### Map
 Special type of chart that shows your results on map. The result of the NL query must be suitable to be shown on a Map.
 
-# Compare
+#### Compare
 This component allows you to compare the results of two different queries. You can access the results by specifying the variable name you defined in the NL query. In the settings panel you have the following options:
 <p align="center">
   <img src="media/compare.PNG" style="max-width:500px" />
@@ -164,7 +164,7 @@ The above parameters can be specified for both the queries.
 
 - **Formatting***: Set **High is Better** or **Low is Better** to set the criterion for the comparison
 
-# Table
+#### Table
 This component allows you to show your results in a more compact way, printing them as a Table. You can adjust the following properties:
 
 <p align="center">
@@ -178,7 +178,7 @@ This component allows you to show your results in a more compact way, printing t
 
 Hit save and the component will be updated according to your preferences.
 
-# Chart
+#### Chart
 This component allows you to show your results in a chart without writing a single line of code. We have different types of charts available.
 
 <p align="center">
@@ -192,13 +192,13 @@ This component allows you to show your results in a chart without writing a sing
 
 Hit save and the component will be updated according to your preferences.
 
-# Image 
+#### Image 
 Paste an Image in your data card. In the settings panel you can set a title for the Image and Upload one/Choose from existing ones. Hit **Save** and the image will be displayed in the preview.
 
-# Button 
+#### Button 
 Link an external resource such as a PDF, DOC, web page.... You just need to configure the name of the component, the label and the URL. 
 
-# HTML
+#### HTML
 This component allows the user to implement HTML code to enhance the Data Card. The code could be used for graphical reason (as shown in the picture below) but also for more practical ones. In fact, the results of the query can be accessed within the HTML editor (the variable name must be specified in the settings tab), which is available by clicking the **Edit button**. Here is an example:
 
 <p align="center">
@@ -208,7 +208,7 @@ This component allows the user to implement HTML code to enhance the Data Card. 
 
 **More info:** [HTML Component Configuration Examples](/docs/data_card_html_component)
 
-# Script 
+#### Script 
 This component allows the definition and execution of **JavaScript code**. The code has access to all of the query result sets, identified by the variable name assigned to them on the query component settings. Also the results of other script components can be used if they preceed this one. The script can be any valid javascript code. The last expression is the script result. It can be any object or a function. For example:
 ```
 // Example 1:
@@ -223,11 +223,11 @@ This component allows the definition and execution of **JavaScript code**. The c
 **More info:** [Script Component Configuration Examples](/docs/data_card_script_component)
 
 In the settings panel, you can set the **component name** and the **Variable name*** that is the Name of the variable to save the results to. You can later access this variable from other components.
-## Moving/deleting the component
+### Moving/deleting the component
 
 For every component you have to possibility to **delete** it using the bin icon just on the right hand side of the component and to **move it up/down** on the card using the arrows on the left hand side.
 
-## Saving the data card
+### Saving the data card
 
 When finished customizing the card, you can have a preview of it hitting the **Preview** button.
 <p align="center">
