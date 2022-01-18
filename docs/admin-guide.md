@@ -13,11 +13,11 @@ Welcome in the *Admin Guide*. This section of the documentation is specifically 
 
 Use those links to go from a novice level to and advanced users.
 
-##### [Create a workspace](/docs/how-to-create-an-askdata-workspace)
+##### [Create a workspace](/how-to-create-an-askdata-workspace)
 
 Learn how to create a new workspace.
 
-##### [Configure a workspace](/docs/workspace-configuration)
+##### [Configure a workspace](/workspace-configuration)
 
 Learn ho to configure a new workspace
 
