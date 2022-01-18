@@ -11,7 +11,7 @@ layout: doc
 
 #### Pull and push all your data using the messaging platform you're familiar
 
-![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5e579461f53be6407b085feb_slack-askdata.png)
+![](https://uncommonsolutions.com/wp-content/uploads/2019/03/Microsoft-Teams-logo.png)
 
 #### MS Teams as data interface
 -----------------
