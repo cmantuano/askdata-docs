@@ -6,10 +6,8 @@ tags: [getting_started]
 sidebar: mydoc_sidebar
 ---
 
-### FAQs
+## FAQs
 Here is a list of some frequently asked questions about Askdata.
-
-## General Questions
 
 #### How do I ask for help?
 You can use the [support page](/contacts/support).
