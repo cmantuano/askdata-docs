@@ -7,7 +7,7 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-### Workspace Creation
+## Workspace Creation
 
 To create an Askdata workspace you can use the **web app**: <https://app.askdata.com>. From the home (click on the Askdata icon) you can select the "Create Workspace" button.
 
