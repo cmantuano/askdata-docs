@@ -7,7 +7,9 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-Welcome in the API Documentation. This section of the documentation is specifically designed for developers that wants to integrate they system or platform with Askdata Services via REST API.
+## API Documentation 
+
+Welcome in the API Documentation. This section of the documentation is specifically designed for developers who wants to integrate their system or platform with Askdata Services via REST API.
 
 ##### About the REST API
 
