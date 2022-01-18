@@ -15,9 +15,11 @@ layout: doc
 
 ### Data Card Components:
 
-Each Data Card is composed by modular components. The components belong to 2 different categories:
+Each **Data Card** is composed by modular components. Every component belongs to 2 main different categories:
 
-#### Data Retrieval
+#### Data Components
+
+Components that retrieve data from datasets, transform data or provide data stored locally in the card to other components.
 
 * Queries
 * Search
@@ -25,13 +27,17 @@ Each Data Card is composed by modular components. The components belong to 2 dif
 * Data (static)
 * Script
 
-#### Visual Blocks
+#### Visual Components
+
+Components that visualize on output in the Data Card itself such as images or charts.
 
 * Table
 * Chart
 * Widget
 * Button
-* HTML
+* [HTML](docs/data_card_html_component)
 * List
 * Comparison
 * Map
+
+Technical specification of the data-card response: [/docs/data_card_technical_model](/docs/data_card_technical_model)
