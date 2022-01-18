@@ -85,7 +85,7 @@ Askdata delivers unparalleled value for your business through the combined exper
           </div>
         </div>
          <div class="card m-2 mx-auto" style="max-width: 22rem;">
-          <img src="/media/partners/microstrategy.png" alt="MicroStrategy">
+          <img src="/media/partners/microStrategy.png" alt="MicroStrategy">
           <div class="card-body">
             <h5 class="card-title">MicroStrategy</h5>
             <p class="card-text">
