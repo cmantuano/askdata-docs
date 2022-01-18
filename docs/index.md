@@ -9,7 +9,13 @@ summary: This is the go-to guide on asking questions and sharing data cards usin
 
 # Documentation
 
-Askdata is a powerful but simple interface that lets your team interact with data as they would search on a search engine such as Google. <a href="/product/index">About Askdata</a>. This is the *go-to guide* on searching data and sharing data cards using Askdata organized by role: <a href="/docs/getting-started">User Guide</a>, <a href="/docs/admin-guide">Admin Guide</a>, <a href="/docs/sdk-and-api">Developer</a> or <a href="/docs/video-and-demos">Just Curious</a>.
+Askdata is a powerful but simple interface that lets your team interact with data as they would search on a search engine such as Google. <a href="/product/index">About Askdata</a>. 
+
+This is the *go-to guide* on searching data and sharing data cards using Askdata organized by role:
+- <a href="/docs/getting-started">User Guide</a>
+- <a href="/docs/admin-guide">Admin Guide</a>
+- <a href="/docs/sdk-and-api">Developer</a>
+- <a href="/docs/video-and-demos">Just Curious</a>
 
 <div class="row">
 	<div class="col-md-3 col-sm-6">
