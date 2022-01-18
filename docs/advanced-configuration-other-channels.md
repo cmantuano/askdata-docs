@@ -7,7 +7,7 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-#### Advanced Channel Configuration
+## Advanced Channel Configuration
 
 This section provides support to configure Askdata with custom messaging digital properties such as Microsoft Skype and Facebook Messenger.
 
