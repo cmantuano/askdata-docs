@@ -7,7 +7,9 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-**List of Tasks**
+## Workflow Tasks
+
+Here is the list of supported tasks
 
 - [Sentence Classification (Italian)](/docs/task_sentence_classification_italian)
 - [Legal Summarization (Italian)](/docs/task_legal_summarization_italian)
