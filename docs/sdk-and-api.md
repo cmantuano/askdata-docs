@@ -17,12 +17,11 @@ The Askdata SDK provides access to the entire Askdata platform and includes all 
 
 Askdata has developed an handy Python SDK client: 
 
-[Askdata Python SDK](askdata-python-sdk)
+[Askdata Python SDK](/docs/askdata-python-sdk)
 
 **REST API**
 
-[Askdata REST API Documentation](api-documentation)
+[Askdata REST API Documentation](/docs/api-documentation)
 
-{% include links.html %}
 
     
