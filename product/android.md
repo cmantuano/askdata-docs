@@ -1,20 +1,20 @@
 ---
-title: Getting Started (video)
+title: Android
 keywords: documentation
-last_updated: October 15th, 2020
+last_updated: January 19th, 2022
 tags: [getting-started]
 sidebar: mydoc_sidebar
 layout: doc
 ---
 
-## Native Android Askdata app
+## Android Askdata
 
-<div class="centered-container w-container"><img src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5dff7cdb323c6a354edc042a_channel-android.png" alt="" class="image"><h1 class="heading">Android</h1></div>
+<div class="text-center rounded-circle"><img src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5dff7cdb323c6a354edc042a_channel-android.png" alt="" class="image"><h1 class="heading">Android</h1></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nol2gS55L30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Askdata has a native Android app. You can download the **Android App** on the **Android Play Store** following the link below:
 
-#### Other Resources:
+### [Android](https://play.google.com/store/apps/details?id=com.innaas.ask2data&hl=en_US&gl=US)
 
-* [What is Askdata](/docs/what-is-an-askdata-agent)
-* [Main Concepts of the platform](/docs/main-concepts)
-* [Main Features](/docs/main-features-of-the-askdata-platform)
+### Apple ecosystem:
+
+#### [iOS](https://apps.apple.com/it/app/askdata-your-data-assistant/id1437430438)
