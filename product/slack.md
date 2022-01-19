@@ -12,13 +12,12 @@ layout: doc
 ### All your data, together, within Slack
 
 
-![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5e579461f53be6407b085feb_slack-askdata.png)
+<img style="max-width:250px" class="text-center" src=https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5e579461f53be6407b085feb_slack-askdata.png">
 
 #### Slack and Askdata
 -----------------
 
 ![](https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5e57ab47552cf49952938ec7_Askdata-Slack-1.png)
-
 
 #### Instant data access
 -------------------
