@@ -1,20 +1,19 @@
 ---
-title: Getting Started (video)
+title: Apple iOS 
 keywords: documentation
-last_updated: October 15th, 2020
+last_updated: January 19th, 2022
 tags: [getting-started]
 sidebar: mydoc_sidebar
 layout: doc
 ---
 
-## Product Video Overview
+## iOS App Askdata
 
-With Askdata users ask questions in natural language and find answers across all their data.
+<div class="text-center"><img src="https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5dff7dea323c6a4b96dc0755_channel-ios.png" alt="" class="image rounded-circle"></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nol2gS55L30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Askdata has a native Apple app. You can download the **iOS App** on the **Apple Store** following the link below:
 
-#### Other Resources:
+#### [Download from the Apple Store](https://apps.apple.com/it/app/askdata-your-data-assistant/id1437430438)
+https://apps.apple.com/it/app/askdata-your-data-assistant/id1437430438
 
-* [What is Askdata](/docs/what-is-an-askdata-agent)
-* [Main Concepts of the platform](/docs/main-concepts)
-* [Main Features](/docs/main-features-of-the-askdata-platform)
+<!-- #### [iOS](https://apps.apple.com/it/app/askdata-your-data-assistant/id1437430438) -->
