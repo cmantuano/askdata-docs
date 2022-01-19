@@ -12,7 +12,7 @@ layout: doc
 ### All your data, together, within Slack
 
 
-<img style="max-width:250px" class="text-center" src=https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5e579461f53be6407b085feb_slack-askdata.png">
+<div class="text-center"><img style="max-width:260px" src="https://uploads-ssl.webflow.com/5dff758010bfa7f94c98e37e/5e579461f53be6407b085feb_slack-askdata.png" alt="" class="image rounded-circle pb-4"></div>
 
 #### Slack and Askdata
 -----------------
