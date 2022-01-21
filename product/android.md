@@ -13,4 +13,5 @@ layout: doc
 
 Askdata has a native **Android app**. You can download the App on the **Google Play Store** following the link below:
 
+
 [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200">](https://play.google.com/store/apps/details?id=com.innaas.ask2data&hl=en_US&gl=US)<br>
