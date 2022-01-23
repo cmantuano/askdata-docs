@@ -6,9 +6,7 @@ tags: [getting_started]
 sidebar: mydoc_sidebar
 ---
 
-## Pricing
-
-==============
+## Privacy
 
 Welcome to Askdata! These Terms of Service (the "Terms") and our Privacy Policy govern your access to and use of the Askdata services and the Askdata website, including any browser extensions, mobile applications and other downloadable apps we provide (collectively, "Askdata"), so please read them carefully. Last Updated: June 26, 2020
 
