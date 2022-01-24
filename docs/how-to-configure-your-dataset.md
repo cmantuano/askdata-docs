@@ -13,14 +13,14 @@ When you [connect a new dataset](https://docs.askdata.com/docs/how-to-connect-a-
 From the agent homepage, the first step is to navigate to the **dataset** panel and then to choose the one you would like to edit. 
 
 <p align="center">
-  <img src="media/dataset.PNG" width="650" />
+  <img src="media/dataset.PNG" style="max-width:400px" />
 </p>
 
 
 When the page is loaded you will have an overview of the first 5 rows of your datasets. You can dynamically Remove/add columns just for visualization purposes. You will also have the following menù just above your data:
 
 <p align="center">
-  <img src="media/header_dataset.PNG" width="650" />
+  <img src="media/header_dataset.PNG" style="max-width:400px" />
 </p>
 
 - **Data**: An overview of your data
@@ -37,30 +37,29 @@ Among all this fields, two need to be deepened: **Schema** and **Filter**.
 
 As mentioned earlier, this field provides an overview of the columns of your data. If want to edit a specific column just click on it and you will be prompted with a menù with the following editable options:
 
-Main
+#### Main
 - **Code***: Code to be used when referring to this column
 - **Name**: Name of the column to be displayed
 - **Parameter Type**: Type of the parameter: Dimension or Measure
 
-Manage
+#### Manage
 - **Enabled**: Enable the column for queries
-- **Import Values**: Choose if importing values(Yes) or not(NO)
 
-Metadata
+#### Metadata
 - **Description**: Description of the column
 - **Sample Queries**: Example of queries to be associated with the column
 - **Icon**: Change the icon of the column. Either pick one or upload yours.
 
-NLP
+#### NLP
 - **Mandatory**: Set the column as mandatory.
 - **Synonyms**: Synonyms can be manually associated to the column. This means that when I query using the synonyms, the selected column will be displayed.
 
-Output
+#### Output
 - **Aggregation**: Set an aggregation function among AVG, MIN, MAX and SUM
 - **Indexed With**: Specify Technical key for the current column (onyl dimension) to optimize the query
 - **Searchable**: Make elemnts in the results clickable to narrow down the dataset
 
-Formatting
+#### Formatting
 - **Number Formatting**: Set a format for the numbers. Various options available
 - **Number Locale**: Set the region you are number refers to: us, en, it or fr.
 - **Is Date**: Yes if this column is a date
@@ -68,8 +67,8 @@ Formatting
 - **Date Formatting**: Set a standard format for the dates: dd-MM-yy or dd/MM/yy
 - **Value Formatting**: Custom Javascript expression to format the values in the column. **Must** return a string
 
-Dynamic
-- **Synonym Generation Logic**: You can use a custom logic to generate synonyms with a specific behaviour
+#### Dynamic
+- **Synonym Generation Logic**: You can use a custom logic to generate synonyms with a specific behaviour. [More info](/docs/dataset_parameter_synonyms_generator)
 - **Custom**: boolean: Yes if you are creating a new column, No otherwise
 - **Custom Expression**: You can define a custom logic to define a new column
 - **Ignore Aggregation for Measures**: For custom expressions ignores the default aggregation of the measure
@@ -78,7 +77,7 @@ Dynamic
 - **Defaul Injections**: Set another column to be shown with (i.e. when I query sales also show the year, without specifying the word year). Applied when no other dimensions and measures are requested  
 - **Injections**: Set another column to be shown with (i.e. when I query sales also show the year, without specifying the word year). Always applied  
 
-Geo
+#### Geo
 - **Is Geo Parameter**: Yes if this column is a Geo Parameter
 - **Latitude**: Name of the field where to find the value of the latitude
 - **Longitude**: Name of the field where to find the value of the longitude
@@ -86,15 +85,9 @@ Geo
 - **Key from external resource**: The name of the field in the external resource that contains the join field
 - **Value Formatting**: Instructions on how to format the values
 
-### Filters
+#### Values
+- **Import Values**: Choose if importing values(Yes) or not(NO)
 
-Filters are powerful tools that can be used to restrict access to some data. For example if you are a manager in a company and would like one of your employees to access just the data that is related to himself, you could achieve that by defining a simple filter as in the picture:
+### Rules
 
-<p align="center">
-  <img src="media/filters-example.PNG" width="650" />
-</p>
-
-For example in the above use case we are specifying that if the user login email is *employee@yourcompany.com* then just show him the records where *name=John* and *surname=Doe*. This obviously is a rather simple example of the definition of a filter, more complex ones can be build in order to guarantee the proper flexibility to your dataset. If you would like to have a deeper overview of filters you can watch [this resource](https://docs.askdata.com/docs/dataset-filters-configuration).
-
-
-Once all the edits have been completed, just hit save and the dataset will be updated.
+Rules are powerful tools that can be used to restrict access to some data. For example if you are a manager in a company and would like one of your employees to access just the data that is related to himself. (More info)[/docs/dataset-filters-configuration]
