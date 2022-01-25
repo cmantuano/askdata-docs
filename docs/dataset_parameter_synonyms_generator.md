@@ -43,9 +43,11 @@ The field can contains different business logic accpeting an array of string. Ev
 ```lang-js
 
 // Push a new value to ret if value is different from the first word of the variable value
-var ret = value.trim().toLowerCase().split(' ')[0].substring(0, value.length);ret.split(' ')
-if (ret != value.trim().toLowerCase().split(' ')[0].substring(0, value.length)) {
-    ret.(value.trim().toLowerCase().split(' ')[0].substring(0, value.length))
+var ret = value.trim().toLowerCase().split(' ')[0]
+if (value != value.trim().toLowerCase().split(' ')[0]) {
+    ret = []
+    ret.push(value.trim().toLowerCase())
+    ret.push(value.trim().toLowerCase().split(' ')[0])
 }
 
 ```
