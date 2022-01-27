@@ -24,9 +24,9 @@ Imagine that you have on your source dataset a column containing the values:
 
 And you want to assign a synonum to every single word of the value.
 
-- Original value "Amazon Alexa" => Synonms: "Amazon", "Alexa"
-- Original value "Amazon Prime" => Synonms: "Amazon", "Prime"
-- Original value "Amazon Fresh" => Synonms: "Amazon", "Fresh"
+- Original value "Amazon Alexa" => Synonyms: "Amazon", "Alexa"
+- Original value "Amazon Prime" => Synonyms: "Amazon", "Prime"
+- Original value "Amazon Fresh" => Synonyms: "Amazon", "Fresh"
 
 You can setup the ***Synonym Generation Logic*** with the following code
 
