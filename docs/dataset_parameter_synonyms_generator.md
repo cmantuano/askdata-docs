@@ -14,7 +14,7 @@ Askdata let you configure a business logic to automatically generate synonyms du
 **ret** is the name of the variable that has to be set to provide a working synonuym to the platform
 **value** is the original value from the dataset column
 
-### Exammple 1:
+### Example 1:
 
 Imagine that you have on your source dataset a column containing the values:
 
