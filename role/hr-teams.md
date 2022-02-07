@@ -8,29 +8,56 @@ layout: usecase
 
 ## For HR Teams
 
-<img src="/media/use-cases/role/operation-managers.png" class="image-doc p-3">
+<img src="/media/use-cases/icons/HR.png" class="image-doc p-3">
 
 #### Askdata makes Human Resources management more effective by simplifying your interaction with data. 
 
-### Benefits
-
-By interacting with the Askdata platform it is possible to have a clear overview regarding the performance sales cycle.
-Use natural language for your sales data query. Quickly search across sales actual data & forecast and get the answer right away.
-
-Quickly search across different internal HR management systems & external sources to get the answer right away.
-
-Thanks to a proprietary Machine learning algorithm, the learning system improves day by day, rendering the results of your requests more and more precise.
-
 #### Immediate impact on:
 
-##### Recruitment process effectiveness
+<div class="row">
+  <div class="col-sm-4">
+    <div class="card">
+      <div class="card-body text-center">
+        <h5 class="card-title">Recruitment process effectiveness</h5>
+        <p class="card-text">Recruiting conversion rate & hire costs analysis based on investments done
+</p>
+         <img src="/media/use-cases/icons/HR_1.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="card">
+      <div class="card-body text-center">
+        <h5 class="card-title">Employees engagement & loyalty</h5>
+        <p class="card-text">Available employees timestay data (in years), engagement & satisfaction rate</p>
+        <img src="/media/use-cases/icons/HR_2.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
+      </div>
+    </div>
+  </div>
+    <div class="col-sm-4">
+    <div class="card">
+      <div class="card-body text-center">
+        <h5 class="card-title">ROI on employees development costs</h5>
+        <p class="card-text">Available for analysis data on training costs and revenue growth</p>
+        <img src="/media/use-cases/icons/HR_3.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
+      </div>
+    </div>
+  </div>
+</div>
 
-Recruiting conversion rate & hire costs analysis based on investments done 
+### Use Askdata to strengthen your results
 
-##### Employees engagement & loyalty
+CONNECT TO YOUR DATA
 
-Available employees timestay data (in years), engagement & satisfaction rate
+Integrate Askdata with different HR data (survey results, HR reports, external trends, etc.) 
 
-##### ROI on employees development costs
+SEARCH & GET YOUR DATA
 
-Available for analysis data on training costs and revenue growth 
+Have a quick access to your HR data in different slicing (period, GEO, departments,etc.) 
+
+SHARE & COLLABORATE
+
+Elaborate HR data with your team to improve & develop HR KPIs
+
+
+ 
