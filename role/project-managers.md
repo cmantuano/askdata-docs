@@ -8,12 +8,55 @@ layout: usecase
 
 ## For Project Managers
 
-<img src="/media/use-cases/role/operation-managers.png" class="image-doc p-3">
+<img src="Media/use-cases/icons/project_management.png" class="image-doc p-3">
 
-<h5>Eefficient project monitoring and management is not always possible, given the complexity of the tools currently available.</h5>
+#### Askdata makes management of projects more effective by providing quick access to project data for keeping an instant eye on project progress & performance
 
-Askdata, through artificial intelligence algorithms, simplifies the interaction between people and data. In the world of project management, the availability of up-to-date and easily readable data is essential.
+Use natural language for your data query.
 
-The platform enables users to request, for example: the status of expiring activities, planning delays, the load of the various teams involved, estimates and forecasts relating to timing and costs in a desired time range.
+Quickly search across project data to get the answer right away.
 
-Askdata supports numerous languages, so it is possible to interact with the platform in different geographical areas without losing the quality of the insights.
+..and even more
+
+Thanks to a proprietary Machine learning algorithm, the learning system improves day by day, rendering the results of your requests more and more precise.
+
+<div class="row">
+  <div class="col-sm-4">
+    <div class="card">
+      <div class="card-body text-center">
+        <h5 class="card-title">Progress tracking & deadlines supervision</h5>
+        <p class="card-text">Status of project activities and timings of the tasks</p>
+         <img src="/media/use-cases/icons/PM_1.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="card">
+      <div class="card-body text-center">
+        <h5 class="card-title">Project budget monitoring</h5>
+        <p class="card-text">Available financial data (forecast, actuals, payments)</p>
+        <img src="/media/use-cases/icons/PM_2.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
+      </div>
+    </div>
+  </div>
+    <div class="col-sm-4">
+    <div class="card">
+      <div class="card-body text-center">
+        <h5 class="card-title">Project members workload control</h5>
+        <p class="card-text">Project Roles and theirs engagement (%), FTEs, man-hours</p>
+        <img src="/media/use-cases/icons/PM_3.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
+      </div>
+    </div>
+  </div>
+</div>
+
+#### Use Askdata to strengthen your results
+
+CONNECT TO YOUR DATA
+Integrate Askdata with different PM tools systems (JIRA, Roadmunk, Wrike, Finance Management Tool etc.)
+
+SEARCH & GET YOUR DATA
+Have a quick access to your project data in different slicing (task progress, FTE workload, costs,etc.) 
+
+SHARE & COLLABORATE
+Elaborate project data with your team to enhance project performance
