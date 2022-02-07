@@ -8,7 +8,7 @@ layout: usecase
 
 ## For Project Managers
 
-<img src="Media/use-cases/icons/project_management.png" class="image-doc p-3">
+<img src="/media/use-cases/icons/project_management.png" class="image-doc p-3">
 
 #### Askdata makes management of projects more effective by providing quick access to project data for keeping an instant eye on project progress & performance
 

@@ -8,16 +8,15 @@ layout: usecase
 
 ## For Sales Teams
 
-<img src="/media/use-cases/role/sales_teams.png" class="image-doc p-3">
+<img src="/media/use-cases/icons/Sales.png" class="image-doc p-3">
 
 #### Askdata makes managing Sales in a more effective way by simplifying sales team interaction with data. 
 
-### Benefits
+Use natural language for your sales data query.
 
-By interacting with the Askdata platform it is possible to have a clear overview regarding the performance sales cycle.
-Use natural language for your sales data query. Quickly search across sales actual data & forecast and get the answer right away.
+Quickly search across sales actual data & forecast and get the answer right away.
 
-Access sales, Shipments & Investments data in different slicing ( period, country,brand, product category, etc.) through integration with sales and marketing data systems.
+..and even more
 
 Thanks to a proprietary Machine learning algorithm, the learning system improves day by day, rendering the results of your requests more and more precise.
 
@@ -55,3 +54,14 @@ Thanks to a proprietary Machine learning algorithm, the learning system improves
     </div>
   </div>
 </div>
+
+### Use Askdata to strengthen your results
+
+CONNECT TO YOUR DATA
+Integrate Askdata with different Sales & Reporting data systems
+
+SEARCH & GET YOUR DATA
+Have a quick access to your Sales, Shipments, Investments & other data in different slicing (period, GEO,brand,etc.) 
+
+SHARE & COLLABORATE
+Elaborate sales data with your team to get new insights for sales growth 
