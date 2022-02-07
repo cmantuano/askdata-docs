@@ -12,6 +12,16 @@ layout: usecase
 
 #### Askdata makes Human Resources management more effective by simplifying your interaction with data. 
 
+Use natural language for your HR data query.
+
+Quickly search across different internal HR management systems & external sources to get the answer right away.
+
+..and even more
+
+Thanks to a proprietary Machine learning algorithm, the learning system improves day by day, rendering the results of your requests more and more precise.
+
+
+
 #### Immediate impact on:
 
 <div class="row">
@@ -48,15 +58,12 @@ layout: usecase
 ### Use Askdata to strengthen your results
 
 CONNECT TO YOUR DATA
-
 Integrate Askdata with different HR data (survey results, HR reports, external trends, etc.) 
 
 SEARCH & GET YOUR DATA
-
 Have a quick access to your HR data in different slicing (period, GEO, departments,etc.) 
 
 SHARE & COLLABORATE
-
 Elaborate HR data with your team to improve & develop HR KPIs
 
 
