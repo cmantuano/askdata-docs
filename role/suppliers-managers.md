@@ -8,28 +8,59 @@ layout: usecase
 
 ## For Suppliers Managers
 
-<img src="/media/use-cases/role/operation-managers.png" class="image-doc p-3">
+<img src="/media/use-cases/icons/supply_chain.png" class="image-doc p-3">
 
-#### Askdata makes Supply Chain management more effective by simplifying your interaction with data. 
+#### Askdata makes Supply Chain management more effective by simplifying your interaction with data.
 
-By interacting with the Askdata platform it is possible to have a clear overview regarding the performance and quality of suppliers.
+#### Use natural language for your supply chain data query. 
 
-Quickly search across logistics, warehouse management and other SC systems to get the answer right away.
+#### By interacting with the Askdata platform it is possible to have a clear overview regarding the performance and quality of suppliers.
 
-For example, it will be possible to request in natural language data relating to the main supplier in terms of annual costs for a specific geographic area, and always for the same supplier to view the cost trends of the last 5 years.
-
-Furthermore, by integrating with external databases (open data logic), Askdata allows access to insights relating to specific areas of interest, such as the compliance of suppliers in relation to sustainability (ESG Environmental, Social and Governance) and ethical criteria.
+#### Quickly search across logistics, warehouse management and other SC systems to get the answer right away.
 
 #### Immediate impact on:
 
-##### Warehouse stock management 
+<div class="row">
+  <div class="col-sm-4">
+    <div class="card">
+      <div class="card-body text-center">
+        <h5 class="card-title">Warehouse stock management</h5>
+        <p class="card-text">Quick access to stock data in different slicing (GEO, products,etc.) for better planning</p>
 
-Quick access to stock data in different slicing (GEO, products,etc.) for better planning 
+         <img src="/media/use-cases/icons/SC_1.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="card">
+      <div class="card-body text-center">
+        <h5 class="card-title">Suppliers management</h5>
+        <p class="card-text">Quick access to the most important Suppliers KPIs for the prompt analysis & improvement (compliance rate, security data, etc.)</p>
+        <img src="/media/use-cases/icons/SC_2.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
+      </div>
+    </div>
+  </div>
+    <div class="col-sm-4">
+    <div class="card">
+      <div class="card-body text-center">
+        <h5 class="card-title">Inventory management</h5>
+        <p class="card-text">Available data on raw materials and goods</p>
+        <img src="/media/use-cases/icons/SC_3.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
+      </div>
+    </div>
+  </div>
+</div>
 
-##### Suppliers management
+#### CONNECT TO YOUR DATA
 
-Quick access to the most important Suppliers KPIs for the prompt analysis & improvement (compliance rate, security data, etc.)
+#### Integrate Askdata with different Supply Chain data sources (Warehouse DB, etc.) 
 
-##### Inventory management
+#### SEARCH & GET YOUR DATA
 
-Available data on raw materials and goods
+#### Have a quick access to your Supply Chain data in different slicing (period, GEO, order,etc.) 
+
+#### SHARE & COLLABORATE
+
+#### Elaborate Supply Chain data with your team to get new insights and improve KPIs
+
+
