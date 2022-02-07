@@ -10,7 +10,7 @@ layout: usecase
 
 <img src="/media/use-cases/icons/supply_chain.png" class="image-doc p-3">
 
-Askdata makes Supply Chain management more effective by simplifying your interaction with data.
+#### Askdata makes Supply Chain management more effective by simplifying your interaction with data.
 
 Use natural language for your supply chain data query. 
 
@@ -58,22 +58,16 @@ Thanks to a proprietary Machine learning algorithm, the learning system improves
 </div>
 
 
-#### Benefits:
+#### Use Askdata to strengthen your results:
 
+Connect your data
+Integrate Askdata with different Supply Chain data sources (Warehouse DB, etc.)
 
-### Connect your data
+Search & Get you data
+Have a quick access to your Supply Chain data in different slicing (period, GEO, order, etc.)
 
-## Integrate Askdata with different Supply Chain data sources (Warehouse DB, etc.)
-
-
-### Search & Get you data
-
-## Have a quick access to your Supply Chain data in different slicing (period, GEO, order, etc.)
-
-
-### Share & Collaborate
-
-## Elaborate Supply Chain data with your team to get new insights and improve KPIs
+Share & Collaborate
+Elaborate Supply Chain data with your team to get new insights and improve KPIs
 
 
 
