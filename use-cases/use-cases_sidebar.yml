@@ -71,3 +71,7 @@ entries:
     - title: Integrations
       url: integrations/index
       output: web, pdf
+      
+    - title: Service Support
+      url: role/support
+      output: web, pdf
