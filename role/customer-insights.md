@@ -10,7 +10,7 @@ layout: usecase
 
 <img src="/media/use-cases/icons/dashboards.png" class="image-doc p-3">
 
-#### Effect "ASkdata"
+#### Effect "Askdata"
 
 Askdata is helping to set company's strategy based on improved analysis of its target audience by enriching company's data with insights received by AI from social media to get a wide picture of your customer’s preferencies & attitudes.
 

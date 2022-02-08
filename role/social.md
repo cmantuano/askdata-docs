@@ -6,11 +6,13 @@ tags: [getting_started]
 layout: usecase
 ---
 
-## Smart Social Media Marketing
+#### Smart Social Media Marketing
 
 <img src="/media/use-cases/icons/Social.png" class="image-doc p-3">
 
-#### Askdata helps to work with social data more effective by collecting and analyzing information on user interactions using Artificial Intelligence (AI) and providing proactive insights for any kind of user experience improvements.
+#### Effect "Askdata"
+
+Askdata helps to work with social data more effective by collecting and analyzing information on user interactions using Artificial Intelligence (AI) and providing proactive insights for any kind of user experience improvements.
 
 Quickly search this data across across platform and get the answer right away.
 

@@ -10,7 +10,9 @@ layout: usecase
 
 <img src="/media/use-cases/icons/Social.png" class="image-doc p-3">
 
-#### Askdata makes Dashboard management more effective by simplifying interaction with data in all these aspects. 
+#### Effect "Askdata" 
+
+Askdata makes Dashboard management more effective by simplifying interaction with data in all these aspects. 
 
 We move from a Data Visualization to a Data Experience. 
 
