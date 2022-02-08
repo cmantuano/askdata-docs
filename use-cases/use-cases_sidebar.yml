@@ -24,12 +24,28 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Sales Team
+    - title: Sales Teams
       url: role/sales-teams
       output: web, pdf
 
     - title: Marketing Teams
       url: role/marketing-teams
+      output: web, pdf
+      
+    - title: HR Teams
+      url: role/hr-teams
+      output: web, pdf
+      
+    - title: Supply Chain Managers
+      url: role/suppliers-managers
+      output: web, pdf
+      
+    - title: Project Managers
+      url: role/project-managers
+      output: web, pdf
+      
+    - title: Service Support Managers
+      url: role/support
       output: web, pdf
 
     - title: Finance Teams
@@ -44,30 +60,14 @@ entries:
       url: role/data-scientists
       output: web, pdf
 
-    - title: HR Teams
-      url: role/hr-teams
-      output: web, pdf
-
     - title: Customer Experience
       url: role/customer-experience
-      output: web, pdf
-
-    - title: Project Managers
-      url: role/project-managers
-      output: web, pdf
-
-    - title: Suppliers Managers
-      url: role/suppliers-managers
       output: web, pdf
 
     - title: Credit Managers
       url: role/credit-managers
       output: web, pdf
       
-    - title: Service Support
-      url: role/support
-      output: web, pdf
-
   - title: By Technology
     output: web, pdf
     folderitems:
