@@ -63,6 +63,10 @@ entries:
     - title: Unsolicied Customer Insights
       url: role/customer-insights
       output: web, pdf
+      
+    - title: Data agility
+      url: role/agility
+      output: web, pdf
 
     - title: Finance Teams
       url: role/finance-teams
