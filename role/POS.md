@@ -40,6 +40,16 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
       </div>
     </div>
   </div>
+ <div class="col-sm-4">
+    <div class="card">
+      <div class="card-body text-center">
+        <h5 class="card-title"></h5>
+        <p class="card-text"</p>
+        <img src="/media/use-cases/icons/dashboards_3.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
+      </div>
+    </div>
+  </div>
+</div>
    
 
 #### Use Askdata to strengthen your results:

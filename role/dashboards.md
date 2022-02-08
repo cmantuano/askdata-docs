@@ -8,7 +8,7 @@ layout: usecase
 
 #### Reduce the number of Dashboards
 
-<img src="/media/use-cases/icons/Social.png" class="image-doc p-3">
+<img src="/media/use-cases/icons/dashboards.png" class="image-doc p-3">
 
 #### Effect "Askdata" 
 
