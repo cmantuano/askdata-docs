@@ -40,7 +40,7 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
       </div>
     </div>
   </div>
- <div class="col-sm-4">
+<div class="col-sm-4">
     <div class="card">
       <div class="card-body text-center">
         <h5 class="card-title"></h5>
