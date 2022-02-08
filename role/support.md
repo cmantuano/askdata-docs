@@ -1,12 +1,12 @@
 ---
-title: Askdata for Support Service Managers
+title: Askdata for Service Support Managers
 keywords: documentation
 last_updated: December 14th, 2021
 tags: [getting_started]
 layout: usecase
 ---
 
-## For Service Support
+## For Service Support Managers
 
 <img src="/media/use-cases/icons/Support.png" class="image-doc p-3">
 
@@ -54,12 +54,12 @@ Thanks to a proprietary Machine learning algorithm, the learning system improves
 
 CONNECT TO YOUR DATA
 
-Integrate Askdata with different IT support systems (JIRA, Remedy ticketing system, etc.) 
+Integrate Askdata with different IT support systems (JIRA,Remedy ticketing system,etc.) 
 
 
 SEARCH & GET YOUR DATA
 
-Have a quick access to your incidents data in different slicing (SLA, period, GEO, departments,etc.)  
+Have a quick access to your incidents data in different slicing (SLA,period,GEO,departments,etc.)  
 
 SHARE & COLLABORATE
 
