@@ -51,6 +51,18 @@ entries:
     - title: Smart Social Media Management
       url: role/social
       output: web, pdf
+      
+    - title: Reduce the number of Dashboards
+      url: role/dashboards
+      output: web, pdf
+      
+    - title: Smart Analytics for Retail (POS)
+      url: role/pos
+      output: web, pdf
+      
+    - title: Unsolicied Customer Insights
+      url: role/customer-insights
+      output: web, pdf
 
     - title: Finance Teams
       url: role/finance-teams
