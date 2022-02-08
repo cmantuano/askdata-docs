@@ -26,8 +26,8 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
     <div class="card">
       <div class="card-body text-center">
         <h5 class="card-title">Undersales due to underestimated consumer demand and not-effective merchandising at points of sale</h5>
-        <p class="card-text">Late analysis of Sales at the Point-of-sale leads to incorrect goods distribution between POSs. Realtime data analysis can help to avoid this problem and lead to effective planning. AI can help to improve brand merchandising (product placing, etc).</p>
-         <img src="/media/use-cases/icons/POS_1.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
+        <p class="card-text">Late analysis of Sales at the Point-of-sale leads to incorrect goods distribution between POSs.Realtime data analysis can help to avoid this problem and lead to effective planning.AI can help to improve brand merchandising (product placing, etc).</p>
+         <img src="/media/use-cases/icons/pos_1.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
   </div>
@@ -36,15 +36,15 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
       <div class="card-body text-center">
         <h5 class="card-title">Effective stock planning based on quickly access to performance data at Point-of-sales</h5>
         <p class="card-text">Lack of Real-time POS Sales data do not allow to make an effective Stock planning and analyse storage capacity</p>
-        <img src="/media/use-cases/icons/POS_2.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
+        <img src="/media/use-cases/icons/pos_2.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
   </div>
-<div class="col-sm-4">
+    <div class="col-sm-4">
     <div class="card">
       <div class="card-body text-center">
-        <h5 class="card-title"></h5>
-        <p class="card-text"</p>
+        <h5 class="card-title">Сomplex to use and maintain</h5>
+        <p class="card-text">Limited access to data for business users due to BI systems complexity. Long Incident and Change management procedures to cover users requests.</p>
         <img src="/media/use-cases/icons/dashboards_3.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
