@@ -81,19 +81,19 @@ entries:
     folderitems:
 
     - title: Smart Social Media Management
-      url: role/sales-teams
+      url: role/social
       output: web, pdf
       
     - title: Reduce the number of Dashboards
-      url: role/sales-teams
+      url: role/dashboards
       output: web, pdf
       
     - title: Smart Analytics for Retail (POS)
-      url: role/sales-teams
+      url: role/pos
       output: web, pdf
       
     - title: Unsolicied Customer Insights
-      url: role/sales-teams
+      url: role/customer-insights
       output: web, pdf
       
   
