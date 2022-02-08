@@ -47,6 +47,10 @@ entries:
     - title: Service Managers
       url: role/support
       output: web, pdf
+      
+    - title: Smart Social Media Management
+      url: role/social
+      output: web, pdf
 
     - title: Finance Teams
       url: role/finance-teams
