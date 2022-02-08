@@ -44,7 +44,7 @@ entries:
       url: role/project-managers
       output: web, pdf
       
-    - title: Service Support Managers
+    - title: Service Managers
       url: role/support
       output: web, pdf
 
