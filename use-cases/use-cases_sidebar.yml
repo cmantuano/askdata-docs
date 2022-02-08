@@ -44,7 +44,7 @@ entries:
       url: role/project-managers
       output: web, pdf
       
-    - title: Service Support Managers
+    - title: Service Managers
       url: role/support
       output: web, pdf
 
@@ -74,6 +74,26 @@ entries:
 
     - title: Integrations
       url: integrations/index
+      output: web, pdf
+      
+  - title: By Objective
+    output: web, pdf
+    folderitems:
+
+    - title: Smart Social Media Management
+      url: role/social
+      output: web, pdf
+      
+    - title: Reduce the number of Dashboards
+      url: role/dashboards
+      output: web, pdf
+      
+    - title: Smart Analytics for Retail (POS)
+      url: role/pos
+      output: web, pdf
+      
+    - title: Unsolicied Customer Insights
+      url: role/customer-insights
       output: web, pdf
       
   
