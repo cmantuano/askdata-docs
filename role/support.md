@@ -8,7 +8,7 @@ layout: usecase
 
 ## For Service Support
 
-<img src=/media/use-cases/icons/Support.png" class="image-doc p-3">
+<img src="/media/use-cases/icons/Support.png" class="image-doc p-3">
 
 #### Askdata makes Support more effective by simplifying your interaction with data.
 
