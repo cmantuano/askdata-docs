@@ -8,7 +8,7 @@ layout: usecase
 
 ## For Service Support
 
-<img src="Media/use-cases/icons/Support.png" class="image-doc p-3">
+<img src=/media/use-cases/icons/Support.png" class="image-doc p-3">
 
 #### Askdata makes Support more effective by simplifying your interaction with data.
 
@@ -53,11 +53,14 @@ Thanks to a proprietary Machine learning algorithm, the learning system improves
 #### Use Askdata to strengthen your results
 
 CONNECT TO YOUR DATA
+
 Integrate Askdata with different IT support systems (JIRA, Remedy ticketing system, etc.) 
 
 
 SEARCH & GET YOUR DATA
+
 Have a quick access to your incidents data in different slicing (SLA, period, GEO, departments,etc.)  
 
 SHARE & COLLABORATE
+
 Elaborate Support data with your team to improve your products or services
