@@ -60,13 +60,16 @@ Thanks to a proprietary Machine learning algorithm, the learning system improves
 
 #### Use Askdata to strengthen your results:
 
-Connect your data
+CONNECT TO YOUR DATA
+
 Integrate Askdata with different Supply Chain data sources (Warehouse DB, etc.)
 
-Search & Get you data
+SEARCH & GET YOUR DATA
+
 Have a quick access to your Supply Chain data in different slicing (period, GEO, order, etc.)
 
-Share & Collaborate
+SHARE & COLLABORATE
+
 Elaborate Supply Chain data with your team to get new insights and improve KPIs
 
 

@@ -12,11 +12,11 @@ layout: usecase
 
 #### Askdata makes managing Marketing activities in a more effective way by simplifying marketing team interaction with data.
 
-#### Use natural language for your marketing data query.
+Use natural language for your marketing data query.
 
-#### Quickly search across CRM, Google Analytics and other marketing data systems and get the answer right away.
+Quickly search across CRM, Google Analytics and other marketing data systems and get the answer right away.
 
-#### ..and even more
+..and even more
 
 Thanks to a proprietary Machine learning algorithm, the learning system improves day by day, 
 rendering the results of your requests more and more precise.
@@ -55,16 +55,16 @@ calculation & cost effectiveness</h5>
   </div>
 </div>
 
-### Benefits
+#### Use Askdata to strengthen your results:
 
-#### CONNECT TO YOUR DATA
+CONNECT TO YOUR DATA
 
 Integrate Askdata with different internal & external Marketing data 
 
-#### SEARCH & GET YOUR DATA
+SEARCH & GET YOUR DATA
 
 Have a quick access to your Marketing data in different slicing (period, GEO,brand,etc.) 
 
-#### SHARE & COLLABORATE
+SHARE & COLLABORATE
 
 Elaborate marketing data with your team to get new insights & enhance effectiveness 

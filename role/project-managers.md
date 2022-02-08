@@ -20,6 +20,8 @@ Quickly search across project data to get the answer right away.
 
 Thanks to a proprietary Machine learning algorithm, the learning system improves day by day, rendering the results of your requests more and more precise.
 
+#### Immediate impact on:
+
 <div class="row">
   <div class="col-sm-4">
     <div class="card">
@@ -50,13 +52,16 @@ Thanks to a proprietary Machine learning algorithm, the learning system improves
   </div>
 </div>
 
-#### Use Askdata to strengthen your results
+#### Use Askdata to strengthen your results:
 
 CONNECT TO YOUR DATA
+
 Integrate Askdata with different PM tools systems (JIRA, Roadmunk, Wrike, Finance Management Tool etc.)
 
 SEARCH & GET YOUR DATA
+
 Have a quick access to your project data in different slicing (task progress, FTE workload, costs,etc.) 
 
 SHARE & COLLABORATE
+
 Elaborate project data with your team to enhance project performance

@@ -20,7 +20,7 @@ Quickly search across sales actual data & forecast and get the answer right away
 
 Thanks to a proprietary Machine learning algorithm, the learning system improves day by day, rendering the results of your requests more and more precise.
 
-#### Immediate impact on
+#### Immediate impact on:
 
 <div class="row">
   <div class="col-sm-4">
@@ -48,20 +48,25 @@ Thanks to a proprietary Machine learning algorithm, the learning system improves
     <div class="card">
       <div class="card-body text-center">
         <h5 class="card-title">Easier ROI analysis</h5>
-        <p class="card-text">ROI of sales vs investments gets frictionless</p>
+        <p class="card-text">ROI of sales vs investments gets frictionless
+                                                                                                      </p>
         <img src="/media/use-cases/icons/Sales_3.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
   </div>
 </div>
 
-### Use Askdata to strengthen your results
+
+#### Use Askdata to strengthen your results:
 
 CONNECT TO YOUR DATA
+
 Integrate Askdata with different Sales & Reporting data systems
 
 SEARCH & GET YOUR DATA
+
 Have a quick access to your Sales, Shipments, Investments & other data in different slicing (period, GEO,brand,etc.) 
 
 SHARE & COLLABORATE
+
 Elaborate sales data with your team to get new insights for sales growth 

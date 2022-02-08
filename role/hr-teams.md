@@ -55,15 +55,18 @@ Thanks to a proprietary Machine learning algorithm, the learning system improves
   </div>
 </div>
 
-### Use Askdata to strengthen your results
+#### Use Askdata to strengthen your results:
 
 CONNECT TO YOUR DATA
+
 Integrate Askdata with different HR data (survey results, HR reports, external trends, etc.) 
 
 SEARCH & GET YOUR DATA
+
 Have a quick access to your HR data in different slicing (period, GEO, departments,etc.) 
 
 SHARE & COLLABORATE
+
 Elaborate HR data with your team to improve & develop HR KPIs
 
 
