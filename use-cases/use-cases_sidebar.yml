@@ -76,4 +76,24 @@ entries:
       url: integrations/index
       output: web, pdf
       
+  - title: By Objective
+    output: web, pdf
+    folderitems:
+
+    - title: Smart Social Media Management
+      url: role/sales-teams
+      output: web, pdf
+      
+    - title: Reduce the number of Dashboards
+      url: role/sales-teams
+      output: web, pdf
+      
+    - title: Smart Analytics for Retail (POS)
+      url: role/sales-teams
+      output: web, pdf
+      
+    - title: Unsolicied Customer Insights
+      url: role/sales-teams
+      output: web, pdf
+      
   
