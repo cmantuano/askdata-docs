@@ -24,7 +24,7 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <h5 class="card-title">Undersales due to underestimated consumer demand and not-effective merchandising at POS</h5>
+        <h5 class="card-title">Undersales due to underestimated consumer demand and ineffective merchandising at POS</h5>
         <p class="card-text">Late analysis of Sales at the Point-of-sale leads to incorrect goods distribution between POSs.</p>
          <img src="/media/use-cases/icons/POS_1.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
@@ -42,7 +42,6 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
    
 
 #### Use Askdata to strengthen your results:
-
 
 #### CONNECT TO YOUR DATA
 
