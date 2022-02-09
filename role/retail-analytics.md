@@ -26,7 +26,7 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
       <div class="card-body text-center">
         <h5 class="card-title">Undersales due to underestimated consumer demand and not-effective merchandising at POS</h5>
         <p class="card-text">Late analysis of Sales at the Point-of-sale leads to incorrect goods distribution between POSs.</p>
-         <img src="/media/use-cases/icons/pos_1.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
+         <img src="/media/use-cases/icons/POS_1.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
   </div>
@@ -35,7 +35,7 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
       <div class="card-body text-center">
         <h5 class="card-title">Effective stock planning based on quickly access to performance data at POS</h5>
         <p class="card-text">Lack of Real-time POS Sales data do not allow to make an effective Stock planning and analyse storage capacity</p>
-        <img src="/media/use-cases/icons/dashboards_2.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
+        <img src="/media/use-cases/icons/POS_2.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
   </div>
