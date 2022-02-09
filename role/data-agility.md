@@ -25,7 +25,7 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
     <div class="card">
       <div class="card-body text-center">
         <h5 class="card-title">Data availability</h5>
-        <p class="card-text">to be as fast as changing business environment</p>
+        <p class="card-text">to be as fast as changing business environment and marketing trends</p>
          <img src="/media/use-cases/icons/agility_1.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
@@ -34,7 +34,7 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
     <div class="card">
       <div class="card-body text-center">
         <h5 class="card-title">Flexible data usage</h5>
-        <p class="card-text">being ready to test new ideas,technologies and strategies based on always available data</p>
+        <p class="card-text">being ready to test new ideas and strategies based on always available data</p>
         <img src="/media/use-cases/icons/agility_2.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
