@@ -6,11 +6,13 @@ tags: [getting_started]
 layout: usecase
 ---
 
-#### Effect "Askdata"
+#### Data Agility
 
 <img src="/media/use-cases/icons/dashboards.png" class="image-doc p-3">
 
-#### Askdata provides quick access to data and allow increasing user interaction with data for its analysis and effective decision making. 
+#### Effect "Askdata"
+
+Askdata provides quick access to data and allow increasing user interaction with data for its analysis and effective decision making. 
 
 We focus on the meaning of the data and user experience so the user can take its value in a simple and intuitive way at a glance.  
 
