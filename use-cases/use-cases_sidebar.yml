@@ -63,6 +63,10 @@ entries:
     - title: Data agility
       url: role/data-agility
       output: web, pdf
+      
+    - title: Smart Retail Analytics
+      url: role/retail-analytics
+      output: web, pdf
 
     - title: Finance Teams
       url: role/finance-teams
@@ -110,6 +114,10 @@ entries:
       
     - title: Data agility
       url: role/data-agility
+      output: web, pdf
+      
+    - title: Smart Retail Analytics
+      url: role/retail-analytics
       output: web, pdf
       
   
