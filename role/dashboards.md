@@ -27,7 +27,7 @@ This not only increases user adoption of BI and analytics within organizations (
     <div class="card">
       <div class="card-body text-center">
         <h5 class="card-title">High development & operational costs</h5>
-        <p class="card-text">E2E Dashboard implementation cost is generally high due to big number of IT & business resources involved and initially high CAPEX. High OPEX cost (license, Support & DevOps) and always growing contingency cost due to business processes changes.</p>
+        <p class="card-text">E2E Dashboard implementation & operating costs are generally high due to the big number of resources involved and permanent license,Support & DevOps spendings.</p>
          <img src="/media/use-cases/icons/dashboards_1.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
@@ -54,26 +54,26 @@ This not only increases user adoption of BI and analytics within organizations (
 
 #### Use Askdata to strengthen your results:
 
-CONNECT TO YOUR DATA
+#### CONNECT TO YOUR DATA
 
 Integrate Askdata with different data sources 
 
-SEARCH & GET YOUR DATA
+#### SEARCH & GET YOUR DATA
 
 Get a quick access to your data in different slicing 
 
-SHARE & COLLABORATE
+#### SHARE & COLLABORATE
 
 Elaborate data with your team to get new insights for your business success 
 
-MAKE DECISIONS FAST
+#### MAKE DECISIONS FAST
 
 Get automated insights using Artificial intelligence and Machine Learning
 
-SAVE TIME
+#### SAVE TIME
 
 Update your dashboards independently & reduce number of personnel involved 
 
-SERVE YOURSELF
+#### SERVE YOURSELF
 
 Quickly access data by making a query in a natural language without any special technical knowledge 

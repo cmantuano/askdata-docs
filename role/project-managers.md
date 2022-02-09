@@ -45,7 +45,7 @@ Thanks to a proprietary Machine learning algorithm, the learning system improves
     <div class="card">
       <div class="card-body text-center">
         <h5 class="card-title">Project members workload control</h5>
-        <p class="card-text">Project Roles and theirs engagement (%), FTEs, man-hours</p>
+        <p class="card-text">Project Roles and theirs engagement(%,FTEs)</p>
         <img src="/media/use-cases/icons/PM_3.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
@@ -54,14 +54,14 @@ Thanks to a proprietary Machine learning algorithm, the learning system improves
 
 #### Use Askdata to strengthen your results:
 
-CONNECT TO YOUR DATA
+#### CONNECT TO YOUR DATA
 
 Integrate Askdata with different PM tools systems (JIRA, Roadmunk, Wrike, Finance Management Tool etc.)
 
-SEARCH & GET YOUR DATA
+#### SEARCH & GET YOUR DATA
 
-Have a quick access to your project data in different slicing (task progress, FTE workload, costs,etc.) 
+Have a quick access to your project data in different slicing (task progress,FTE workload,costs,etc.) 
 
-SHARE & COLLABORATE
+#### SHARE & COLLABORATE
 
 Elaborate project data with your team to enhance project performance

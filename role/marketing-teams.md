@@ -6,7 +6,7 @@ tags: [getting_started]
 layout: usecase
 ---
 
-## For Marketing Teams
+#### For Marketing Teams
 
 <img src="/media/use-cases/icons/Marketing.png" class="image-doc p-3">
 
@@ -38,7 +38,7 @@ rendering the results of your requests more and more precise.
     <div class="card">
       <div class="card-body text-center">
         <h5 class="card-title">Marketing KPIs monitoring</h5>
-        <p class="card-text">Quick access to the most important marketing KPIs for the prompt analysis & improvement (incl. Digital Marketing, Customer Satisfaction & Websites traffic)</p>
+        <p class="card-text">Quick access to the most important marketing KPIs for the prompt analysis & improvement</p>
         <img src="/media/use-cases/icons/Marketing_2.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
@@ -57,14 +57,14 @@ calculation & cost effectiveness</h5>
 
 #### Use Askdata to strengthen your results:
 
-CONNECT TO YOUR DATA
+#### CONNECT TO YOUR DATA
 
 Integrate Askdata with different internal & external Marketing data 
 
-SEARCH & GET YOUR DATA
+#### SEARCH & GET YOUR DATA
 
 Have a quick access to your Marketing data in different slicing (period, GEO,brand,etc.) 
 
-SHARE & COLLABORATE
+#### SHARE & COLLABORATE
 
 Elaborate marketing data with your team to get new insights & enhance effectiveness 

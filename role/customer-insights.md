@@ -43,7 +43,7 @@ We focus on the meaning of the data and user experience so the user can take its
     <div class="card">
       <div class="card-body text-center">
         <h5 class="card-title">Constant analysis of target audience</h5>
-        <p class="card-text">To know & understand your target audience as your best friend.</p>
+        <p class="card-text">To know & understand your target audience as your best friend. Follow customer's interests, preferences and emotional behaviours</p>
         <img src="/media/use-cases/icons/customer_insights_3.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
@@ -52,26 +52,26 @@ We focus on the meaning of the data and user experience so the user can take its
 
 #### Use Askdata to strengthen your results:
 
-CONNECT TO YOUR DATA
+#### CONNECT TO YOUR DATA
 
 Integrate Askdata with different data sources 
 
-SEARCH & GET YOUR DATA
+#### SEARCH & GET YOUR DATA
 
 Get a quick access to your data in different slicing 
 
-SHARE & COLLABORATE
+#### SHARE & COLLABORATE
 
 Elaborate data with your team to get new insights for your business success 
 
-MAKE DECISIONS FAST
+#### MAKE DECISIONS FAST
 
 Get automated insights using Artificial intelligence and Machine Learning
 
-SAVE TIME
+#### SAVE TIME
 
 Update your dashboards independently & reduce number of personnel involved 
 
-SERVE YOURSELF
+#### SERVE YOURSELF
 
 Quickly access data by making a query in a natural language without any special technical knowledge 
