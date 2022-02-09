@@ -47,7 +47,8 @@ Thanks to a proprietary Machine learning algorithm, the learning system improves
     <div class="col-sm-4">
     <div class="card">
       <div class="card-body text-center">
-        <h5 class="card-title">Easier ROI analysis</h5>
+        <h5 class="card-title">Easier ROI 
+analysis</h5>
         <p class="card-text">ROI of sales vs investments gets frictionless
                                                                                                       </p>
         <img src="/media/use-cases/icons/Sales_3.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
