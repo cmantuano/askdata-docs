@@ -6,7 +6,7 @@ tags: [getting_started]
 layout: usecase
 ---
 
-#### Smart analytics for Retail
+#### Smart Analytics for Retail
 
 <img src="/media/use-cases/icons/dashboards.png" class="image-doc p-3">
 
