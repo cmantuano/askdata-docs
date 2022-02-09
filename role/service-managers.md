@@ -6,7 +6,7 @@ tags: [getting_started]
 layout: usecase
 ---
 
-## For Service Support Managers
+#### For Service Managers
 
 <img src="/media/use-cases/icons/Support.png" class="image-doc p-3">
 

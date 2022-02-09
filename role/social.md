@@ -54,14 +54,14 @@ Use natural language for your data query.
 
 #### Use Askdata to strengthen your results:
 
-CONNECT TO YOUR DATA
+#### CONNECT TO YOUR DATA
 
 Integrate Askdata with different data sources 
 
-SEARCH & GET YOUR DATA
+#### SEARCH & GET YOUR DATA
 
 Get a quick access to data insights
 
-SHARE & COLLABORATE
+#### SHARE & COLLABORATE
 
 Elaborate searched data with your team to improve your products or services

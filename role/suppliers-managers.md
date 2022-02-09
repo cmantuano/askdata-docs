@@ -1,12 +1,12 @@
 ---
-title: Askdata for Suppliers Managers
+title: Askdata for Supply Chain Managers
 keywords: documentation
 last_updated: December 14th, 2021
 tags: [getting_started]
 layout: usecase
 ---
 
-#### For Suppliers Managers
+#### For Supply Chain Managers
 
 <img src="/media/use-cases/icons/supply_chain.png" class="image-doc p-3">
 

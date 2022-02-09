@@ -27,7 +27,7 @@ This not only increases user adoption of BI and analytics within organizations (
     <div class="card">
       <div class="card-body text-center">
         <h5 class="card-title">High development & operational costs</h5>
-        <p class="card-text">E2E Dashboard implementation & operating costs are generally high due to the big number of resources involved and permanent license,Support & DevOps spendings.</p>
+        <p class="card-text">Dashboard implementation & operating costs are high due to the big number of resources involved and ongoing license, Support & DevOps payments.</p>
          <img src="/media/use-cases/icons/dashboards_1.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
@@ -36,7 +36,7 @@ This not only increases user adoption of BI and analytics within organizations (
     <div class="card">
       <div class="card-body text-center">
         <h5 class="card-title">Long time-to-market</h5>
-        <p class="card-text">Timings of dashboard creation do not meet requirements of constantly changing business environment</p>
+        <p class="card-text">Timings of dashboard creation do not meet requirements of constantly changing business environment and market challengies</p>
         <img src="/media/use-cases/icons/dashboards_2.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
@@ -45,7 +45,7 @@ This not only increases user adoption of BI and analytics within organizations (
     <div class="card">
       <div class="card-body text-center">
         <h5 class="card-title">Сomplex to use and maintain</h5>
-        <p class="card-text">Limited access to data for business users due to BI systems complexity. Long Incident and Change management procedures to cover users requests.</p>
+        <p class="card-text">Limited data access for business users due to BI systems complexity. Not Inefficient Incident and Change management procedures.</p>
         <img src="/media/use-cases/icons/dashboards_3.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
