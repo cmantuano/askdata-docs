@@ -43,8 +43,8 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
     <div class="col-sm-4">
     <div class="card">
       <div class="card-body text-center">
-        <h5 class="card-title">Сomplex to use and maintain</h5>
-        <p class="card-text">Limited access to data for business users due to BI systems complexity. Long Incident and Change management procedures to cover users requests.</p>
+        <h5 class="card-title"></h5>
+        <p class="card-text"></p>
         <img src="/media/use-cases/icons/dashboards_3.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
@@ -54,14 +54,14 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
 
 #### Use Askdata to strengthen your results:
 
-CONNECT TO YOUR DATA
+#### CONNECT TO YOUR DATA
 
 Integrate Askdata with different data sources 
 
-SEARCH & GET YOUR DATA
+#### SEARCH & GET YOUR DATA
 
 Get a quick access to data insights
 
-SHARE & COLLABORATE
+#### SHARE & COLLABORATE
 
 Elaborate searched data with your team to improve your products or services
