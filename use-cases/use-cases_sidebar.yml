@@ -45,7 +45,7 @@ entries:
       output: web, pdf
       
     - title: Service Managers
-      url: role/support
+      url: role/service-managers
       output: web, pdf
       
     - title: Smart Social Media Management
@@ -65,7 +65,7 @@ entries:
       output: web, pdf
       
     - title: Data agility
-      url: role/agility
+      url: role/data-agility
       output: web, pdf
 
     - title: Finance Teams
@@ -114,6 +114,10 @@ entries:
       
     - title: Unsolicied Customer Insights
       url: role/customer-insights
+      output: web, pdf
+      
+    - title: Data agility
+      url: role/data-agility
       output: web, pdf
       
   
