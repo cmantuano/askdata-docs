@@ -21,7 +21,7 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
 #### Immediate impact on:
 
 <div class="row">
-  <div class="col-sm-4">
+  <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
         <h5 class="card-title">Undersales due to underestimated consumer demand and not-effective merchandising at POS</h5>
@@ -30,7 +30,7 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
       </div>
     </div>
   </div>
-  <div class="col-sm-4">
+  <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
         <h5 class="card-title">Effective stock planning based on quickly access to performance data at POS</h5>
@@ -39,17 +39,7 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
       </div>
     </div>
   </div>
-    <div class="col-sm-4">
-    <div class="card">
-      <div class="card-body text-center">
-        <h5 class="card-title">Сomplex to use and maintain</h5>
-        <p class="card-text">Limited data access for business users due to BI systems complexity. Not Inefficient Incident and Change management procedures.</p>
-        <img src="/media/use-cases/icons/dashboards_3.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
-      </div>
-    </div>
-  </div>
-</div>
-
+   
 #### Use Askdata to strengthen your results:
 
 #### CONNECT TO YOUR DATA
