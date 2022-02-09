@@ -39,29 +39,36 @@ Thanks to AI & Machine learning mechanism you can enrich your company's data to 
       </div>
     </div>
   </div>
+</div>
    
 
 #### Use Askdata to strengthen your results:
+
 
 #### CONNECT TO YOUR DATA
 
 Integrate Askdata with different data sources 
 
+
 #### SEARCH & GET YOUR DATA
 
 Get a quick access to your data in different slicing 
+
 
 #### SHARE & COLLABORATE
 
 Elaborate data with your team to get new insights for your business success 
 
+
 #### MAKE DECISIONS FAST
 
 Get automated insights using Artificial intelligence and Machine Learning
 
+
 #### SAVE TIME
 
 Update your dashboards independently & reduce number of personnel involved 
+
 
 #### SERVE YOURSELF
 
