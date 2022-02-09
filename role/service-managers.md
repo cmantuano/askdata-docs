@@ -1,5 +1,5 @@
 ---
-title: Askdata for Service Support Managers
+title: Askdata for Service Managers
 keywords: documentation
 last_updated: December 14th, 2021
 tags: [getting_started]
