@@ -24,8 +24,8 @@ We focus on the meaning of the data and user experience so the user can take its
   <div class="col-sm-4">
     <div class="card">
       <div class="card-body text-center">
-        <h5 class="card-title">Prediction or (even better) creation of marketing trends</h5>
-        <p class="card-text">To get deep analysis of consumer’s preferences, attitudes and interests to bring to market the desired product even before the consumer understood what he needs.</p>
+        <h5 class="card-title">Predicting or creating of marketing trends</h5>
+        <p class="card-text">To get deep analysis of consumer’s preferences and attitudes for immediately bringing the consumer's desired products to market.</p>
          <img src="/media/use-cases/icons/customer_insights_1.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
@@ -34,7 +34,7 @@ We focus on the meaning of the data and user experience so the user can take its
     <div class="card">
       <div class="card-body text-center">
         <h5 class="card-title">Early definition of consumer demand</h5>
-        <p class="card-text">To predict consumer demand and purchasing power based on consumer’s feedbacks in social media, previous shopping attitudes, response to similar campaigns of cross brands</p>
+        <p class="card-text">To predict consumer demand and purchasing power based on feedbacks in social media, previous shopping attitudes & responses to similar campaigns of cross brands</p>
         <img src="/media/use-cases/icons/customer_insights_2.png" class="card-img" alt="Sales Accuracy" style="max-width:160px">
       </div>
     </div>
