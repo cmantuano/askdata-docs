@@ -52,6 +52,10 @@ entries:
       url: role/data-agility
       output: web, pdf
       
+    - title: Better Sales with Data
+      url: role/social
+      output: web, pdf
+      
     - title: Reducing the number of Dashboards
       url: role/dashboards
       output: web, pdf
@@ -103,6 +107,10 @@ entries:
     - title: Data agility
       url: role/data-agility
       output: web, pd
+      
+    - title: Better Sales with Data
+      url: role/social
+      output: web, pdf
       
     - title: Reducing the number of Dashboards
       url: role/dashboards
