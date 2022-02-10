@@ -53,7 +53,7 @@ entries:
       output: web, pdf
       
     - title: Better Sales with Data
-      url: role/social
+      url: role/better-sales
       output: web, pdf
       
     - title: Reducing the number of Dashboards
@@ -109,7 +109,7 @@ entries:
       output: web, pd
       
     - title: Better Sales with Data
-      url: role/social
+      url: role/better-sales
       output: web, pdf
       
     - title: Reducing the number of Dashboards
