@@ -19,7 +19,7 @@ We focus on the meaning of the data and user experience so the user can take its
 We use Artificial Intelligence (AI) and provide proactive insights for any kind of products improvements 
 
 
-#### Better Sales with Data means:
+#### Better Sales with Data by:
 
 <div class="row">
   <div class="col-sm-4">
