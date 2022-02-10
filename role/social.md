@@ -18,7 +18,6 @@ Quickly search this data across across platform and get the answer right away.
 
 Use natural language for your data query.
 
-..and even more
 
 #### Immediate impact on:
 
