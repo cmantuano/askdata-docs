@@ -1,0 +1,43 @@
+image: nginx:latest
+options:
+  docker: true
+pipelines:
+  default:
+    - step:
+        name: Generate the blog with Jekyll
+        script:
+          - echo $BITBUCKET_COMMIT
+          - pwd
+          - ls -al
+          # build app
+          - export APP_NAME_NEW="docs"
+          - export NAMESPACE_NEW="askdata"
+          - export DEPLOYMENT_NEW="docs"
+          - export CONTAINER_NEW="docs"
+          - export IMAGE_NAME_NEW="eu.gcr.io/askdata/$APP_NAME_NEW:PROD-$BITBUCKET_COMMIT"
+          # build docker image
+          - docker build -t $IMAGE_NAME_NEW .
+          - docker login --username _json_key --password "$GCR_JSON_KEY_NEW" https://eu.gcr.io
+          # push docker image to Google Container Registry
+          - docker push $IMAGE_NAME_NEW
+          # build ASkData docker image
+          #- export IMAGE_NAME="eu.gcr.io/askdata/$NAMESPACE:$BITBUCKET_COMMIT"
+          #- docker build -t $IMAGE_NAME .
+          #- docker login --username _json_key --password "$GCR_JSON_KEY_NEW" https://eu.gcr.io
+          # push docker image to Google Container Registry
+          #- docker push $IMAGE_NAME
+          # install kubernetes
+          - curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl
+          - chmod +x ./kubectl
+          - mv ./kubectl /usr/local/bin/kubectl
+          - ASKDATA_TOKEN=$(echo $ASKDATA_PROD_TOKEN | base64 --decode)
+          - echo $ASKDATA_PROD_CA | base64 --decode > ./kube_ca
+          - ASKDATA_CONTEXT="context-prod"
+          - ASKDATA_CLUSTER="backend-prod"
+          # Configure kubectl
+          - kubectl config set-cluster $ASKDATA_CLUSTER --server=https://$ASKDATA_PROD_URL --certificate-authority=./kube_ca
+          - kubectl config set-credentials bitbucket --token=$ASKDATA_TOKEN
+          - kubectl config set-context $ASKDATA_CONTEXT --cluster=$ASKDATA_CLUSTER --user=bitbucket
+          - kubectl config use-context $ASKDATA_CONTEXT
+          #Update the deployment to use the new Docker image
+          - kubectl set image deployment/$DEPLOYMENT_NEW $CONTAINER_NEW=$IMAGE_NAME_NEW -n $NAMESPACE_NEW

@@ -1,14 +1,5 @@
-FROM jekyll/builder
+FROM nginx:alpine
 
-WORKDIR /tmp
-ADD Gemfile /tmp/
-ADD Gemfile.lock /tmp/
-RUN bundle install
-
-FROM jekyll/jekyll
-
-VOLUME /src
-EXPOSE 4000
-
-WORKDIR /src
-ENTRYPOINT ["jekyll", "serve", "--livereload", "-H", "0.0.0.0"]
+COPY docker/nginx.conf /etc/nginx/nginx.conf
+COPY . /usr/share/nginx/html
+RUN chown -R nginx /usr/share/nginx
