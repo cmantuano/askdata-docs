@@ -8,31 +8,24 @@ layout: doc
 
 ---
 
-In order to create a new dataset you need to have a new agent set up. If you don't have one already, follow this guide.
+In order to create a new dataset you need to have a new workspace set up. If you don't have one already, follow this guide.
 
-Dataset Configuration
-=====================
+# Dataset Configuration
 
-Go to the agent home and click on the Datasets button.
+When you add a new CSV dataset you need to provide up to 4 settings in the configuration form.
 
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f4dd886343099fa3b5cd260_Dataset%20Button.jpg)In the Datasets page you will see all the connected datasets, and you can also add new ones by clicking on Add Datasets.  
+### Econding:
+UTF-8 is the modern way of encoding file and the standard for most products
 
+### Separator:
+Every CSV has a char that identify the separator. The default is usually the comma , or the semicolumn ; 
 
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f4dd9bae7428466a0b9474d_Datasets.jpg)From the following modal, select the CSV dataset type. Then select "Configuration"
+### Thousands Separator:
+Some CSV could optionally show e separator of thousands. Default is None
 
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f4dd9eb48944c7a710518c8_CSV%20Dataset.jpg)The Modal with all the Datasets![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f4ddaf187711ce13a1ff9a0_Configuration.jpg)The configuration ModalThe first time you open the configuration Modal, you can just select "Configuration", and once you click, you have to select the CSV File, the Encoding and the Separator used.
+### Special processing commands:
+Python code that are run before loading the CSV that let the users to apply some clearning or transformation
 
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f4ddc1db6cdc83f7a23e6bf_Config%20Modal2.png)Select FileYou have now officially added your CSV File.  
-If the system gives you an error, probably you need some data preparation for your file. Please check the "[How to prepare your dataset](/docs/how-to-prepare-your-dataset)" article.
-
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f4de07286232cc3dc5d17f9_Configure.png)Now all the other configuration options are available.By clicking on configuration option, you can now edit the other settings. To keep this simple, let's just focus on the Schema.
-
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f4de13031dd6d31b381bf0a_Schema.jpg)This is the Schema of the sample dataThe schema view is really helpful to get a sense of what kind of data we can search for, it gives also an overview of the entity types, if they're measure or dimensions, the synonyms and other info that will cover later.
-
-If we click on one of the row, we can enhance the details and make the data even more powerful! For more about the Schema Configuration check "[How to configure a Dataset Schema](/docs/how-to-configure-a-dataset-schema)"
-
-
-
-    {% include links.html %}
-
-    
+### How to avoid importing errors
+- Consider only tabular data with one level of header
+- Avoid using special chars in the header
