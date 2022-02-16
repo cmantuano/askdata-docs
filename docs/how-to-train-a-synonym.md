@@ -1,5 +1,5 @@
 ---
-title: How to train a synonym
+title: How to add a synonym
 keywords: documentation
 last_updated: October 15th, 2020
 tags: [admin-guide]
@@ -25,4 +25,8 @@ Click on the entity (dimension) or measure that you want to train with an additi
 
 *In that case, you have to set the "Import Values" setting to true in the dimension and save. And, check the list of values in the "View values" section in the related dimension.*
 
-{% include links.html %}
+** Automated Synonyms generation **
+
+The field can contains different business logics
+
+More information: (here)[/docs/dataset_parameter_synonyms_generator/]
