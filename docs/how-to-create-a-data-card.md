@@ -9,11 +9,11 @@ layout: doc
 ## Data Card Creation
 
 A **Data Card** is the result of a data query that can be easily shared between users.
-A Data Card can be created from any Askdata website page using the **"+"** menu item on the top of the screen.
+A Data Card can be created from any Askdata website page using the **+** menu item on the top of the screen.
 
 Follow steps below to create a DataCard:
 
- - Click on **“+”** 
+ - Click on **+** 
  - Choose **Data Card**
 
 <img src="/media/user-guide/dcr_1.png" class="image-doc p-3">
