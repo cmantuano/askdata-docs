@@ -13,7 +13,7 @@ Inside Askdata users can communicate with each other using collaboration tools.
 
 **MESSAGES**
 
-You can chat with other users to share and discuss Data Cards and insights found or whatever related to data you work with. For this click on the  Message icon on the right upper corner of the page.
+You can chat with other users to share and discuss Data Cards and insights found or whatever related to data you work with. For this click on the  **Message** icon on the right upper corner of the page.
 
 <img src="/media/user-guide/wo_1.png" class="image-doc p-3">
 
@@ -35,7 +35,7 @@ You can send a Data Card directly from the Feed:
 
 <img src="/media/user-guide/wo_4.png" class="image-doc p-3"> 
 
-2. Click on a contact you want to send a Data Card or "Invite" a new one
+2. Click on a contact you want to send a Data Card or **Invite** a new one
 
 <img src="/media/user-guide/wo_5.png" class="image-doc p-3">
 
@@ -61,7 +61,7 @@ Being a Data Card Owner you can share your Data Card managing user access (view 
 
 <img src="/media/user-guide/wo_11.png" class="image-doc p-3">
 
-2. Add email address of the person you want to share Data Card with
+2. Add **email** **address** of the person you want to share Data Card with
 
 3. Click **Invite**
 
