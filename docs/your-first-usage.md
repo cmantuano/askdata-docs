@@ -20,6 +20,8 @@ You can also use your Google or Slack account to login.
 
 <img src="/media/user-guide/fu_2.png" class="image-doc p-3">
 
+<iframe width="962" height="574" src="https://www.youtube.com/embed/nlqZV6U-Q-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Now as you are logged in let’s explore Askdata **Homepage**.
 
 <img src="/media/user-guide/fu_4.png" class="image-doc p-3">
