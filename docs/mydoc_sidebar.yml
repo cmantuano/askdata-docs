@@ -71,6 +71,10 @@ entries:
     - title: Connect your data
       url: docs/how-to-add-a-new-dataset
       output: web, pdf
+      
+    - title: Data Integrations
+      url: docs/data-integrations
+      output: web, pdf
 
     - title: Configure your Dataset
       url: docs/how-to-configure-your-dataset
@@ -78,10 +82,6 @@ entries:
 
     - title: Train a synonym
       url: docs/how-to-train-a-synonym
-      output: web, pdf
-    
-    - title: Advanced Configuration
-      url: docs/advanced-configurations
       output: web, pdf
     
     - title: Advanced Filter Configuration
