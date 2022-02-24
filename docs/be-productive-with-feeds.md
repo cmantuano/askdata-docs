@@ -10,38 +10,45 @@ layout: doc
 
 ## Feeds
 
-A Feed is a curated group of Askdata [Data Cards](/docs/what-is-a-datacard). You can create your own Feeds or follow Feeds created by others. Viewing a Feed timeline will show you a stream of Data Cards from only the accounts on that List.
+Feed is a list of Data Cards grouped together under one concept. You can create your own Feeds or follow Feeds created by others. Users can create public or private Feeds. Public feeds are created by a user without security constraints. Public feeds can be seen, searched and followed by other users. Private feeds are visible only to the users who created them and to the owner who has set them in the security setting of the feed. 
 
-Users can create **public** or **private** Feeds. 
+**How to create a feed**
 
-Public feeds are created by a user without security constraints. Public feeds can be seen, searched and followed by other users. 
-Private feeds are visible only to the users who created them and to the owner has set in the security setting of the feed.
 
- More info here: [what is an Askdata feed](/docs/what-is-an-askdata-feed)
+Follow the next steps to create a Feed:
 
-### How to create a Feed
+1. From AskData Homepage Click on **“+”**
+2. Choose **“Feed”**
+3. Choose your **“Workspace”**
+4. Add Feed **“Name” & “Icon”**
+5. Choose Feed’s **“Visibility”** (public/private)  
+6. Click **“Save”** to proceed
 
-!["create feed"](media/create_feed.gif)
+<img src="/media/user-guide/f_1.png" class="image-doc p-3">
 
-To **create** a new feed, from the Home:
+<iframe width="962" height="575" src="https://www.youtube.com/embed/byu0m_yVu-w?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* click the “Feeds" button 
-* then click on "Create feed"
-* fill the form with the new feed Name, and select the associated Icon
-* choose the Visibility level (public or private) and the autofollow property  
+**How to share a Feed:**
 
-If the autofollow property is set to "yes" the new Feed is automatically followed from all the users, if "no" only the users that search for can follow it  
+To share a Feed you need to be its Owner.
 
-### Sharing a Feed
+1. Inside the Feed Click on **“Collaborators”** icon
+2. Add an **“email”**
+3. Click **“Invite”** to proceed
 
-A feed can be shared with a **specified set of users**. To share the feed, from the home select the “Feeds” button (“All feeds” list is shown), then select the feed you want to share, from the feed details view select “Collaborators”. The list of system users appear from which selecting users to share the feed with 
+<img src="/media/user-guide/f_3.png" class="image-doc p-3">
 
-!["share feed"](media/share_feed.gif)
+<img src="/media/user-guide/f_3.png" class="image-doc p-4">
 
-### Deleting a Feed
+To change Feed settings you can click on Settings inside the Feed and do changes you need. 
 
-As well as to share a Feed, to delete a Feed, from the home, select the “Feeds” button (“All feeds” list is shown), then select the feed you want to delete, from the feed details view select the three-dots menu and press the button “Delete Feed”. 
+<img src="/media/user-guide/f_3.png" class="image-doc p-5">
 
-!["delete feed"](media/delete_feed.gif)
+<img src="/media/user-guide/f_3.png" class="image-doc p-6">
 
-{% include links.html %}
+To delete Feed click on 3 points and choose Delete Feed.
+
+<img src="/media/user-guide/f_3.png" class="image-doc p-7">
+
+
+
