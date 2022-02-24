@@ -11,11 +11,11 @@ layout: doc
 
 ### How to access Askdata
 
-To start using Askdata follow the link <https://app.askdata.com/ and login>.
+To start using Askdata follow the link <https://app.askdata.com/> and login.
 
 <img src="/media/user-guide/fu_1.png" class="image-doc p-3">
 
-Sign in with your credentials if you are already registered or choose Sign Up/p to create your free Askdata account: <https://askdata.com/signup>. You can also use your Google or Slack account to login.
+Sign in with your credentials if you are already registered or choose Sign Up to create your free Askdata account: <https://askdata.com/signup>. You can also use your Google or Slack account to login.
 
 <img src="/media/user-guide/fu_2.png" class="image-doc p-3">
 
