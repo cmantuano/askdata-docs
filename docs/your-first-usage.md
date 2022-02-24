@@ -15,21 +15,25 @@ To start using Askdata follow the link <https://app.askdata.com/> and login.
 
 <img src="/media/user-guide/fu_1.png" class="image-doc p-3">
 
-Sign in with your credentials if you are already registered or choose Sign Up to create your free Askdata account: <https://askdata.com/signup>. You can also use your Google or Slack account to login.
+**Sign** **in** with your credentials if you are already registered or choose **Sign** **Up** to create your free Askdata account: <https://askdata.com/signup>. 
+You can also use your Google or Slack account to login.
 
 <img src="/media/user-guide/fu_2.png" class="image-doc p-3">
 
-Now as you are logged in let’s explore Askdata Homepage.
+Now as you are logged in let’s explore Askdata **Homepage**.
 
 <img src="/media/user-guide/fu_4.png" class="image-doc p-3">
 
-By default from Askdata Homepage you can see all your Workspaces “Your Work”.
+By default from Askdata **Homepage** you can see all your Workspaces **“Your Work”**.
 If this space is empty means you have not created any Workspace yet.
 
 Top horizontal menu is accessible from any website page and besides “Your Work” menu item contains also:
- - “Learn” by selecting which you will be taken to a page with all available information about our company, products, use cases, documentation and media.
- - “?” takes you directly to the Documentation page
- - “Messages” is the section where you can communicate with other Askdata users
- - “+” is the most important menu item which is used to work with Askdata. Use it to add Datasets, create your Workspaces & Data Cards & Feeds.
+ - **“Learn”** by selecting which you will be taken to a page with all available information about our company, products, use cases, documentation and media.
+
+ - **“?”** takes you directly to the Documentation page
+
+ - **“Messages”** is the section where you can communicate with other Askdata users
+
+ - **“+”** is the most important menu item which is used to work with Askdata. Use it to add Datasets, create your Workspaces & Data Cards & Feeds.
 
 
