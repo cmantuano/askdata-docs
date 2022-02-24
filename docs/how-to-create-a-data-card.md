@@ -8,233 +8,156 @@ layout: doc
 ---
 ## Data Card Creation
 
-A Data Card is the simplest piece of content that can be exchanged on Askdata and it must be necessarily associated with a feed. <br/>
-In order to create a Card, we can proceed in two ways:
+A **Data Card** is the result of a data query that can be easily shared between users.
+A Data Card can be created from any Askdata website page using the **"+"** menu item on the top of the screen.
 
-### Create it from Workspace Home 
+Follow steps below to create a DataCard:
 
-If you have already created a feed, you can generate a new card by clicking **Create** and then **Data Card**:
+ - Click on **“+”** 
+ - Choose **Data Card**
 
-<p align="center" >
-  <img src="media/create_card_from_agent.PNG" style="max-width:500px"  />
-</p>
+<img src="/media/user-guide/dcr_1.png" class="image-doc p-3">
 
-Then you will be asked to enter the name and to select the feed to associate the card with (you can also create a new feed from this page). 
+ - Select **Workspace**, add **Data Сard Name** & select a **Feed** 
+ - Click **Add** to create a Data Card
 
+<img src="/media/user-guide/dcr_2.png" class="image-doc p-3"> 
 
-<p align="center">
-  <img src="media/data_card_info.PNG" style="max-width:500px" />
-</p>
+In case Workspace or Feed do not yet exist you can create them directly from here. 
+ 
+Click Create New to add Workspace as shown below:
 
-When you are done just click **Add** and you are good to go!
+<img src="/media/user-guide/dcr_3.png" class="image-doc p-3"> 
 
-### Create it from a feed
+Click Create a New Feed to add a new Feed as shown below:
 
-If you have already [created a feed](https://docs.askdata.com/docs/be-productive-with-feeds.html), select it and add a new card by clicking **New Data Card** and customize it with your name.
+<img src="/media/user-guide/dcr_4.png" class="image-doc p-3"> 
 
-<p align="center">
-  <img src="media/data_card_from_feed.PNG" style="max-width:500px"  />
-</p>
+For more details on how to create Workspace/Feed  follow Chapters **Workspace configuration** and **Be productive with Feeds**.
 
-When you are done just click **Add** and you are good to go!
+When Data Card is created you will see the following screen:
 
-## Customize your data card
+<img src="/media/user-guide/dcr_5.png" class="image-doc p-3">
 
-Once you have created a Data card by using one of the available methods, we offer the possibility to highly customize it according to your style and to your requirements. With Askdata you can create different types of content within a Data Card, matching your needs with extreme neatness and enhancing your data experience. <br/>
-</br>
-When you enter a card that has just been created, you will be presented two sections by default:
-* Data Card header
-* Natural Language query
-<p align="center">
-  <img src="media/card_landing.PNG" style="max-width:500px"  />
-</p>
+<iframe width="962" height="601" src="https://www.youtube.com/embed/8Vwyq8pViKM?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Once a Data Card is created you can add your Data Query via Queries and Data menu using the following main options:
+ - Query
+ - Search
+ - Data
+ - SQL
 
-If you click on a specific section, a tab on the right will be shown and you will be able to set all the desired properties. Now we are going to dive deeper in the two sections mentioned above.
+**Query**
 
-### Data card header
+Use a **Query** component to create a Data Query by specifying a set of required fields from the chosen Dataset.
 
-The data card header allows you to change some of the default settings of the card. You are able to customize it:
+Follow the steps below:
 
-* **Data Card Title**: Title of your data card that will be shown in the feed
-* **Data Card Slug**: Slug used by our system, mustn't contain any space
-* **Icon**: We offer a wide variety of icons available but you can also upload one from your device
+1. Drag & drop Query component from the left-side menu
 
-When you are done customizing the settings click save and the system will update. This applies for all the components, **you must click save to show the updated resources**.
+<img src="/media/user-guide/dcr_7.png" class="image-doc p-3">
 
-<p align="center">
-  <img src="media/card_settings.PNG" style="max-width:500px" />
-</p>
+2. Choose Dataset
 
-### Natural Language query 
+<img src="/media/user-guide/dcr_8.png" class="image-doc p-3">
 
-This is the component where the real power of Askdata shows up. If you click on the **Edit** button you will be prompted to enter the query in natural language. After hitting **Run** your results will be quickly shown together with the **recognized entities** and some suggestions on some **other possible interpretations** of your query.
+3. Click on Fields tab to choose data you need for a query
 
-<p align="center">
-  <img src="media/nl_query.png" style="max-width:500px" />
-</p>
 
-To save your NL query, just hit **Done** in the upper right corner or cancel if you want to discard it. <br/>
+<img src="/media/user-guide/dcr_9.png" class="image-doc p-3">
 
-If you select a NL query, you can personalize it applying the properties you want to. Specifically, you are allowed to customize:
+Use **“+”** to add fields, use **“х”** to remove fields. Use **“Remove all”** to clear all selected data. When fields are added click “Apply” to save changes. Repeat same actions with all other components as you see on the screenshot in case you need to use them (Filter, Sort, etc)
 
-- **Query Name**: Name of the query displayed as header
-- **Variable name**: Name of the variable to save the results to. You can later access this variable from other components.
-- **Connection**: Some datasets support a specific connection (not the centralized one) for each user that perform a query
-- **Perform NL2SQL before each execution**: Set this to True if you want **NL2SQL** (Natural Language 2 SQL) to be called at each execution.
-- **Buckets**: Buckets are the way you can configure as output more than one Data Card, choosing the dimension over the Data Card will be split
+<img src="/media/user-guide/dcr_10.png" class="image-doc p-3">
 
+4. Click Done to create Query
 
-### Other components
-Now we are going to present all the different components that can be added to a data card in order to customize it:
+Query result will appear on the black screen:
 
-<p align="center">
-  <img src="media/components_list.PNG" style="max-width:500px" />
-</p>
+<img src="/media/user-guide/dcr_11.png" class="image-doc p-3">
 
+5. Add Query Name & other attributes to finalize the Query
+6. Click Save to finish
 
-#### Query
-Select an (external) dataset, query it and apply filter on it. When you attach this component you will be prompted to select a dataset to query with the associated columns. After clicking **Done** it will be shown in the webpage. Moving to the left hand side panel, you can adjust the following properties:
+Once Query is created we can customize it by using different components available on the left-side menu. Drag & Drop **“Component”** you need, work on Component properties and click **“Save”** to proceed.
 
-- **Query Name**: Name of the query displayed as header
-- **Variable name**: Name of the variable to save the results to. You can later access this variable from other components.
-- **Connection**: Some datasets support a specific connection (not the centralized one) for each user that perform a query
-- **Buckets**: Buckets are the way you can configure as output more than one Data Card, choosing the dimension over the Data Card will be split
+See below how it easy to add Table or Chart:
 
+<img src="/media/user-guide/dcr_12.png" class="image-doc p-3">
 
-#### Search
-Add a new Natural Language Query. This component is similar to the [**Natural language Query**](#natural-language-query), please refer to the dedicated section.
+<img src="/media/user-guide/dcr_13.png" class="image-doc p-3">
 
-#### SQL Query
-With this component you can autonomously add a new SQL query to retrieve the results from your dataset. If enter the **Edit** mode, you can select the dataset and modify the editor with the query you would like to execute. Talking about the settings panel, these are the options:
+<iframe width="962" height="576" src="https://www.youtube.com/embed/mCVxZNOYL34?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p align="center">
-  <img src="media/sql_query_settings.PNG" style="max-width:500px" />
-</p>
+When you finish to customize your Data Card make it searchable for others. Follow next steps to do it:
 
-- **Query Name**: Name of the query displayed as header
-- **Variable name**: Name of the variable to save the results to. You can later access this variable from other components.
-- **Connection**: Some datasets support a specific connection (not the centralized one) for each user that perform a query
-- **Native Type Query**: Allows to send a native query to the selected dataset.
-- **Buckets**: Buckets are the way you can configure as output more than one Data Card, choosing the dimension over the Data Card will be split
+ - Click on icon “On-demand query”
+ - Move thumbler to “Enable On-Demand Query”
+ - Add you Data Query name into the field “User Says”
+ - Click “Add Query”
+ - Click “Save” to proceed
 
+<img src="/media/user-guide/dcr_15.png" class="image-doc p-3">
 
-After customizing it, press **Save** to proceed.
-#### Comment
-This is thought to be a support for who is working on the data card. It is a component that stores text that won't be available in the final data card on the feed. In the settings panel on the left, you can enter the comment name and the text. 
+<iframe width="895" height="645" src="https://www.youtube.com/embed/jvQZkx2K8PA?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Once you have done that, click **Save**, to proceed.
+Once you saved your changes you can see a ready Data Card:
 
-#### Text
-Unlike Comment this is a text section that will be available in the resulting data card. All the others considerations remain the same. 
+<img src="/media/user-guide/dcr_17.png" class="image-doc p-3">
 
-#### List
-This component allows you to show your results in a more compact way, printing them as a List. You can adjust the following properties:
+You can also use other types of Queries such as:
 
-<p align="center">
-  <img src="media/list_prop.PNG" style="max-width:500px" />
-</p>
+** - Search**
 
-- **Component Name**: Set the name of the component
-- **Query**: The name of the query you are referring to. This is what you defined under the variable name in [Query](#query)
-- **Title**: Set the title
-- **Description**: Set the description
-- **Number of displayed rows**: Adjust the number of rows displayed
-- **Call To Action Enabled**: Call to action enabled next to every item
-- **Action label**: The label of the action (if enabled)
-- **Action URL**: The URL of the action (if enabled)
+Search Query is used to create a query in a natural language. 
+See how to do it in the video below.
 
-#### Map
-Special type of chart that shows your results on map. The result of the NL query must be suitable to be shown on a Map.
+<iframe width="962" height="577" src="https://www.youtube.com/embed/obV5KZPYT8k?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Compare
-This component allows you to compare the results of two different queries. You can access the results by specifying the variable name you defined in the NL query. In the settings panel you have the following options:
-<p align="center">
-  <img src="media/compare.PNG" style="max-width:500px" />
-</p>
+** - Data**
 
-- **Name***: Set the name of the comparison component
-- **Query***: Select the first query
-- **Measure***: Set the measure in the query
-- **Label**: Pick the label.
-- **Custom Label**: Or define a custom label
-- **Description**: Set {{P}} to show the difference in percentage or {{AV}} to use the absolute value
+Data Query is used when it is necessary to add data manually. 
+See how to do it in the video below.
 
-The above parameters can be specified for both the queries.
+<iframe width="962" height="583" src="https://www.youtube.com/embed/ijCbdvTKFYc?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- **Formatting***: Set **High is Better** or **Low is Better** to set the criterion for the comparison
+** - SQL**
 
-#### Table
-This component allows you to show your results in a more compact way, printing them as a Table. You can adjust the following properties:
+Data Query created using SQL program code
 
-<p align="center">
-  <img src="media/table.PNG" style="max-width:500px" />
-</p>
+ Add other available **Components** to customize a Query:
 
-- **Name**: Set the name of the component
-- **Query**: The name of the query you are referring to. This is what you defined under the variable name in [Query](#query)
-- **Columns**: Select the columns to show in the Table.
-- **Number of displayed rows**: Adjust the number of rows displayed
+** - Text** - is used to add any text to comment you Data Card
 
-Hit save and the component will be updated according to your preferences.
+<iframe width="962" height="599" src="https://www.youtube.com/embed/RYdtEOO6OtI?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Chart
-This component allows you to show your results in a chart without writing a single line of code. We have different types of charts available.
+** - List** - is used to represent data in a structured way
 
-<p align="center">
-  <img src="media/chart.PNG" style="max-width:500px" />
-</p>
+<iframe width="962" height="605" src="https://www.youtube.com/embed/sPnhVVN3Bc0?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- **Name**: Set the name of the component
-- **Query**: The name of the query you are referring to. This is what you defined under the variable name in [Query](#query)
-- **Type**: charts **currently** available: Horizontal Bar, Line, Pie, Radar, Donut, Vertical Bar, Stacked Area, Stacked Horizontal, Stacked Vertical
-- **Parameters**: The variables to be considered for the chart
+** - Button** - is used to add clickable element
 
-Hit save and the component will be updated according to your preferences.
+<iframe width="962" height="602" src="https://www.youtube.com/embed/kT66u9YUiLg?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Image 
-Paste an Image in your data card. In the settings panel you can set a title for the Image and Upload one/Choose from existing ones. Hit **Save** and the image will be displayed in the preview.
+** - Image** - is used to add visual content
 
-#### Button 
-Link an external resource such as a PDF, DOC, web page.... You just need to configure the name of the component, the label and the URL. 
+<iframe width="962" height="578" src="https://www.youtube.com/embed/QsDRAuXP6nU?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### HTML
-This component allows the user to implement HTML code to enhance the Data Card. The code could be used for graphical reason (as shown in the picture below) but also for more practical ones. In fact, the results of the query can be accessed within the HTML editor (the variable name must be specified in the settings tab), which is available by clicking the **Edit button**. Here is an example:
+** - Compare**  - is used to compare results of two different queries. To use this Component you should have 2 queries created.
 
-<p align="center">
-  <img src="media/html_code.PNG"  style="max-width:500px" />
-  <img src="media/result_html.PNG" style="max-width:500px"  />
-</p>
+<iframe width="962" height="579" src="https://www.youtube.com/embed/WBu25B9vrds?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**More info:** [HTML Component Configuration Examples](/docs/data_card_html_component)
+** - Map** - is used to show your query results on map. To create a Map you need to add related data as longitude and latitude
 
-#### Script 
-This component allows the definition and execution of **JavaScript code**. The code has access to all of the query result sets, identified by the variable name assigned to them on the query component settings. Also the results of other script components can be used if they preceed this one. The script can be any valid javascript code. The last expression is the script result. It can be any object or a function. For example:
-```
-// Example 1:
-   { 'name' : q1Result[0].customer, 'revenue' :q1Result[0].revenue }
-//   returns an object with 'name' and 'revenue' fields obtained from the first element of the array q1Result and two properties
+<iframe width="962" height="579" src="https://www.youtube.com/embed/uxQUCOrj7Tc?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```
-<p align="center">
-  <img src="media/javascript.PNG" style="max-width:500px" />
-</p>
+** - HTML** - is used to implement HTML code to enhance the Data Card. The code could be used for graphical reason (as shown in the picture below) but also for more practical ones.
 
-**More info:** [Script Component Configuration Examples](/docs/data_card_script_component)
+<iframe width="962" height="579" src="https://www.youtube.com/embed/5ah29BZlRak?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In the settings panel, you can set the **component name** and the **Variable name*** that is the Name of the variable to save the results to. You can later access this variable from other components.
-### Moving/deleting the component
+** - Widget**
 
-For every component you have to possibility to **delete** it using the bin icon just on the right hand side of the component and to **move it up/down** on the card using the arrows on the left hand side.
+<iframe width="962" height="579" src="https://www.youtube.com/embed/Tthmu-SnTKo?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Saving the data card
 
-When finished customizing the card, you can have a preview of it hitting the **Preview** button.
-<p align="center">
-  <img src="media/preview_done.PNG" style="max-width:500px" />
-</p>
-
-At this point you can either **Duplicate** it (i.e. copy it in another feed) or click **Done** to finish the process.
-
-
-Stay Tuned on this page since we are constantly developing new components to enhance your experience with data!
+ 
