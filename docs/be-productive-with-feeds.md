@@ -17,12 +17,12 @@ Feed is a list of Data Cards grouped together under one concept. You can create 
 
 Follow the next steps to create a Feed:
 
-1. From AskData Homepage Click on **“+”**
-2. Choose **“Feed”**
-3. Choose your **“Workspace”**
-4. Add Feed **“Name” & “Icon”**
-5. Choose Feed’s **“Visibility”** (public/private)  
-6. Click **“Save”** to proceed
+1. From AskData Homepage Click on **+**
+2. Choose **Feed**
+3. Choose your **Workspace**
+4. Add Feed **Name & Icon**
+5. Choose Feed’s **Visibility** (public/private)  
+6. Click **Save** to proceed
 
 <img src="/media/user-guide/f_1.png" class="image-doc p-3">
 
@@ -32,9 +32,9 @@ Follow the next steps to create a Feed:
 
 To share a Feed you need to be its Owner.
 
-1. Inside the Feed Click on **“Collaborators”** icon
-2. Add an **“email”**
-3. Click **“Invite”** to proceed
+1. Inside the Feed Click on **Collaborators** icon
+2. Add an **email**
+3. Click **Invite** to proceed
 
 <img src="/media/user-guide/f_3.png" class="image-doc p-3">
 
