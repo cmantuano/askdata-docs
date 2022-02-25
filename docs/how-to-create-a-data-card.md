@@ -39,7 +39,7 @@ When Data Card is created you will see the following screen:
 
 <img src="/media/user-guide/dcr_5.png" class="image-doc p-3">
 
-<center><iframe width="962" height="601" src="https://www.youtube.com/embed/8Vwyq8pViKM?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="style="max-width:400px;max-height:240px"></iframe></center>
+<center><iframe width="962" height="601" src="https://www.youtube.com/embed/8Vwyq8pViKM?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
 
 Once a Data Card is created you can add your Data Query via **Queries** **and** **Data** menu using the following main options:
  - Query
@@ -88,7 +88,7 @@ See below how it easy to add Table or Chart:
 
 <img src="/media/user-guide/dcr_13.png" class="image-doc p-3">
 
-<center><iframe width="962" height="576" src="https://www.youtube.com/embed/mCVxZNOYL34?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=**style="max-width:400px;max-height:240px"></iframe></center>
+<center><iframe width="962" height="576" src="https://www.youtube.com/embed/mCVxZNOYL34?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=**style=""max-width:400px;max-height:240px"></iframe></center>
 
 When you finish to customize your Data Card make it searchable for others. Follow next steps to do it:
 
@@ -100,7 +100,7 @@ When you finish to customize your Data Card make it searchable for others. Follo
 
 <img src="/media/user-guide/dcr_15.png" class="image-doc p-3">
 
-<center><iframe width="895" height="645" src="https://www.youtube.com/embed/jvQZkx2K8PA?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>=""style="max-width:400px;max-height:240px"></iframe></center>
+<center><iframe width="895" height="645" src="https://www.youtube.com/embed/jvQZkx2K8PA?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>=""style=""max-width:400px;max-height:240px"></iframe></center>
 
 Once you saved your changes you can see a ready Data Card:
 
