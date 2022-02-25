@@ -35,7 +35,7 @@ The following popular actions will be available to work with Data Card:
 
 Watch this video to understand better how Search works.
 
-<iframe width="962" height="597" src="https://www.youtube.com/embed/F3JbLbihgFs?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="962" height="597" src="https://www.youtube.com/embed/F3JbLbihgFs?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px" dentro al tag iframe></iframe></center>
 
 
 
