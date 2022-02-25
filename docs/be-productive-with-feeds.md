@@ -26,7 +26,7 @@ Follow the next steps to create a Feed:
 
 <img src="/media/user-guide/f_1.png" class="image-doc p-3">
 
-<iframe width="962" height="575" src="https://www.youtube.com/embed/byu0m_yVu-w?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="962" height="575" src="https://www.youtube.com/embed/byu0m_yVu-w?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
 
 **How to share a Feed:**
 
