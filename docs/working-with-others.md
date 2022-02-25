@@ -21,7 +21,7 @@ You will see all open chats initiated and you can search a new email or name to 
 
 <img src="/media/user-guide/wo_2.png" class="image-doc p-3"> 
 
-<iframe width="962" height="597" src="https://www.youtube.com/embed/UIgbDquVUVE?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="962" height="597" src="https://www.youtube.com/embed/UIgbDquVUVE?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
 
 **SHARE**
 
@@ -47,13 +47,13 @@ And the user will receive a shared Data Card in his Message chat.
 
 <img src="/media/user-guide/wo_7.png" class="image-doc p-3">
 
-<iframe width="962" height="599" src="https://www.youtube.com/embed/26cwm_-2dgs?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="962" height="599" src="https://www.youtube.com/embed/26cwm_-2dgs?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
 
 If you are inside the Data Card Click on **Share** **-** **>** **Share** **to** **a** **Contact**
 
 <img src="/media/user-guide/wo_9.png" class="image-doc p-3">
 
-<iframe width="962" height="599" src="https://www.youtube.com/embed/q1QVzqtGmuk?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="962" height="599" src="https://www.youtube.com/embed/q1QVzqtGmuk?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
 
 Being a Data Card Owner you can share your Data Card managing user access (view or edit):
 
@@ -67,7 +67,7 @@ Being a Data Card Owner you can share your Data Card managing user access (view 
 
 <img src="/media/user-guide/wo_12.png" class="image-doc p-3">
 
-<iframe width="962" height="599" src="https://www.youtube.com/embed/jGVlNhoptpc?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="962" height="599" src="https://www.youtube.com/embed/jGVlNhoptpc?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
 
 You can also set the Data Card to be viewed or removed by any user with the link. 
 Choose this setting marked as the **eye** **icon**.
@@ -96,13 +96,13 @@ From the Feed:
 
 <img src="/media/user-guide/wo_18.png" class="image-doc p-3">
 
-<iframe width="962" height="597" src="https://www.youtube.com/embed/Py-u4WxZias?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="962" height="597" src="https://www.youtube.com/embed/Py-u4WxZias?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
 
 From the Opened Data Card:
 
 <img src="/media/user-guide/wo_20.png" class="image-doc p-3">
 
-<iframe width="949" height="645" src="https://www.youtube.com/embed/XRUhKiAwKms?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="949" height="645" src="https://www.youtube.com/embed/XRUhKiAwKms?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
 
 
 
