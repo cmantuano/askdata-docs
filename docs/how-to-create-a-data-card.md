@@ -88,7 +88,7 @@ See below how it easy to add Table or Chart:
 
 <img src="/media/user-guide/dcr_13.png" class="image-doc p-3">
 
-<center><iframe width="962" height="576" src="https://www.youtube.com/embed/mCVxZNOYL34?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=**style=""max-width:400px;max-height:240px"></iframe></center>
+<center><iframe width="962" height="576" src="https://www.youtube.com/embed/mCVxZNOYL34?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style=""max-width:400px;max-height:240px"></iframe></center>
 
 When you finish to customize your Data Card make it searchable for others. Follow next steps to do it:
 
