@@ -100,7 +100,7 @@ When you finish to customize your Data Card make it searchable for others. Follo
 
 <img src="/media/user-guide/dcr_15.png" class="image-doc p-3">
 
-<center><iframe width="895" height="645" src="https://www.youtube.com/embed/jvQZkx2K8PA?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>="" style="max-width:400px;max-height:240px"></iframe></center>
+<center><iframe width="895" height="645" src="https://www.youtube.com/embed/jvQZkx2K8PA?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="max-width:400px;max-height:240px"></iframe></center>
 
 Once you saved your changes you can see a ready Data Card:
 
