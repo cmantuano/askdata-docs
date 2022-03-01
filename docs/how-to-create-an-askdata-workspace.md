@@ -9,19 +9,19 @@ layout: doc
 
 ## Workspace Creation
 
-To create an Askdata workspace you can use the **web app**: <https://app.askdata.com>. From the home (click on the Askdata icon) you can select the "Create Workspace" button.
+**Workspace** is a separate environment where you can create Datasets and Data Cards and manage data access between users.
 
-<p align="center">
-  <img src="media/workspace_create.PNG" width="650" />
-</p>
+To create a Workspace:
 
-Through the **web app**, editors can create new Workspaces and configure them.  
+1. Click on **+** from any Askdata page
+2. Choose **Workspace**
+3. Add Workspace **Name** **&** **language**
+4. Click Create Workspace to proceed
 
-Also the end users (Viewer) can connect to the web **App** at <https://app.askdata.com>. Using the web client or the native Apps for Android and iOS, users query the Agent and access the published content but cannot modify the workspace configuration.  
+<img src="/media/admin-guide/w_1.png" class="image-doc p-3">
 
-### Additional resources:
+<img src="/media/admin-guide/w_2.png" class="image-doc p-3">
 
-* [What is Askdata](/docs/what-is-an-askdata-agent)
-* [Askdata Main Concepts](/docs/main-concepts)
+Once Workspace is created user will see the following screen:
 
-{% include links.html %}
+<img src="/media/admin-guide/w_3.png" class="image-doc p-3">
