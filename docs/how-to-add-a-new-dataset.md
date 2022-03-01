@@ -10,24 +10,53 @@ layout: doc
 
 ## Add a new dataset to your Workspace
 
-Select the Workspace to which you want to add your dataset, and in the main feed click on the **Datasets** button.
 
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f1ee2f92f5cd23c1b7d2af5_01%20-%20Add%20Dataset.png)
+For having your data on Askdata you need first to add data to the platform. The collection of data represents Dataset. 
 
-Click **Datasets** From the **All Datasets** page click on the **Add Datasets** button.
+How to add Dataset:
 
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f1eedf4e65b165439c0fc19_02-add%20dataset%20button.png)
+1. From AskData Homepage Click on **+**
 
-Add DatasetFrom the Modal: "Select Dataset Type" select the dataset type you want to add.
+2. Choose **Dataset**
 
-![](https://uploads-ssl.webflow.com/5dff758010bfa7356f98e395/5f1ef199e65b161a2dc105e8_dataset%20modal.png)
+<img src="/media/admin-guide/d_1.png" class="image-doc p-3">
 
-Once you selected the dataset, you will have a new modal to configure the new dataset. 
+3. Сhoose your **Workspace** 
 
-Each dataset has a different configuration in order to enstablish a data source connection.
+4. Сhoose a **file** **type** you would like to add 
 
-In the left menu there's the “Connection” tab that can be used to establish a connection with data source.
+<img src="/media/admin-guide/d_2.png" class="image-doc p-3">
 
-Once you have completed you can simply press Save. Askdata will discover the dimensions (entities) and measures and build a knowledge graph that can be extended with synonyms and entity relationships over time.
+The list of available Dataset types:
 
-You can further optimize the Data Consumption experience following [this link](/docs/how-to-configure-your-dataset).
+ - Excel
+ - CSV
+ - Parquet
+ - Big Query
+ - Looker
+ - MicroStrategy
+ - MySQL
+ - PostgreSQL
+
+If Dataset you need is not listed contact us via support@askdata.com  
+
+Each Dataset to be connected in its own way. Use the **Data** **Integrations** section to learn how to connect any of available Dataset types.
+
+5. Once the Dataset type is selected click on the **Connection** button to establish connection (example below is for an Excel file).
+
+<img src="/media/admin-guide/d_3.png" class="image-doc p-3">
+
+6. Click **Save** to proceed (example below is for an Excel file).
+
+<img src="/media/admin-guide/d_4.png" class="image-doc p-3">
+
+Go to **Integrations** to learn more.
+
+
+
+
+
+
+
+
+
