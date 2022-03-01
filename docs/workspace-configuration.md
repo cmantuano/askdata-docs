@@ -9,21 +9,16 @@ layout: doc
 
 ## Workspace Configuration
 
-Welcome to the Workspace Configuration. Here there are mainly instructions on how to configure and personalize the workspace's settings.
 
-### Setting
+Once Workspace is created you can configure it.
 
-Main settings of the product
+1. Enter your Workspace and click **Edit**.
 
-### NLP
+<img src="/media/admin-guide/w_4.png" class="image-doc p-3">
 
-+ If you want to have a look on how our NLP Pipeline works check out this documentation: [NLP Pipeline Overview]
+2. In the opened menu change settings by editing data on the available tabs:
 
-### Look & Feel
+<img src="/media/admin-guide/w_5.png" class="image-doc p-3">
 
-In this section you can review all the Look & Feel home workspace settings, the main theme and the watermak of the generated charts
+3. Click **Save** to proceed
 
-
-[NLP Pipeline Overview]: </docs/NLP-pipeline-overview>
-
-{% include links.html %}
