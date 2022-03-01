@@ -88,7 +88,7 @@ See below how it easy to add Table or Chart:
 
 <img src="/media/user-guide/dcr_13.png" class="image-doc p-3">
 
-<center><iframe width="962" height="576" src="https://www.youtube.com/embed/mCVxZNOYL34?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style=""max-width:400px;max-height:240px"></iframe></center>
+<center><iframe width="962" height="576" src="https://www.youtube.com/embed/mCVxZNOYL34?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="max-width:400px;max-height:240px"></iframe></center>
 
 When you finish to customize your Data Card make it searchable for others. Follow next steps to do it:
 
@@ -100,7 +100,7 @@ When you finish to customize your Data Card make it searchable for others. Follo
 
 <img src="/media/user-guide/dcr_15.png" class="image-doc p-3">
 
-<center><iframe width="895" height="645" src="https://www.youtube.com/embed/jvQZkx2K8PA?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>=""style=""max-width:400px;max-height:240px"></iframe></center>
+<center><iframe width="895" height="645" src="https://www.youtube.com/embed/jvQZkx2K8PA?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="max-width:400px;max-height:240px"></iframe></center>
 
 Once you saved your changes you can see a ready Data Card:
 
@@ -113,14 +113,14 @@ You can also use other types of Queries such as:
 Search Query is used to create a query in a natural language. 
 See how to do it in the video below.
 
-<center><iframe width="962" height="577" src="https://www.youtube.com/embed/obV5KZPYT8k?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
+<center><iframe width="962" height="577" src="https://www.youtube.com/embed/obV5KZPYT8k?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="max-width:400px;max-height:240px"></iframe></center>
 
 **-** **Data**
 
 Data Query is used when it is necessary to add data manually. 
 See how to do it in the video below.
 
-<center><iframe width="962" height="583" src="https://www.youtube.com/embed/ijCbdvTKFYc?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
+<center><iframe width="962" height="583" src="https://www.youtube.com/embed/ijCbdvTKFYc?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="max-width:400px;max-height:240px"></iframe></center>
 
 **-** **SQL**
 
@@ -130,35 +130,35 @@ Data Query created using SQL program code
 
 **-** **Text** - is used to add any text to comment you Data Card
 
-<center><iframe width="962" height="599" src="https://www.youtube.com/embed/RYdtEOO6OtI?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
+<center><iframe width="962" height="599" src="https://www.youtube.com/embed/RYdtEOO6OtI?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="max-width:400px;max-height:240px"></iframe></center>
 
 **-** **List** - is used to represent data in a structured way
 
-<center><iframe width="962" height="605" src="https://www.youtube.com/embed/sPnhVVN3Bc0?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
+<center><iframe width="962" height="605" src="https://www.youtube.com/embed/sPnhVVN3Bc0?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="max-width:400px;max-height:240px"></iframe></center>
 
 **-** **Button** - is used to add clickable element
 
-<center><iframe width="962" height="602" src="https://www.youtube.com/embed/kT66u9YUiLg?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
+<center><iframe width="962" height="602" src="https://www.youtube.com/embed/kT66u9YUiLg?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="max-width:400px;max-height:240px"></iframe></center>
 
 **-** **Image** - is used to add visual content
 
-<center><iframe width="962" height="578" src="https://www.youtube.com/embed/QsDRAuXP6nU?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe>/center>
+<center><iframe width="962" height="578" src="https://www.youtube.com/embed/QsDRAuXP6nU?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="max-width:400px;max-height:240px"></iframe>/center>
 
 **-** **Compare**  - is used to compare results of two different queries. To use this Component you should have 2 queries created.
 
-<center><iframe width="962" height="579" src="https://www.youtube.com/embed/WBu25B9vrds?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe>/center>
+<center><iframe width="962" height="579" src="https://www.youtube.com/embed/WBu25B9vrds?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="max-width:400px;max-height:240px"></iframe>/center>
 
 **-** **Map** - is used to show your query results on map. To create a Map you need to add related data as longitude and latitude
 
-<center><iframe width="962" height="579" src="https://www.youtube.com/embed/uxQUCOrj7Tc?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe>/center>
+<center><iframe width="962" height="579" src="https://www.youtube.com/embed/uxQUCOrj7Tc?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="max-width:400px;max-height:240px"></iframe>/center>
 
 **-** **HTML** - is used to implement HTML code to enhance the Data Card. The code could be used for graphical reason (as shown in the picture below) but also for more practical ones.
 
-<center><iframe width="962" height="579" src="https://www.youtube.com/embed/5ah29BZlRak?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe>/center>
+<center><iframe width="962" height="579" src="https://www.youtube.com/embed/5ah29BZlRak?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="max-width:400px;max-height:240px"></iframe>/center>
 
 **-** **Widget**
 
-<center><iframe width="962" height="579" src="https://www.youtube.com/embed/Tthmu-SnTKo?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe>/center>
+<center><iframe width="962" height="579" src="https://www.youtube.com/embed/Tthmu-SnTKo?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="max-width:400px;max-height:240px"></iframe>/center>
 
 
  
