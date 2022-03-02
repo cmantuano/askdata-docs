@@ -23,7 +23,7 @@ How to add Dataset:
 
 3. Сhoose your **Workspace** 
 
-4. Сhoose a **file** **type** you would like to add 
+4. Сhoose a **Dataset** **type** you would like to add 
 
 <img src="/media/admin-guide/d_2.png" class="image-doc p-3">
 
@@ -50,7 +50,7 @@ Each Dataset to be connected in its own way. Use the **Data** **Integrations** s
 
 <img src="/media/admin-guide/d_4.png" class="image-doc p-3">
 
-Go to **Integrations** to learn more.
+Go to **Data** **Integrations** page to learn more.
 
 
 

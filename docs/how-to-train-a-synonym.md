@@ -7,7 +7,7 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-## Train a synonym
+**Train** **a** **synonym**
 
 **Synonyms** is an important field used to manually create synonyms to the data to increase data search probability. This means that when I query using the synonyms, the selected data will be displayed.
 

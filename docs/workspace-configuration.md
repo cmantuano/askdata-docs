@@ -23,8 +23,8 @@ Once Workspace is created you can configure it.
  - **Name**: Workspace Name
  - **Slug**: Name is written in small letters using underscore (for example, test_name)
  - **Description**: text providing information about Workspace
- - **Default** **language**: English or Italian
- - **Enabled** **languages**: English or Italian
+ - **Default** **language**: English
+ - **Enabled** **languages**: English/Italian/French
  - **Logo**: Image representing Workspace
  - **Welcome** **Message**: text to introduce a Workspace
  - **Help** **Message**: service text to be useful 
