@@ -38,20 +38,22 @@ Once the Dataset is connected you will be able to configure it ( change or enric
 
  - Enabled: Enable the column for queries
 
+<img src="/media/admin-guide/dconf_6.png" class="image-doc p-3">
+
 **Metadata**
 
  - Description: Description of the column
  - Sample Queries: Example of queries to be associated with the column
  - Icon: Change the icon of the column. Either pick one or upload yours.
 
-<img src="/media/admin-guide/dconf_6.png" class="image-doc p-3">
+<img src="/media/admin-guide/dconf_7.png" class="image-doc p-3">
 
 **NLP**
 
  - Mandatory: Set the column as mandatory.
  - Synonyms: Is an important field used to manually create synonyms to the data to increase data search probability. This means that when I query using the synonyms, the selected data will be displayed.
  
-<img src="/media/admin-guide/dconf_7.png" class="image-doc p-3">
+<img src="/media/admin-guide/dconf_8.png" class="image-doc p-3">
 
 **Output**
 
@@ -59,7 +61,7 @@ Once the Dataset is connected you will be able to configure it ( change or enric
  - Indexed With: Specify Technical key for the current column (only dimension) to optimise the query
  - Searchable: Make elements in the results clickable to narrow down the dataset
 
-<img src="/media/admin-guide/dconf_9.png" class="image-doc p-3">
+<img src="/media/admin-guide/dconf_10.png" class="image-doc p-3">
 
 **Formatting**
 
@@ -71,7 +73,7 @@ Formatting is a very important tab to work with data format.
  - Number Locale: Set the region you are number refers to: us, en, it or fr.
  - Default Time Dimension for Measure - select the Default Time Dimension column for being used for  measure
 
-<img src="/media/admin-guide/dconf_10.png" class="image-doc p-3">
+<img src="/media/admin-guide/dconf_11.png" class="image-doc p-3">
 
 **Date** **formatting**:
 
@@ -81,11 +83,11 @@ Formatting is a very important tab to work with data format.
  - Is Default Date Column: Yes or No
  - Value Formatting: Custom Javascript expression to format the values in the column. Must return a string. 
 
-<img src="/media/admin-guide/dconf_12.png" class="image-doc p-3">
+<img src="/media/admin-guide/dconf_13.png" class="image-doc p-3">
 
 **Data**
 
-<img src="/media/admin-guide/dconf_14.png" class="image-doc p-3">
+<img src="/media/admin-guide/dconf_15.png" class="image-doc p-3">
 
 **Dynamic**
 
@@ -98,7 +100,7 @@ Formatting is a very important tab to work with data format.
  - Default Injections: Set another column to be shown with (i.e. when I query sales also show the year, without specifying the word year). Applied when no other dimensions and measures are requested
  - Injections: Set another column to be shown with (i.e. when I query sales also show the year, without specifying the word year). Always applied
 
-<img src="/media/admin-guide/dconf_15.png" class="image-doc p-3">
+<img src="/media/admin-guide/dconf_16.png" class="image-doc p-3">
 
 **GEO**
 
@@ -109,11 +111,11 @@ Formatting is a very important tab to work with data format.
  - Key from external resource: The name of the field in the external resource that contains the join field
  - Value Formatting: Instructions on how to format the values
 
-<img src="/media/admin-guide/dconf_16.png" class="image-doc p-3">
+<img src="/media/admin-guide/dconf_17.png" class="image-doc p-3">
 
 **Value**
 
-<img src="/media/admin-guide/dconf_17.png" class="image-doc p-3">
+<img src="/media/admin-guide/dconf_18.png" class="image-doc p-3">
 
 6. Once is done click **Save** to finish your data configuration.
 
