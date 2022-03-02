@@ -7,26 +7,45 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-## Training the Askdata agent
+## Train a synonym
 
-Open the Askdata Console and select one agent where you have admin rights.
+**Synonyms** is an important field used to manually create synonyms to the data to increase data search probability. This means that when I query using the synonyms, the selected data will be displayed.
 
-In the datasets, section click on the dataset related to the measures or dimensions that you want to train with a new synonym.
+##How to add Synonyms:
 
-After the opening of the contextual modal click on **Schema**.
+1. Go to your **Workspace** and choose the **Dataset**
 
-Click on the entity (dimension) or measure that you want to train with an additional synomym and add them in the “Synonyms” fields. Synonyms are not case sensitive.
+<img src="/media/admin-guide/s_1.png" class="image-doc p-3">
 
-!["updating name and adding synonyms"](media/updating_name_and_adding_sysnonyms.gif)
+2. Click on the selected **Dataset**.
 
-*Suggestion: to avoid confusion always add the measure\metric name in the list of available synonyms*
+3. Go to **Schema** and choose data you would like to add synonyms to.
 
-*You can also add a synonym for specific values eg. to add the synonym "Great Apple" to the value "New York" inside the dimension "Cities".* 
+<img src="/media/admin-guide/s_2.png" class="image-doc p-3">
 
-*In that case, you have to set the "Import Values" setting to true in the dimension and save. And, check the list of values in the "View values" section in the related dimension.*
+4. Go to column **NLP** 
 
-** Automated Synonyms generation **
+<img src="/media/admin-guide/s_3.png" class="image-doc p-3">
 
-The field can contains different business logics
+5. Add **new** **item** into the field Synonyms
 
-More information: (here)[/docs/dataset_parameter_synonyms_generator/]
+<img src="/media/admin-guide/s_4.png" class="image-doc p-3">
+
+6. Click **Save**
+
+<img src="/media/admin-guide/s_5.png" class="image-doc p-3">
+
+Once synonym is added you will see it in the list.
+
+<img src="/media/admin-guide/s_6.png" class="image-doc p-3">
+
+
+
+
+
+
+
+
+
+
+
