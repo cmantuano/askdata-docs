@@ -7,24 +7,24 @@ sidebar: mydoc_sidebar
 layout: doc
 
 ---
+## CSV Integration 
 
-In order to create a new dataset you need to have a new workspace set up. If you don't have one already, follow this guide.
+How to add data from CSV file:
 
-# Dataset Configuration
+1. Click on the **Connection** button
 
-When you add a new CSV dataset you need to provide up to 4 settings in the configuration form.
+2. Choose and upload **CSV** **file** from your computer
 
-### Econding:
-UTF-8 is the modern way of encoding file and the standard for most products
+3. Select **Encoding** and **Separator**
 
-### Separator:
-Every CSV has a char that identify the separator. The default is usually the comma , or the semicolumn ; 
+UTF-8 is the modern way of encoding file and the standard for most products. Every CSV has a char that identify the separator. The default is usually the comma , or the semicolumn ; Some CSV could optionally show e separator of thousands. Default is None.
 
-### Thousands Separator:
-Some CSV could optionally show e separator of thousands. Default is None
+4. Click **Save** to proceed
+
+5. Click on **Pen** close to CSV icon to rename Dataset and Slug name (Dataset name written in small letters with underscores)
 
 ### Special processing commands:
-Python code that are run before loading the CSV that let the users to apply some clearning or transformation
+Python code that are run before loading the CSV that let the users to apply some cleaning or transformation
 
 ### How to avoid importing errors
 - Consider only tabular data with one level of header
