@@ -13,11 +13,11 @@ Askdata uses a JDBC connection to communicate with the MySQL data-sources.
 
 To add MySQL Dataset:
 
-1. Choose MySQL Dataset type from the list:
+1. Choose **MySQL** Dataset type from the list:
 
 <img src="/media/admin-guide/sql_1.png" class="image-doc p-3">
 
-2. Add **Host**/**Port**/**Schema**/**Username*/**Password** and click **Load** **Tables**:
+2. Add **Host**/**Port**/**Schema**/**Username**/**Password** and click **Load** **Tables**:
 
  - Host with the domain or the IP of the server, 
  - Port with the connecting port (3030)
