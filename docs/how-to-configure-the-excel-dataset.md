@@ -11,15 +11,29 @@ layout: doc
 
 When you add a new Excel dataset you need to provide the file. The procedure will import of the first sheet of the Excel file, do not import format different the tabular data.
 
+To add Excel Dataset:
+
+1. Choose Excel Dataset type from the list:
+
+<img src="/media/admin-guide/xls_1.png" class="image-doc p-3">
+
 1. Click on the **Connection** button
+
+<img src="/media/admin-guide/xls_2.png" class="image-doc p-3">
 
 2. Choose and upload **Excel** **file** from your computer
 
 3. Click **Save** to proceed
 
+<img src="/media/admin-guide/xls_3.png" class="image-doc p-3">
+
+Once Dataset is added you will see a successful message:
+
+<img src="/media/admin-guide/xls_4.png" class="image-doc p-3">
+
 4. Click on **Pen** symbol close to Excel icon to rename a Dataset
  
-5. Change a **Slug** **Name** (it will be Dataset name written in small letters with underscores)
+5. Change a **Slug** **Name** (it will be a Dataset name written in small letters with underscores)
 
 Watch this short video explaining how to add Excel Dataset:
 

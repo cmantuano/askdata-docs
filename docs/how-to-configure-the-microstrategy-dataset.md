@@ -31,5 +31,11 @@ To add MicroStrategy Dataset:
 
 7. Select **Requires** **authentication**: Yes/No
 
-6. Click **Save** to add Dataset and continue working with it.
+8. Click **Save** to add Dataset and continue working with it.
+
+9. Click on **Pen** symbol close to Excel icon to rename a Dataset
+ 
+10. Change a **Slug** **Name** (it will be a Dataset name written in small letters with underscores)
+
+
 

@@ -9,17 +9,29 @@ layout: doc
 ---
 ## CSV Integration 
 
-How to add data from CSV file:
+To add CSV Dataset:
 
-1. Click on the **Connection** button
+1. Choose Excel Dataset type from the list:
 
-2. Choose and upload **CSV** **file** from your computer
+<img src="/media/admin-guide/csv_1.png" class="image-doc p-3">
 
-3. Select **Encoding** and **Separator**
+2. Click on the **Connection** button
+
+<img src="/media/admin-guide/csv_2.png" class="image-doc p-3">
+
+3. Choose and upload **CSV** **file** from your computer
+
+4. Select **Encoding** and **Separator**
 
 UTF-8 is the modern way of encoding file and the standard for most products. Every CSV has a char that identify the separator. The default is usually the comma , or the semicolumn ; Some CSV could optionally show e separator of thousands. Default is None.
 
 4. Click **Save** to proceed
+
+<img src="/media/admin-guide/csv_3.png" class="image-doc p-3">
+
+Once Dataset is added you will see a successful message:
+
+<img src="/media/admin-guide/csv_4.png" class="image-doc p-3">
 
 5. Click on **Pen** close to CSV icon to rename Dataset and Slug name (Dataset name written in small letters with underscores)
 

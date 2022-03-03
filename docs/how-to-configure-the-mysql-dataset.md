@@ -30,11 +30,15 @@ To add MySQL Dataset:
 
 **!** **Follow** **"i"** **information** **for** **guidance**. 
 
-4. Clicl **Load** **Tables**
+4. Click **Load** **Tables**
 
 5. Select the Table you want to import from the **Table** dropdown menu
 
 6. Click **Save** to add Dataset and continue working with it.
+
+7. Click on **Pen** symbol if you want to rename a Dataset
+ 
+8. Change a **Slug** **Name** (it will be a Dataset name written in small letters with underscores)
 
 
 
