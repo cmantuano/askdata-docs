@@ -11,7 +11,7 @@ layout: doc
 
 To add PostgreSQL Dataset:
 
-1. Choose PostgreSQL Dataset type from the list:
+1. Choose **PostgreSQL** **Dataset** type from the list:
 
 <img src="/media/admin-guide/postgre_1.png" class="image-doc p-3">
 
@@ -19,17 +19,17 @@ To add PostgreSQL Dataset:
 
 **!** **Follow** **"i"** **information** **for** **guidance**.
 
-4. Click **Load** **Tables**
+3. Click **Load** **Tables**
 
-5. Select the Table you want to import from the **Table** dropdown list
+4. Select the Table you want to import from the **Table** dropdown list
 
-6. Click **Save** to add Dataset and continue working with it.
+5. Click **Save** to add Dataset and continue working with it.
 
 <img src="/media/admin-guide/postgre_2.png" class="image-doc p-3">
 
-7. Click on **Pen** symbol if you want to rename a Dataset
+6. Click on **Pen** symbol if you want to rename a Dataset
  
-8. Change a **Slug** **Name** (it will be a Dataset name written in small letters with underscores)
+7. Change a **Slug** **Name** (it will be a Dataset name written in small letters with underscores)
 
 
 
