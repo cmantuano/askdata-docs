@@ -17,18 +17,16 @@ To add MySQL Dataset:
 
 <img src="/media/admin-guide/sql_1.png" class="image-doc p-3">
 
-2. Add all required inputs below:
-
-<img src="/media/admin-guide/sql_2.png" class="image-doc p-3">
-
-3. Add **Host**/**Port**/**Schema**/**Username*/**Password** and click **Load** **Tables**:
+2. Add **Host**/**Port**/**Schema**/**Username*/**Password** and click **Load** **Tables**:
 
  - Host with the domain or the IP of the server, 
  - Port with the connecting port (3030)
  - Schema name
  - Username and password credentials
 
-**!** **Follow** **"i"** **information** **for** **guidance**. 
+**!** **Follow** **"i"** **information** **for** **guidance**.
+
+<img src="/media/admin-guide/sql_2.png" class="image-doc p-3"> 
 
 4. Click **Load** **Tables**
 

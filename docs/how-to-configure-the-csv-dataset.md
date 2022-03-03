@@ -11,7 +11,7 @@ layout: doc
 
 To add CSV Dataset:
 
-1. Choose Excel Dataset type from the list:
+1. Choose CSV Dataset type from the list:
 
 <img src="/media/admin-guide/csv_1.png" class="image-doc p-3">
 
