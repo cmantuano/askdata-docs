@@ -7,9 +7,29 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-## Askdata Video Demo
-Check the following tutorial, to learn more about Askdata end-to-end. 
-[![Askdata Tutorial](https://img.youtube.com/vi/uEc9ogi2-10/0.jpg)](https://youtu.be/uEc9ogi2-10) 
+## MicroStrategy Dataset
 
-{% include links.html %}
+To add MicroStrategy Dataset:
+
+1. Choose MicroStrategy Dataset type from the list:
+
+<img src="/media/admin-guide/microst_1.png" class="image-doc p-3">
+
+2. Add all required inputs below:
+
+**!** **Follow** **"i"** **information** **for** **guidance**. 
+
+<img src="/media/admin-guide/miscrost_2.png" class="image-doc p-3">
+
+3. Add Link to MicroStrategy Library, Username and password credentials
+
+4. Click **Load** **projects**
+
+5. Select the Project you want to import from the **Project** dropdown menu
+
+6. Select **Cube**
+
+7. Select **Requires** **authentication**: Yes/No
+
+6. Click **Save** to add Dataset and continue working with it.
 
