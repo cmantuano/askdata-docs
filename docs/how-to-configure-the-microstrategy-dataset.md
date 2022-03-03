@@ -19,7 +19,7 @@ To add MicroStrategy Dataset:
 
 **!** **Follow** **"i"** **information** **for** **guidance**. 
 
-<img src="/media/admin-guide/miscrost_2.png" class="image-doc p-3">
+<img src="/media/admin-guide/microst_2.png" class="image-doc p-3">
 
 3. Add Link to MicroStrategy Library, Username and password credentials
 
