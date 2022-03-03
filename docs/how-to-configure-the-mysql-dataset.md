@@ -8,15 +8,35 @@ layout: doc
 ---
 
 ### MySQL Dataset
-Askdata uses a JDBC connection to communicate with the MySQL data-sources
 
-#### Host
-- with the domain or the IP of the server, 
-- Port with the connecting port (3030)
-- Schema name
+Askdata uses a JDBC connection to communicate with the MySQL data-sources.
 
-#### Credentials
-- Username and password credentials
+To add MySQL Dataset:
 
-#### Choose the Table
-- Fill also the credentials and hit the "Load Tables" to select the table you want to import from the "Table" dropdown, click on Save.
+1. Choose MySQL Dataset type from the list:
+
+<img src="/media/admin-guide/sql_1.png" class="image-doc p-3">
+
+2. Add all required inputs below:
+
+<img src="/media/admin-guide/sql_2.png" class="image-doc p-3">
+
+3. Add **Host**/**Port**/**Schema**/**Username*/**Password** and click **Load** **Tables**:
+
+ - Host with the domain or the IP of the server, 
+ - Port with the connecting port (3030)
+ - Schema name
+ - Username and password credentials
+
+**!** **Follow** **"i"** **information** **for** **guidance**. 
+
+4. Clicl **Load** **Tables**
+
+5. Select the Table you want to import from the **Table** dropdown menu
+
+6. Click **Save** to add Dataset and continue working with it.
+
+
+
+
+
