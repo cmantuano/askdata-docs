@@ -9,7 +9,7 @@ layout: doc
 
 ## Advanced Channel Configuration
 
-This section provides support to configure Askdata with custom messaging digital properties such as Microsoft Skype and Facebook Messenger.
+This section provides support to configure Askdata with custom messaging digital properties such as Microsoft Teams and Slack.
 
 * [Confgure custom channel: MS Teams](/docs/configure-custom-channel-ms-teams)
 * [Confgure custom channel: Slack](/docs/configure-custom-channel-slack)
