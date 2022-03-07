@@ -49,6 +49,8 @@ Learn how to configure other channels
 
 Learn about our workflow tasks and how to execute them
 
+##### [Dataset Settings](/docs/dataset-settings)
+
 {% include links.html %}
 
     
