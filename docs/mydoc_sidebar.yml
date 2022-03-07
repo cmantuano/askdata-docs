@@ -75,6 +75,10 @@ entries:
     - title: Data Integrations
       url: docs/data-integrations
       output: web, pdf
+      
+    - title: Dataset settings
+      url: docs/dataset-settings
+      output: web, pdf
 
     - title: Configure your Dataset
       url: docs/how-to-configure-your-dataset
@@ -87,13 +91,13 @@ entries:
     - title: Advanced Filter Configuration
       url: docs/dataset-filters-configuration
       output: web, pdf
-
-    - title: Configure other channels
-      url: docs/advanced-configuration-other-channels
-      output: web, pdf
-    
+   
     - title: Workflow Tasks
       url: docs/tasks
+      output: web, pdf
+      
+    - title: Configure other channels
+      url: docs/advanced-configuration-other-channels
       output: web, pdf
 
   - title: Video & Demo
