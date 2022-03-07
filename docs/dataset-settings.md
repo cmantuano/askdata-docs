@@ -7,19 +7,17 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-## Data Integrations
+## Dataset Settings
 
-Every datasource has its own special features.
+We have crafted specific guides for all settings available for Dataset configuration:
 
-We have crafted specific guides for all the different sources:
+- [Overview](docs/dataset-overview)
+- [Schema](/docs/how-to-configure-your-dataset)
+- [Rules](/docs/dataset-filters-configuration)
+- [Export](docs/dataset-export)
+- [Workflow](docs/tasks)
+- [Relationships](/docs/dataset-relationships)
+- [Log](/docs/dataset-log)
 
-- [Excel](/docs/how-to-configure-the-excel-dataset)
-- [CSV](/docs/how-to-configure-the-csv-dataset)
-- [MySQL](docs/how-to-configure-the-mysql-dataset)
-- [MicroStrategy](docs/how-to-configure-the-microstrategy-dataset)
-- [BigQuery](/docs/how-to-configure-the-big-query-dataset)
-- [Create a Data Table](/docs/how-to-configure-the-data-table-dataset)
-- [Looker](/docs/how-to-configure-the-looker-dataset)
-- [PostgreSQL](/docs/how-to-configure-the-postgre-dataset)
 
-You don't find your data-source? Just contact us support@askdata.com.
+
