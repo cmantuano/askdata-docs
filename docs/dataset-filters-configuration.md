@@ -7,9 +7,11 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-## Dataset: Rules
+## Dataset: **Rules**
 
-This document provides examples of advanced dataset configuration deploying a business logic rule to a dataset
+Once the Dataset is connected you will be able to configure it.
+
+Dataset settings available on **Rules** tab provides examples of advanced dataset configuration deploying a business logic rule to a dataset:
 
 ### Sorting rules
 

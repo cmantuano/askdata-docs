@@ -7,4 +7,8 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-## Dataset Relationships
+## Dataset: **Relationships**
+
+Once the Dataset is connected you will be able to configure it.
+
+Learn more about Dataset settings available on **Relationships** tab:

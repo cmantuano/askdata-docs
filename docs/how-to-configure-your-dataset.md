@@ -7,9 +7,11 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-## Configure your dataset
+## Dataset: **Schema**
 
-Once the Dataset is connected you will be able to configure it ( change or enrich your data).
+Once the Dataset is connected you will be able to configure it.
+
+Learn more about Dataset settings available on **Schema** tab:
 
 1. Go to your **Workspace** and choose the **Dataset** you would like to configure 
 

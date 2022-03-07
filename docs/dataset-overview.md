@@ -7,4 +7,10 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-## Dataset Overview
+## Dataset: **Overview**
+
+Once the Dataset is connected you will be able to configure it.
+
+First of all explore your Dataset by using **Overview** tab:
+
+
