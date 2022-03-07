@@ -64,7 +64,7 @@ entries:
       url: docs/how-to-create-an-askdata-workspace
       output: web, pdf
       
-    - title: Workspace configuration
+    - title: Configure a workspace
       url: docs/workspace-configuration
       output: web, pdf
 
@@ -78,6 +78,10 @@ entries:
       
     - title: Dataset settings
       url: docs/dataset-settings
+      output: web, pdf
+      
+    - title: Configure other channels
+      url: docs/advanced-configuration-other-channels
       output: web, pdf
 
     - title: Configure your Dataset
@@ -96,10 +100,6 @@ entries:
       url: docs/tasks
       output: web, pdf
       
-    - title: Configure other channels
-      url: docs/advanced-configuration-other-channels
-      output: web, pdf
-
   - title: Video & Demo
     output: web, pdf
 
