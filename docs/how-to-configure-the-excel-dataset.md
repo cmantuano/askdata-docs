@@ -37,6 +37,9 @@ Once Dataset is added you will see a successful message:
 
 Watch this short video explaining how to add Excel Dataset:
 
+<center><iframe width="748" height="477" src="https://www.youtube.com/embed/EtNIE7Vd1v8?list=PLe5TubJ50d1lR9XDFYazW3a6NJBLhci4W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
+
+
 
 ### How to avoid importing errors
 - Avoid using ' and / and \ in the columns name

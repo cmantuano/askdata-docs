@@ -35,6 +35,10 @@ Once Dataset is added you will see a successful message:
 
 5. Click on **Pen** close to CSV icon to rename Dataset and Slug name (Dataset name written in small letters with underscores)
 
+Watch this short video explaining how to add CSV Dataset:
+
+<center><iframe width="748" height="456" src="https://www.youtube.com/embed/9m840Umcrmo?list=PLe5TubJ50d1lR9XDFYazW3a6NJBLhci4W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
+
 ### Special processing commands:
 Python code that are run before loading the CSV that let the users to apply some cleaning or transformation
 
