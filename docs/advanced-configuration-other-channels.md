@@ -12,6 +12,6 @@ layout: doc
 This section provides support to configure Askdata with custom messaging digital properties such as Microsoft Skype and Facebook Messenger.
 
 * [Confgure custom channel: MS Teams](/docs/configure-custom-channel-ms-teams)
-* [Confgure custom channel: Slack](/docs/configure-custom-slack)
+* [Confgure custom channel: Slack](/docs/configure-custom-channel-slack)
 ‍
-{% include links.html %}
+
