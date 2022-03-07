@@ -55,6 +55,8 @@ Once the Dataset is connected you will be able to configure it ( change or enric
  
 <img src="/media/admin-guide/dconf_8.png" class="image-doc p-3">
 
+<center><iframe width="748" height="464" src="https://www.youtube.com/embed/fkvlFwizPf4?list=PLe5TubJ50d1lR9XDFYazW3a6NJBLhci4W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
+
 **Output**
 
  - Aggregation: Set an aggregation function among AVG, MIN, MAX and SUM
@@ -75,6 +77,8 @@ Formatting is a very important tab to work with data format.
 
 <img src="/media/admin-guide/dconf_11.png" class="image-doc p-3">
 
+<center><iframe width="748" height="463" src="https://www.youtube.com/embed/ELvkzkty7xo?list=PLe5TubJ50d1lR9XDFYazW3a6NJBLhci4W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
+
 **Date** **formatting**:
 
  - Is Date: Yes if this column is a date
@@ -84,6 +88,8 @@ Formatting is a very important tab to work with data format.
  - Value Formatting: Custom Javascript expression to format the values in the column. Must return a string. 
 
 <img src="/media/admin-guide/dconf_13.png" class="image-doc p-3">
+
+<center><iframe width="748" height="461" src="https://www.youtube.com/embed/XNjmlJbLtn4?list=PLe5TubJ50d1lR9XDFYazW3a6NJBLhci4W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>=""style="max-width:400px;max-height:240px"</iframe></center>
 
 **Data**
 
@@ -118,6 +124,11 @@ Formatting is a very important tab to work with data format.
 <img src="/media/admin-guide/dconf_18.png" class="image-doc p-3">
 
 6. Once is done click **Save** to finish your data configuration.
+
+Watch this short video explaining how to configure your Dataset:
+
+<center><iframe width="748" height="459" src="https://www.youtube.com/embed/V4YW8vZh_6w?list=PLe5TubJ50d1lR9XDFYazW3a6NJBLhci4W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></iframe></center>
+
 
 
 
