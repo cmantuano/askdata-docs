@@ -9,7 +9,9 @@ layout: doc
 
 ## Dataset Settings
 
-We have crafted specific guides for all settings available for Dataset configuration:
+We have created specific guides for all settings available for Dataset configuration.
+
+Follow below links to explore Dataset configuration tabs:
 
 - [Overview](docs/dataset-overview)
 - [Schema](/docs/how-to-configure-your-dataset)
