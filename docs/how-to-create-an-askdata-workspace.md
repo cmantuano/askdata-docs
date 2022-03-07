@@ -29,3 +29,5 @@ To create a Workspace:
 Once Workspace is created user will see the following screen:
 
 <img src="/media/admin-guide/w_3.png" class="image-doc p-3">
+
+<center><iframe width="962" height="601" src="https://www.youtube.com/embed/8Vwyq8pViKM?list=PLe5TubJ50d1lBVaiC9qMWvMil94JC1onw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
