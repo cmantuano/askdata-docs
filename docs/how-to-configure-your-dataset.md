@@ -89,7 +89,7 @@ Formatting is a very important tab to work with data format.
 
 <img src="/media/admin-guide/dconf_13.png" class="image-doc p-3">
 
-<center><iframe width="748" height="461" src="https://www.youtube.com/embed/XNjmlJbLtn4?list=PLe5TubJ50d1lR9XDFYazW3a6NJBLhci4W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>=""style="max-width:400px;max-height:240px"</iframe></center>
+<center><iframe width="748" height="461" src="https://www.youtube.com/embed/XNjmlJbLtn4?list=PLe5TubJ50d1lR9XDFYazW3a6NJBLhci4W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
 
 **Data**
 

@@ -34,6 +34,6 @@ We recommend you at least to add some basic settings to make your Workspace more
 
 3. Click **Save** to proceed
 
-<center><iframe width="748" height="444" src="https://www.youtube.com/embed/bb1Ea90XMio?list=PLe5TubJ50d1lR9XDFYazW3a6NJBLhci4W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"></iframe></center>
+<center><iframe width="748" height="444" src="https://www.youtube.com/embed/p-3uRCCvoTM?list=PLe5TubJ50d1lR9XDFYazW3a6NJBLhci4W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""style="max-width:400px;max-height:240px"</iframe></center>
 
 
