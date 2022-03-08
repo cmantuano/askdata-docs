@@ -9,6 +9,6 @@ layout: doc
 
 ## Dataset: **Log**
 
-Once the Dataset is connected you will be able to configure it.
+Dataset Log is used to provide information on all actions executed with current Dataset.
 
-Learn more about Dataset settings available on **Log** tab:
+<img src="/media/admin-guide/dslog_1.png" class="image-doc p-3">
