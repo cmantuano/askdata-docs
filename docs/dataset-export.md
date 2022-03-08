@@ -9,6 +9,8 @@ layout: doc
 
 ## Dataset: **Export**
 
-Once the Dataset is connected you will be able to configure it.
+**Export** tab is used to get a piece of API code to be used for working in Python. 
 
-Learn more about Dataset settings available on **Export** tab:
+Click **Copy** **code** as shown below:
+
+<img src="/media/admin-guide/dsex_1.png" class="image-doc p-3">
