@@ -7,13 +7,9 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-## SDK Section
-
-<img src="https://askdata.com/assets/images/core/askdata-small-black.png" style="max-width:200px" />
-
 ### Python SDK
 
-The Askdata team has developed an handy Python SDK that can be installed with one line of code.
+The Askdata team has developed a handy Python SDK that can be installed with one line of code.
 
 * [Python SDK Guide](docs/askdata-python-sdk)
 
