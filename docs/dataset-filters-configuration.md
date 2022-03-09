@@ -9,9 +9,7 @@ layout: doc
 
 ## Dataset: **Rules**
 
-Once the Dataset is connected you will be able to configure it.
-
-Dataset settings available on **Rules** tab provides examples of advanced dataset configuration deploying a business logic rule to a dataset:
+**Rules** tab provides examples of advanced dataset configuration deploying a business logic rule to a dataset:
 
 ### Sorting rules
 

@@ -9,7 +9,9 @@ layout: doc
 
 ## Dataset: **Schema**
 
-Once the Dataset is connected you will be able to configure it.
+Once the Dataset is connected you will be able to configure it. 
+
+**Schema** contains Dataset metadata details and tools for data change.
 
 Learn more about Dataset settings available on **Schema** tab:
 
