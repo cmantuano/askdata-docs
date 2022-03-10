@@ -7,7 +7,7 @@ sidebar: mydoc_sidebar
 layout: doc
 ---
 
-##Search Suggestions
+## Search Suggestions
 
 **Search** **suggestions** include some useful options aiming to simplify your search. 
 
