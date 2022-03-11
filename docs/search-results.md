@@ -90,15 +90,15 @@ Use **+** to add a sort, use **х** to remove the sort.
 
 Choose Sort Descending or Ascending and click **Done** to save changes.
 
-<img src="/media/user-guide/searchres_16.png" class="image-doc p-3" 
+<img src="/media/user-guide/searchres_16.png" class="image-doc p-3"> 
 
-<img src="/media/user-guide/searchres_17.png" class="image-doc p-3" 
+<img src="/media/user-guide/searchres_17.png" class="image-doc p-3"> 
 
 **Chart**
 
 Choose data representation from the listed Chart types.
 
-<img src="/media/user-guide/searchres_18.png" class="image-doc p-3" 
+<img src="/media/user-guide/searchres_18.png" class="image-doc p-3"> 
 
 Click **Apply** when you finish all your changes.
 
