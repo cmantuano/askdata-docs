@@ -1,5 +1,5 @@
 ---
-title: Searching data
+title: Search Suggestions
 keywords: documentation
 last_updated: October 15th, 2020
 tags: [getting-started]
