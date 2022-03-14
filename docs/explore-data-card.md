@@ -15,7 +15,7 @@ When you click on the searched Data Card result you will find different actions 
 
  - **Author**
  - Data Card **Release Date**
- - **Datasets* used form this Data Card
+ - **Datasets** used form this Data Card
  - Related **Feed**
 
 <img src="/media/user-guide/expdc_1.png" class="image-doc p-3">
@@ -30,19 +30,19 @@ From this view click on **Download** **Image** if you want to download search Da
 
 Also you can see **Related** **Data** **Cards** if any.
 
-<img src="/media/user-guide/exploredc_4.png" class="image-doc p-3">
+<img src="/media/user-guide/expdc_4.png" class="image-doc p-3">
 
 2. **More** **actions** **with** **Data** **Cards**
 
 Data card use different collaboration tools.
 
-<img src="/media/user-guide/exploredc_5.png" class="image-doc p-3">
+<img src="/media/user-guide/expdc_5.png" class="image-doc p-3">
 
 **CLONE**
 
 Click on Clone button to create a copy of search Data Card
 
-<img src="/media/user-guide/exploredc_6.png" class="image-doc p-3">
+<img src="/media/user-guide/expdc_6.png" class="image-doc p-3">
 
 **LIKE**
 
@@ -54,7 +54,7 @@ Often we would like to share Data Cards which can be interesting to other users.
 
 Click on **Share** **-** **>** **Share** **to** **a** **Contact**
 
-<img src="/media/user-guide/exploredc_7.png" class="image-doc p-3">
+<img src="/media/user-guide/expdc_7.png" class="image-doc p-3">
 
 **DOWNLOAD**
 
@@ -62,7 +62,7 @@ You can download Data Card and share its content in a classic way.
 
 To download a Data Card click on **Download** icon and export image.
 
-<img src="/media/user-guide/exploredc_8.png" class="image-doc p-3">
+<img src="/media/user-guide/expdc_8.png" class="image-doc p-3">
 
 **COMMENT**
 
