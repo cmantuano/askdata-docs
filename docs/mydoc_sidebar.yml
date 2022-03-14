@@ -40,7 +40,7 @@ entries:
       url: docs/your-first-usage
       output: web, pdf
 
-    - title: Searching Data
+    - title: Searching data
       url: docs/searching-data
       output: web, pdf
       
@@ -56,7 +56,7 @@ entries:
       url: docs/how-to-create-a-data-card
       output: web, pdf
 
-    - title: Be productive with Feeds
+    - title: Working with Feeds
       url: docs/be-productive-with-feeds
       output: web, pdf
 
