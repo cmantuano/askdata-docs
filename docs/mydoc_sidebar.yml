@@ -43,6 +43,14 @@ entries:
     - title: Searching Data
       url: docs/searching-data
       output: web, pdf
+      
+    - title: Search suggestions
+      url: docs/search-suggestions
+      output: web, pdf
+      
+    - title: Search results
+      url: docs/search-results
+      output: web, pdf
 
     - title: How to create a Data Card
       url: docs/how-to-create-a-data-card
