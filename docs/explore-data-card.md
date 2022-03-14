@@ -11,7 +11,7 @@ layout: doc
 
 When you click on the searched Data Card result you will find different actions can be performed with Data Card.
 
-1. **Data** **Card** **information**:
+**1.** **Data** **Card** **information**:
 
  - **Author**
  - Data Card **Release Date**
@@ -32,7 +32,7 @@ Also you can see **Related** **Data** **Cards** if any.
 
 <img src="/media/user-guide/expdc_4.png" class="image-doc p-3">
 
-2. **More** **actions** **with** **Data** **Cards**
+**2.** **More** **actions** **with** **Data** **Cards**
 
 Data card use different collaboration tools.
 
