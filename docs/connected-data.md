@@ -16,7 +16,7 @@ You will see **All** **datasets** available.
 
 <img src="/media/admin-guide/condata_1.png" class="image-doc p-3">
 
-Before you start making changes/formatting data you will need to to explore data.
+Before you start making changes/formatting data you will need to explore data.
 
 Select the Dataset you want to explore by clicking on it.
 
@@ -38,11 +38,14 @@ More details on the Results tab you can find in **Dataset**: **Overview** Sectio
 
 When you have already decided what data you want to change you will need to go to **Schema**.
 
-<img src="/media/admin-guide/condata_4.png" class="image-doc p-3">
-
 This tab contains Dataset metadata details and tools for data change.
 
-Choose the data you would like to work with and click on it. Work with available parameters on the following tabs:
+Choose the data you would like to work with and click on it.
+
+<img src="/media/admin-guide/condata_4.png" class="image-doc p-3">
+
+Work with available parameters on the following tabs:
+
  - **Main**
  - **Manage**
  - **Metadata**
