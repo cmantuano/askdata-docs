@@ -51,6 +51,10 @@ entries:
     - title: Search results
       url: docs/search-results
       output: web, pdf
+      
+    - title: Explore Searched Data Card
+      url: docs/explore-data-card
+      output: web, pdf 
 
     - title: How to create a Data Card
       url: docs/how-to-create-a-data-card
