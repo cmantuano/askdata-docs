@@ -88,7 +88,7 @@ Use **+** to add a sort, use **х** to remove the sort.
 
 <img src="/media/user-guide/searchres_15.png" class="image-doc p-3">
 
-Choose Sort Descending or Ascending and click **Done** to save changes.
+Choose Sort **Descending** or **Ascending** and click **Done** to save changes.
 
 <img src="/media/user-guide/searchres_16.png" class="image-doc p-3"> 
 
@@ -99,6 +99,8 @@ Choose Sort Descending or Ascending and click **Done** to save changes.
 Choose data representation from the listed Chart types.
 
 <img src="/media/user-guide/searchres_18.png" class="image-doc p-3"> 
+
+Follow same rules to add **Pivot** or **Join** **data** from another Dataset.
 
 Click **Apply** when you finish all your changes.
 

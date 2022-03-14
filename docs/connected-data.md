@@ -34,7 +34,7 @@ Use the following tools allowing you to work with dataset preview:
  - **Pivot**
  - **Chart**
 
-More details on the Results tab you can find in **Dataset**: **Overview** Section.
+More details on the Results tab you can find in [Dataset:Overview](/docs/dataset-overview).
 
 When you have already decided what data you want to change you will need to go to **Schema**.
 
@@ -57,7 +57,7 @@ Work with available parameters on the following tabs:
  - **GEO**
  - **Value**
 
-Follow detailed instructions in **Dataset**: **Schema** Section to change data.
+Follow detailed instructions in [Dataset:Schema](/docs/how-to-configure-your-dataset) to change data.
 
 Once all changes are done click **Save** to finish your data configuration.
 
