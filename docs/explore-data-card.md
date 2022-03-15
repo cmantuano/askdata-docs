@@ -72,6 +72,46 @@ Users can add one or more comments. Add your comment to a text box and click **S
 
 Find more details about Askdata collaboration tool in [Working with others](/docs/working-with-others).
 
+3. Tools for working with Data Card view.
+
+<img src="/media/user-guide/searchres_1.png" class="image-doc p-3">
+
+Click on the arrow to open the built-in tools menu to change settings and create your data view.
+
+<img src="/media/user-guide/searchres_2.png" class="image-doc p-3">
+
+**Fields**
+
+Use **+** to add fields, use **х** to remove fields. Use **Remove all** to clear all selected data. 
+
+<img src="/media/user-guide/searchres_3.png" class="image-doc p-3">
+
+**Filter**
+
+Use **+** to add a filter, use **х** to remove the filter. Select **Add** **OR** to set a filter condition. 
+
+<img src="/media/user-guide/searchres_4.png" class="image-doc p-3">
+
+**Sort**
+
+Use **+** to add a sort, use **х** to remove the sort.
+
+<img src="/media/user-guide/searchres_15.png" class="image-doc p-3">
+
+**Chart**
+
+Choose data representation from the listed Chart types.
+
+<img src="/media/user-guide/searchres_18.png" class="image-doc p-3">
+
+Follow same rules to add **Pivot** or **Join** **data** from another Dataset.
+
+Click **Apply** when you finish all your changes.
+ 
+
+
+
+
 
 
 
