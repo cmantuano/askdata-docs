@@ -52,7 +52,7 @@ entries:
       url: docs/search-results
       output: web, pdf
       
-    - title: Explore Searched Data Card
+    - title: Explore Data Card
       url: docs/explore-data-card
       output: web, pdf 
 
