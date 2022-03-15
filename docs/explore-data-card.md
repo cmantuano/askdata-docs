@@ -72,7 +72,9 @@ Users can add one or more comments. Add your comment to a text box and click **S
 
 Find more details about Askdata collaboration tool in [Working with others](/docs/working-with-others).
 
-3. Tools for working with Data Card view.
+**3.** **Tools** **for** **working** **with** **Data** **Card** **view.**
+
+These tools are located on the top of the Data Card. 
 
 <img src="/media/user-guide/searchres_1.png" class="image-doc p-3">
 
