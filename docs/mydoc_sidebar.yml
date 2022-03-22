@@ -67,6 +67,10 @@ entries:
     - title: Working with others
       url: docs/working-with-others
       output: web, pdf
+      
+    - title: Examples of usage
+      url: docs/examples_of_usage
+      output: web, pdf
 
   - title: Admin Guide
     output: web, pdf
