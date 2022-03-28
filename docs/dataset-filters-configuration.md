@@ -92,3 +92,94 @@ This is an example of an advanced filter that is applied to the dataset to autom
 
 ```
 
+
+### ChangeQuery
+Another feature is the ability to update the query that is running.
+Let's consider the following example and discover how it's simple to add some behavior by adding *changeQuery* property.
+```
+[
+   {
+      "when" : "query.hasAnyEntity('COUNTRY')", 
+      "changeQuery" : {
+         "addFields" : ["SALES"], 
+         "addOrderBy" : ["SALES DESC"], 
+   }
+]
+```
+If the current query is asking for a COUNTRY then, we want add a new field like SALES that we think is useful for the end user and update the sorting by using SALES in DESC order.
+
+Even, it's possibile to apply more complex filters like those that use values from another dataset (similarly to SQL subselect).
+The next case will show how to execute a transient query in order to retrieve the entity YEAR from sales dataset sorted in DESC order and add the first value in a new filter of a user query.
+```
+[
+   {
+      "when" : "query.hasAnyEntity('SALES')", 
+      "changeQuery" : {
+         "addFilters" : [ "YEAR IN '{{my_date.0.YEAR}}'" ], 
+         "let" : {
+            "my_date" : {
+               "fields" : [ "YEAR" ], 
+               "orderBy" : [ "YEAR DESC" ], 
+               "dataset" : "sales_dataset"
+            }
+         }
+      }
+   }
+]
+```
+
+This is possible by ```let``` tag that holds the data that comes from a new transient query. 
+In particular:
+```
+    "let" : {
+            "my_date" : {
+               "fields" : [ "YEAR" ], 
+               "orderBy" : [ "YEAR DESC" ], 
+               "dataset" : "sales_dataset"
+            }
+   }
+```
+"my_date" is a name that users can choose to significantly assign to the data that the sub-query will return. 
+Please note that the use of this name is to address the data into the template used in addFilters tag.
+```
+ "addFilters" : [ "YEAR IN '{{my_date.0.YEAR}}'" ], 
+```
+_{{my_date.0.YEAR}}_ means "use the value of YEAR contained in the first row of resultset"
+| YEAR    | 
+|:-------:|
+| _2022_  |
+| 2021    |
+| 2020    |
+
+
+Other fields are:
+- _fields_, is the list of wanted fields. It's possible to use aggregation functions like MAX YEAR for example.
+- _orderBy_, is the list of sorting 
+- _dataset_, is the *slug* od dataset on which to execute the query. 
+
+Hence, the final query will have "YEAR IN 2022".
+
+ChangeQuery provides the possibility to add charts to the resulting card too. The only need is to add the type of wanted chart, like in the example.
+```[
+   {
+      "when" : "query.hasAnyEntity('SALES')", 
+      "changeQuery" : {
+          "addChart" : [ "donut" ]
+      }
+   }
+]
+```
+The possible chart types are:
+- HORIZONTAL_BAR,
+- LINE,
+- PIE,
+- RADAR,
+- DONUT,
+- VERTICAL_BAR,
+- STACKED_AREA,
+- STACKED_HORIZONTAL,
+- STACKED_VERTICAL
+ 
+
+ All these capabilities are usable together.
+
